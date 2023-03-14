@@ -1,0 +1,2746 @@
+[2023-03-14 16:07:08] WARNING discord.client PyNaCl is not installed, voice will NOT be supported
+[2023-03-14 16:07:08] INFO discord.client logging in using static token
+[2023-03-14 16:07:09] INFO discord.gateway Shard ID None has connected to Gateway (Session ID: 778866420302736f0b59a13b2858f4ea).
+[2023-03-14 16:07:11] INFO discord Loading cogs...
+[2023-03-14 16:07:11] INFO discord [chat] cog loaded.
+[2023-03-14 16:07:11] INFO discord [superuser] cog loaded.
+[2023-03-14 16:07:11] INFO discord Connected to Discord (latency: 257 ms).
+[2023-03-14 16:07:11] INFO discord Farizzki ready.
+[2023-03-14 16:08:48] WARNING discord.client PyNaCl is not installed, voice will NOT be supported
+[2023-03-14 16:08:48] INFO discord.client logging in using static token
+[2023-03-14 16:08:50] INFO discord.gateway Shard ID None has connected to Gateway (Session ID: 37e9b68ad7d722a7d7cdf9e5e903b0f5).
+[2023-03-14 16:08:52] INFO discord Loading cogs...
+[2023-03-14 16:08:52] INFO discord [chat] cog loaded.
+[2023-03-14 16:08:52] INFO discord [superuser] cog loaded.
+[2023-03-14 16:08:52] INFO discord Connected to Discord (latency: 254 ms).
+[2023-03-14 16:08:52] INFO discord Farizzki ready.
+[2023-03-14 16:09:00] INFO discord Write: chatnya kehapus?
+[2023-03-14 16:09:00] INFO discord Write: chatnya kehapus?
+[2023-03-14 16:09:00] INFO discord Write: waw ilang
+[2023-03-14 16:09:01] INFO discord Write: mw cees g?
+[2023-03-14 16:09:01] INFO discord Write: malem say
+[2023-03-14 16:09:01] INFO discord Write: invit lagi
+[2023-03-14 16:09:01] INFO discord Write: maen yogz
+[2023-03-14 16:09:01] INFO discord Write: <@!333542428395044864> sini
+[2023-03-14 16:09:01] INFO discord Write: Aq lom solat baru beol
+[2023-03-14 16:09:01] INFO discord Write: Aq lom solat baru beol
+[2023-03-14 16:09:01] INFO discord Write: beli popmi
+[2023-03-14 16:09:01] INFO discord Write: minyak bumbunya masih di plastik masukin ke dalem'
+[2023-03-14 16:09:01] INFO discord Write: minyak bumbunya masih di plastik masukin ke dalem'
+[2023-03-14 16:09:01] INFO discord Write: goblog wokwowkwoiwkw
+[2023-03-14 16:09:01] ERROR discord.ext.commands.bot Ignoring exception in command nuke
+Traceback (most recent call last):
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\discord\ext\commands\core.py", line 229, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\arta\Desktop\Farizzki\src\cogs\chat\chat.py", line 92, in nuke_discord
+    for res in langdetect.detect_langs(msg.content):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\langdetect\detector_factory.py", line 137, in detect_langs
+    return detector.get_probabilities()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\langdetect\detector.py", line 143, in get_probabilities
+    self._detect_block()
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\langdetect\detector.py", line 150, in _detect_block
+    raise LangDetectException(ErrorCode.CantDetectError, 'No features in text.')
+langdetect.lang_detect_exception.LangDetectException: No features in text.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\discord\ext\commands\bot.py", line 1350, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\discord\ext\commands\core.py", line 1023, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\discord\ext\commands\core.py", line 238, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: LangDetectException: No features in text.
+[2023-03-14 16:15:17] WARNING discord.client PyNaCl is not installed, voice will NOT be supported
+[2023-03-14 16:15:17] INFO discord.client logging in using static token
+[2023-03-14 16:15:19] INFO discord.gateway Shard ID None has connected to Gateway (Session ID: 0522ddb0312be121aa77a72686052b66).
+[2023-03-14 16:15:21] INFO discord Loading cogs...
+[2023-03-14 16:15:21] INFO discord [chat] cog loaded.
+[2023-03-14 16:15:21] INFO discord [superuser] cog loaded.
+[2023-03-14 16:15:21] INFO discord Connected to Discord (latency: 261 ms).
+[2023-03-14 16:15:21] INFO discord Farizzki ready.
+[2023-03-14 16:15:35] WARNING discord.client PyNaCl is not installed, voice will NOT be supported
+[2023-03-14 16:15:35] INFO discord.client logging in using static token
+[2023-03-14 16:15:37] INFO discord.gateway Shard ID None has connected to Gateway (Session ID: d545824c077af503a17c7221ea22fac3).
+[2023-03-14 16:15:39] INFO discord Loading cogs...
+[2023-03-14 16:15:39] INFO discord [chat] cog loaded.
+[2023-03-14 16:15:39] INFO discord [superuser] cog loaded.
+[2023-03-14 16:15:39] INFO discord Connected to Discord (latency: 256 ms).
+[2023-03-14 16:15:39] INFO discord Farizzki ready.
+[2023-03-14 16:15:56] INFO discord Write: belum bisa sayang
+[2023-03-14 16:15:56] INFO discord Write: masih belum punya data
+[2023-03-14 16:15:56] INFO discord Write: belum bang
+[2023-03-14 16:15:57] INFO discord Write: kalo ga prompt nya pas kita kasih "?" aja
+[2023-03-14 16:15:57] INFO discord Write: untung gua filter ngentod
+[2023-03-14 16:15:57] INFO discord Write: add respon dengan pic
+[2023-03-14 16:15:57] INFO discord Write: kosakata cuma punya 2 anying
+[2023-03-14 16:15:57] INFO discord Write: bilang nigger sama ngirim gambar
+[2023-03-14 16:15:57] INFO discord Write: en atau id?
+[2023-03-14 16:15:57] INFO discord Write: atau campur?
+[2023-03-14 16:15:57] INFO discord Write: au ah kontol
+[2023-03-14 16:15:57] INFO discord Write: masa gua tanya
+[2023-03-14 16:15:57] INFO discord Write: indo aja bener berarti
+[2023-03-14 16:15:57] INFO discord Write: bang tau ga kalo lu itu kontol
+[2023-03-14 16:15:57] INFO discord Write: masa ini bahasa thailand sih ah gajelas
+[2023-03-14 16:15:57] INFO discord Write: ah gatau lah mumet
+[2023-03-14 16:15:57] INFO discord Write: lu asik bang
+[2023-03-14 16:15:57] INFO discord Write: ini tinggal masukin data aja ini biar kenyang
+[2023-03-14 16:16:37] INFO discord Write: chatnya kehapus?
+[2023-03-14 16:16:37] INFO discord Write: Aq lom solat baru beol
+[2023-03-14 16:16:37] INFO discord Write: minyak bumbunya masih di plastik masukin ke dalem'
+[2023-03-14 16:16:38] INFO discord Write: dah ssetengah jam
+[2023-03-14 16:16:38] INFO discord Write: <@333542428395044864> jadi g
+[2023-03-14 16:16:38] INFO discord Write: wow sembuh
+[2023-03-14 16:16:38] INFO discord Write: kambuh lagi klntol
+[2023-03-14 16:16:38] INFO discord Write: sabar anjing
+[2023-03-14 16:16:38] INFO discord Write: ntaran dah abis maghrib
+[2023-03-14 16:16:38] INFO discord Write: setengah 7 lah
+[2023-03-14 16:16:38] INFO discord Write: aku ada suaranya g?
+[2023-03-14 16:16:38] INFO discord Write: aq diliatinbotjah
+[2023-03-14 16:16:38] INFO discord Write: bentar aku ambil minum dulu
+[2023-03-14 16:16:38] INFO discord Write: Bentar makan
+[2023-03-14 16:16:38] INFO discord Write: Setengah 1 aq balik
+[2023-03-14 16:16:39] INFO discord Write: wait makan juga gan
+[2023-03-14 16:16:39] INFO discord Write: pindah pc
+[2023-03-14 16:16:39] INFO discord Write: penuh :((
+[2023-03-14 16:16:39] INFO discord Write: <@!458449942370058271> ntar klo udah ping ae
+[2023-03-14 16:16:39] INFO discord Write: ga denger aku nih>
+[2023-03-14 16:16:39] INFO discord Write: ga di mute?
+[2023-03-14 16:16:39] INFO discord Write: ntaran mi
+[2023-03-14 16:16:39] INFO discord Write: lagi update sih
+[2023-03-14 16:16:39] INFO discord Write: <@458449942370058271> hayok, aku ngirim msg di ig ga kekirim terus
+[2023-03-14 16:16:39] INFO discord Write: ujian malah surfing ajg
+[2023-03-14 16:16:39] INFO discord Write: hari terakhr nyantuy
+[2023-03-14 16:16:39] INFO discord Write: tak selesain semua abis zuhur
+[2023-03-14 16:16:39] INFO discord Write: eh sebelum
+[2023-03-14 16:16:39] INFO discord Write: <@!458449942370058271> kamu di deafen
+[2023-03-14 16:16:39] INFO discord Write: sama mute
+[2023-03-14 16:16:39] INFO discord Write: aku ngelag
+[2023-03-14 16:16:39] INFO discord Write: tunggu restart wifi
+[2023-03-14 16:16:39] INFO discord Write: klo dah selese ping ya
+[2023-03-14 16:16:39] INFO discord Write: bentar ga ad suaranya
+[2023-03-14 16:16:39] INFO discord Write: kenapa gan?
+[2023-03-14 16:16:40] INFO discord Write: sini dah
+[2023-03-14 16:16:40] INFO discord Write: mati lampu ajg
+[2023-03-14 16:16:40] INFO discord Write: pas lu ilang aku ngelag dong dikeroyok zombie
+[2023-03-14 16:16:40] INFO discord Write: bentar aku blom makan
+[2023-03-14 16:16:40] INFO discord Write: semangat gan
+[2023-03-14 16:16:40] INFO discord Write: **Tenggat: 23.59** santuy ah
+[2023-03-14 16:16:40] INFO discord Write: tugasnya ap sih gan
+[2023-03-14 16:16:40] INFO discord Write: terkait covid
+[2023-03-14 16:16:40] INFO discord Write: setiap poin sebutkan 5 dan jelaskan
+[2023-03-14 16:16:40] INFO discord Write: lagunya di hitsound ajg
+[2023-03-14 16:16:40] INFO discord Write: owo salah map cok
+[2023-03-14 16:16:40] INFO discord Write: ngajak ribut
+[2023-03-14 16:16:40] INFO discord Write: lagunya dihitsound
+[2023-03-14 16:16:41] INFO discord Write: nanti aku lom makan
+[2023-03-14 16:16:41] INFO discord Write: aku ada curse
+[2023-03-14 16:16:41] INFO discord Write: aku lagi donlod
+[2023-03-14 16:16:41] INFO discord Write: ajg ketiduran aq
+[2023-03-14 16:16:41] INFO discord Write: ntar malem maen yok
+[2023-03-14 16:16:41] INFO discord Write: gajadi ngantuk aku
+[2023-03-14 16:16:41] INFO discord Write: malah bangun ajg
+[2023-03-14 16:16:41] INFO discord Write: maen yok dah
+[2023-03-14 16:16:41] INFO discord Write: malah bingung aku
+[2023-03-14 16:16:41] INFO discord Write: youtube gada konten bagus sih
+[2023-03-14 16:16:41] INFO discord Write: malem ae pusink saia
+[2023-03-14 16:16:41] INFO discord Write: 5 akar 2 kuadrat berapa
+[2023-03-14 16:16:41] INFO discord Write: 10 atau 59
+[2023-03-14 16:16:41] INFO discord Write: 5 akar 2 kuadrat?
+[2023-03-14 16:16:41] INFO discord Write: katanya gugel classroom
+[2023-03-14 16:16:41] INFO discord Write: kan di hp
+[2023-03-14 16:16:41] INFO discord Write: nih soalnya yak
+[2023-03-14 16:16:41] INFO discord Write: dih kesummon
+[2023-03-14 16:16:42] INFO discord Write: tak photomath?
+[2023-03-14 16:16:42] INFO discord Write: aku tau caranya
+[2023-03-14 16:16:42] INFO discord Write: ini doang
+[2023-03-14 16:16:42] INFO discord Write: 5 akar 2 kuiadrta berapa
+[2023-03-14 16:16:42] INFO discord Write: coba pake tanda kurung
+[2023-03-14 16:16:42] INFO discord Write: yg dikuadrat duanya
+[2023-03-14 16:16:42] INFO discord Write: apa keseluruhannya
+[2023-03-14 16:16:42] INFO discord Write: fuk
+/
+[2023-03-14 16:16:42] INFO discord Write: 5 akar 2 itu dikuadraat semua
+[2023-03-14 16:16:42] INFO discord Write: apa itu tadi
+[2023-03-14 16:16:42] INFO discord Write: scriptku ga bisa dipake di snapshot
+[2023-03-14 16:16:42] INFO discord Write: tapi gw ada car lain buat afk fishing mwehehehehehe
+[2023-03-14 16:16:43] INFO discord Write: mw tak bikin 24h og
+[2023-03-14 16:16:43] INFO discord Write: '(aksen) setelah tumbukan
+[2023-03-14 16:16:43] INFO discord Write: bagus anjir namanya
+[2023-03-14 16:16:43] INFO discord Write: 1 menit
+[2023-03-14 16:16:43] INFO discord Write: itu peecobaan
+[2023-03-14 16:16:43] INFO discord Write: aku bilang
+[2023-03-14 16:16:43] INFO discord Write: terus kok brightnessnya ga ngurang
+[2023-03-14 16:16:43] INFO discord Write: makanya absurd
+[2023-03-14 16:16:43] INFO discord Write: klo bagus, aku bikin farm, klo ga aku pindah tempat
+[2023-03-14 16:16:43] INFO discord Write: dan gaada ygbagus ajg >:(
+[2023-03-14 16:16:43] INFO discord Write: bikin jengkel
+[2023-03-14 16:16:43] INFO discord Write: lagassistnya nge prevent iron golem ngesummon ya?
+[2023-03-14 16:16:43] INFO discord Write: mana saia tahu
+[2023-03-14 16:16:43] INFO discord Write: jadi 50 gitu :V
+[2023-03-14 16:16:43] INFO discord Write: lu mw masuk
+[2023-03-14 16:16:44] INFO discord Write: dikick terus
+[2023-03-14 16:16:44] INFO discord Write: <@!458449942370058271> aku mandi dlo
+[2023-03-14 16:16:44] INFO discord Write: ilangin aj semua pluginnya coba
+[2023-03-14 16:16:44] INFO discord Write: klo ngelag tambah lagi lagassist nya
+[2023-03-14 16:16:44] INFO discord Write: klo plugin nya banyak kan juga bikin ngelag
+[2023-03-14 16:16:44] INFO discord Write: fak aku lagi ga ngeliatin discord
+[2023-03-14 16:16:44] INFO discord Write: mcmmo nya ga sekalian dihapus cuk?
+[2023-03-14 16:16:45] INFO discord Write: ok lah
+[2023-03-14 16:16:45] INFO discord Write: wasu 32 menit
+[2023-03-14 16:16:45] INFO discord Write: aku triggered nih anjing
+[2023-03-14 16:16:45] INFO discord Write: ah btw aku lagi ngeexpand storage roomnya
+[2023-03-14 16:16:45] INFO discord Write: <@!458449942370058271> offlen ajg katanya mw di start
+[2023-03-14 16:16:45] INFO discord Write: au ah
+[2023-03-14 16:16:45] INFO discord Write: aku pen rewatch ama park e
+[2023-03-14 16:16:45] INFO discord Write: lu bisa main arknights cn?
+[2023-03-14 16:16:45] INFO discord Write: susah ajg reg nya
+[2023-03-14 16:16:45] INFO discord Write: harus pake number phone
+[2023-03-14 16:16:45] INFO discord Write: kode otpnya ga kekirim2
+[2023-03-14 16:16:45] INFO discord Write: bukan 08xx
+[2023-03-14 16:16:45] INFO discord Write: ga bisa tetepan
+[2023-03-14 16:16:46] INFO discord Write: 2b2t apaan ajg
+[2023-03-14 16:16:46] INFO discord Write: ngajak gelud
+[2023-03-14 16:16:46] INFO discord Write: gabisa konek aku
+[2023-03-14 16:16:46] INFO discord Write: <@!657831088483205120> main. arknight. ga.
+[2023-03-14 16:16:47] INFO discord Write: jadi rar
+[2023-03-14 16:16:47] INFO discord Write: di ganti jadi .rar
+[2023-03-14 16:16:47] INFO discord Write: di compress apa diganti nama filenya
+[2023-03-14 16:16:47] INFO discord Write: jadi .rar
+[2023-03-14 16:16:47] INFO discord Write: jadi maksudnya dimasukin manual -_-
+[2023-03-14 16:16:47] INFO discord Write: skinnya minim animasi sekali
+[2023-03-14 16:16:47] INFO discord Write: jadi kek pro pler yg konsennya ke gameplay doang wokwokwok
+[2023-03-14 16:16:47] INFO discord Write: filenya tambah fgede ntar
+[2023-03-14 16:16:47] INFO discord Write: skinnya beastroll 100mb lebih cuma buat animasi hp bar
+[2023-03-14 16:16:47] INFO discord Write: <@!458449942370058271> lu kan pedo coba cari keanehan di mp3 ini
+[2023-03-14 16:16:47] INFO discord Write: aku ga ngerti makanya nanya
+[2023-03-14 16:16:47] INFO discord Write: kek pernah denger
+[2023-03-14 16:16:47] INFO discord Write: tapi lupa
+[2023-03-14 16:16:47] INFO discord Write: ada yg bilang ishuzoku reviewer
+[2023-03-14 16:16:47] INFO discord Write: aku belum perna denger ver cewenya
+[2023-03-14 16:16:47] INFO discord Write: lu bikin aku bingung ajg
+[2023-03-14 16:16:48] INFO discord Write: lu bilang aku pedo makanya bayanganku ke anime loli
+[2023-03-14 16:16:48] INFO discord Write: ini dari vocaloid keknya
+[2023-03-14 16:16:48] INFO discord Write: judulnya fukkireta
+[2023-03-14 16:16:48] INFO discord Write: sori laguku cuma kano dan aimer
+[2023-03-14 16:16:48] INFO discord Write: cuman cukup terkenal
+[2023-03-14 16:16:48] INFO discord Write: aku tu kek pernah dengerrrr
+[2023-03-14 16:16:49] INFO discord Write: ah gimana ya
+[2023-03-14 16:16:49] INFO discord Write: aku dengernya versi doki doki
+[2023-03-14 16:16:49] INFO discord Write: aku kirim link ig ya
+[2023-03-14 16:16:49] INFO discord Write: <@458449942370058271> gabisa aku terlalu ngelag ajg REEEEEEE
+[2023-03-14 16:16:49] INFO discord Write: aku pengen bikin sub base
+[2023-03-14 16:16:49] INFO discord Write: deket pulau jamur
+[2023-03-14 16:16:49] INFO discord Write: Ga di jamurnya sekalian
+[2023-03-14 16:16:49] INFO discord Write: aku bikin jalur ke timur dulu
+[2023-03-14 16:16:49] INFO discord Write: terus ngarah ke utara paas ke pulau jamur
+[2023-03-14 16:16:49] INFO discord Write: <@!458449942370058271> udahan gan ngantuk
+[2023-03-14 16:16:49] INFO discord Write: <@!333542428395044864>  entah kenapa playable banget buat aku
+[2023-03-14 16:16:49] INFO discord Write: butuh improement sih
+[2023-03-14 16:16:49] INFO discord Write: aku saking ngelagnya ga bisa buka beatmap central
+[2023-03-14 16:16:49] INFO discord Write: aku bikin juga lah
+[2023-03-14 16:16:49] INFO discord Write: tapi cuma ditengah2
+[2023-03-14 16:16:49] INFO discord Write: coba tak otak atik dulu
+[2023-03-14 16:16:50] INFO discord Write: slimenya ga tertarik sama golem
+[2023-03-14 16:16:50] INFO discord Write: mungkin karna belom ada 6
+[2023-03-14 16:16:50] INFO discord Write: golemnyta kurang 1
+[2023-03-14 16:16:50] INFO discord Write: lu yang bikin og
+[2023-03-14 16:16:50] INFO discord Write: itu diatas apa dibawah
+[2023-03-14 16:16:50] INFO discord Write: kan golemnya kurang 1 Q_Q
+[2023-03-14 16:16:50] INFO discord Write: pernah ga ngerasain
+[2023-03-14 16:16:50] INFO discord Write: megang hp aja males
+[2023-03-14 16:16:50] INFO discord Write: mager yang utama
+[2023-03-14 16:16:50] INFO discord Write: kalo ngerasa sih pernah
+[2023-03-14 16:16:50] INFO discord Write: cuma ga tak turutin
+[2023-03-14 16:16:50] INFO discord Write: mesti mikir sesuatu
+[2023-03-14 16:16:50] INFO discord Write: aku dah lewat sih
+[2023-03-14 16:16:50] INFO discord Write: kalo bosen banget ya baca quran
+[2023-03-14 16:16:50] INFO discord Write: dari jam 2 - 7 tadi ga ngapa ngapain
+[2023-03-14 16:16:50] INFO discord Write: kalo kek gitu mending nyelesain tugas yang belom selesai atw tugas besok klo ga ya baca quran
+[2023-03-14 16:16:50] INFO discord Write: daripada ga ngapa-ngapain
+[2023-03-14 16:16:50] INFO discord Write: ngangkat hp aja ga ada tenaga
+[2023-03-14 16:16:50] INFO discord Write: coba bikin mindset kalo ga ngapa2in malah ga berguna, se engganya ya melakukan sesuatu walaupun cuma iseng
+[2023-03-14 16:16:50] INFO discord Write: itu ga boleh
+[2023-03-14 16:16:51] INFO discord Write: ko nyambungnya ke coli sih asw
+[2023-03-14 16:16:51] INFO discord Write: kan ada orang yg kalo gabut gitu
+[2023-03-14 16:16:51] INFO discord Write: larinya ke coli
+[2023-03-14 16:16:51] INFO discord Write: dapet hidayah
+[2023-03-14 16:16:51] INFO discord Write: ada orang yang berpendapat kalo melihat aurat lawan jenis tanpa hawa nafsu itu ga dosa sama sekali, pendapatmu gimana gan <@!458449942370058271>
+[2023-03-14 16:16:51] INFO discord Write: gw dah biasa
+[2023-03-14 16:16:51] INFO discord Write: pic nya itu yang kamu liat gambaran apa orang asli?
+[2023-03-14 16:16:51] INFO discord Write: aku jarang banget yang asli ya
+[2023-03-14 16:16:51] INFO discord Write: cuman di nh ad mesti ada
+[2023-03-14 16:16:51] INFO discord Write: jadi sekilas keliatan
+[2023-03-14 16:16:51] INFO discord Write: iya kalo ad gitu ga bakal ngaceng jijik aku anjiing
+[2023-03-14 16:16:51] INFO discord Write: tapi ya
+[2023-03-14 16:16:51] INFO discord Write: iklan di nh yg bokep 3d sampah semua ajg
+[2023-03-14 16:16:51] INFO discord Write: ga bikin ngaceng bikin muntah taik
+[2023-03-14 16:16:51] INFO discord Write: aku jarang banget bokep 3d
+[2023-03-14 16:16:51] INFO discord Write: hampir ga pernah
+[2023-03-14 16:16:52] INFO discord Write: cuman pas awalan kenal bokep doang
+[2023-03-14 16:16:52] INFO discord Write: habis itu tobat
+[2023-03-14 16:16:52] INFO discord Write: kalo aku biasanya masih liat kalo ada yang tiba2 viral
+[2023-03-14 16:16:52] INFO discord Write: temen laknatku mengenalkan dunia suram ini kepadaku saat kelas 1 smp
+[2023-03-14 16:16:52] INFO discord Write: klo yng viral aku liat cuman. pen tau
+[2023-03-14 16:16:52] INFO discord Write: aku dari sd kelas 2 atw 3 gitu
+[2023-03-14 16:16:52] INFO discord Write: dah tau bokep
+[2023-03-14 16:16:52] INFO discord Write: bokep pertamaku ya
+[2023-03-14 16:16:52] INFO discord Write: salam pramuka
+[2023-03-14 16:16:52] INFO discord Write: kalo aku dulu pas main di rumah temenku nih
+[2023-03-14 16:16:52] INFO discord Write: dia nyetel bokep kan
+[2023-03-14 16:16:52] INFO discord Write: kawanmu itu laknat sekali
+[2023-03-14 16:16:52] INFO discord Write: aku ketawa liat titid masuk pantad
+[2023-03-14 16:16:52] INFO discord Write: masih sd
+[2023-03-14 16:16:52] INFO discord Write: ajg lah
+[2023-03-14 16:16:52] INFO discord Write: aku ketawa bgsd
+[2023-03-14 16:16:52] INFO discord Write: malah dimarahin
+[2023-03-14 16:16:52] INFO discord Write: ya kan botjah
+[2023-03-14 16:16:52] INFO discord Write: kok pada marah asw
+[2023-03-14 16:16:52] INFO discord Write: kan lucu ya
+[2023-03-14 16:16:52] INFO discord Write: dia nyetel orang tiba2 masukin titid ke pantad
+[2023-03-14 16:16:52] INFO discord Write: klo aku dikasih asupan gitu ya ketawa juga mungkin aku
+[2023-03-14 16:16:52] INFO discord Write: aku pernah lihat video
+[2023-03-14 16:16:52] INFO discord Write: cewe kelihatan perutnya aja ketawa og aku
+[2023-03-14 16:16:52] INFO discord Write: sama temenku
+[2023-03-14 16:16:52] INFO discord Write: aku kelas brp ya
+[2023-03-14 16:16:52] INFO discord Write: 2 keknya
+[2023-03-14 16:16:52] INFO discord Write: sangat polos gituan ketawa
+[2023-03-14 16:16:52] INFO discord Write: jaman minecraft beta :3
+[2023-03-14 16:16:52] INFO discord Write: jaman main osu pertama di ipad bude
+[2023-03-14 16:16:52] INFO discord Write: osu pertama aku main sih sma temenki
+[2023-03-14 16:16:52] INFO discord Write: ada lagunya
+[2023-03-14 16:16:52] INFO discord Write: anjay bunder bunder
+[2023-03-14 16:16:52] INFO discord Write: mbak ku sendiri
+[2023-03-14 16:16:52] INFO discord Write: mantep ajg
+[2023-03-14 16:16:52] INFO discord Write: jarinya kek flash
+[2023-03-14 16:16:52] INFO discord Write: aku gapernah liat temen jago main rythm game
+[2023-03-14 16:16:52] INFO discord Write: asik anjir liat orang jago main rythm game
+[2023-03-14 16:16:52] INFO discord Write: kek gimanaa gitu
+[2023-03-14 16:16:52] INFO discord Write: pengen bisa gitu
+[2023-03-14 16:16:52] INFO discord Write: iya cuk ngehype pas dia main
+[2023-03-14 16:16:52] INFO discord Write: tapi juga rasanya mustahil
+[2023-03-14 16:16:53] INFO discord Write: dulu liat elu main 5* ngehype aku jir
+[2023-03-14 16:16:53] INFO discord Write: aku dah ga sehalus dulu megang mousenya
+[2023-03-14 16:16:53] INFO discord Write: cuma mungkin klo ini gara2 kurang main aja tiap harinya
+[2023-03-14 16:16:53] INFO discord Write: dulu sebulan play count nya 4k
+[2023-03-14 16:16:53] INFO discord Write: sekarang 2k aj ga sampe
+[2023-03-14 16:16:53] INFO discord Write: dah ga terlalu sering
+[2023-03-14 16:16:53] INFO discord Write: aku sering seringnya tahun kemaren
+[2023-03-14 16:16:53] INFO discord Write: dah hobi mapping
+[2023-03-14 16:16:53] INFO discord Write: iya jir aku liat kamu mau fc zen zense ampir teriak
+[2023-03-14 16:16:53] INFO discord Write: aku malah aimnya jelek skrg
+[2023-03-14 16:16:53] INFO discord Write: tapi readingku impruv
+[2023-03-14 16:16:53] INFO discord Write: stream mu byutipul anjir
+[2023-03-14 16:16:53] INFO discord Write: aku impruvnya finger control sama aim control
+[2023-03-14 16:16:53] INFO discord Write: tapi stamina belum bagus :(
+[2023-03-14 16:16:53] INFO discord Write: yang penting bisa alternate :3
+[2023-03-14 16:16:53] INFO discord Write: klo dulu yang penting pp
+[2023-03-14 16:16:53] INFO discord Write: skrg yang penting aseek
+[2023-03-14 16:16:53] INFO discord Write: hanjir bener banget owkowkwokwok
+[2023-03-14 16:16:53] INFO discord Write: dah ga kompetitif lagi
+[2023-03-14 16:16:53] INFO discord Write: makanya bikin map yang enak buat aku mainin :3
+[2023-03-14 16:16:53] INFO discord Write: kira2 motivasi nya apa dulu buat up rank ya
+[2023-03-14 16:16:53] INFO discord Write: dear doppelganger itu enak banget ajg main
+[2023-03-14 16:16:53] INFO discord Write: > dear doppelganger itu enak banget ajg main
+[2023-03-14 16:16:53] INFO discord Write: kasih apa
+[2023-03-14 16:16:53] INFO discord Write: yg aku lom di update
+[2023-03-14 16:16:53] INFO discord Write: aku updatenya juga jarang
+[2023-03-14 16:16:53] INFO discord Write: sek tak cek dulu
+[2023-03-14 16:16:53] INFO discord Write: aku minin yg better sama mai feelin
+[2023-03-14 16:16:53] INFO discord Write: <@!458449942370058271> dah tidur
+[2023-03-14 16:16:54] INFO discord Write: dah adzan 9 menit ajg
+[2023-03-14 16:16:54] INFO discord Write: yodahlah ntar aja mungkin disuruh nunggu waktu berbuka Q_Q
+[2023-03-14 16:16:54] INFO discord Write: mati lampu :(
+[2023-03-14 16:16:54] INFO discord Write: timelapsenya besok gan
+[2023-03-14 16:16:54] INFO discord Write: aku juga
+[2023-03-14 16:16:54] INFO discord Write: aku mati lagi tadi
+[2023-03-14 16:16:54] INFO discord Write: aku di hit?
+[2023-03-14 16:16:54] INFO discord Write: aku ke dc pas lu ga gerak
+[2023-03-14 16:16:54] INFO discord Write: aku g pernah liat lu gerak
+[2023-03-14 16:16:54] INFO discord Write: kek pas ngelag gitu
+[2023-03-14 16:16:54] INFO discord Write: aku jalan ke kamu
+[2023-03-14 16:16:54] INFO discord Write: tpake tangan
+[2023-03-14 16:16:54] INFO discord Write: dah bisa konek
+[2023-03-14 16:16:54] INFO discord Write: nyerah gan?
+[2023-03-14 16:16:55] INFO discord Write: <@!458449942370058271> keknya lifntya jgn pake aer deh wkwkwk
+[2023-03-14 16:16:55] INFO discord Write: aku ganti ya
+[2023-03-14 16:16:55] INFO discord Write: aku dah punya design lift pake flying machine
+[2023-03-14 16:16:55] INFO discord Write: farmnya efektif ga?
+[2023-03-14 16:16:55] INFO discord Write: aku pengen tambahin lava malh kacau
+[2023-03-14 16:16:55] INFO discord Write: pas aku bikin tu farm ada disaster ajg
+[2023-03-14 16:16:55] INFO discord Write: untung barangku ga nyemplung lava
+[2023-03-14 16:16:55] INFO discord Write: aku liat di deket tempat guardian jatoh ada mineshaftnya?
+[2023-03-14 16:16:55] INFO discord Write: cuma hitnya terlalu jauh
+[2023-03-14 16:16:55] INFO discord Write: klo ada knockback dia kepental ke belakang banget ga bisa di hit lagi
+[2023-03-14 16:16:55] INFO discord Write: harus nunggu lkompat ke depan
+[2023-03-14 16:16:55] INFO discord Write: mati lampu? :V
+[2023-03-14 16:16:55] INFO discord Write: mau main?
+[2023-03-14 16:16:55] INFO discord Write: aku males buka firefox
+[2023-03-14 16:16:55] INFO discord Write: lebaran tanpa penghasilan
+[2023-03-14 16:16:56] INFO discord Write: dah mulai <@!458449942370058271>
+[2023-03-14 16:16:56] INFO discord Write: ntaran abis solat
+[2023-03-14 16:16:56] INFO discord Write: <@!458449942370058271> dah startt
+[2023-03-14 16:16:56] INFO discord Write: aku bikin stream
+[2023-03-14 16:16:56] INFO discord Write: <@!458449942370058271> ntar mau mc?
+[2023-03-14 16:16:56] INFO discord Write: anjay namanya jadi merah
+[2023-03-14 16:16:56] INFO discord Write: Cuma ngebug
+[2023-03-14 16:16:56] INFO discord Write: Warna namanya di discord tu loh
+[2023-03-14 16:16:56] INFO discord Write: Drama apaan tu ajg
+[2023-03-14 16:16:56] INFO discord Write: baru hot di fb
+[2023-03-14 16:16:57] INFO discord Write: dia pengen mati
+[2023-03-14 16:16:57] INFO discord Write: tapi lebay
+[2023-03-14 16:16:57] INFO discord Write: jadi dorama
+[2023-03-14 16:16:57] INFO discord Write: pen mati tinggal bundir gampang
+[2023-03-14 16:16:57] INFO discord Write: yang ini klarifikasinya doang. yg video livenya gaada aq
+[2023-03-14 16:16:57] INFO discord Write: seru ajg
+[2023-03-14 16:16:57] INFO discord Write: mc ngapain yak
+[2023-03-14 16:16:57] INFO discord Write: aku pen lawan doragon e
+[2023-03-14 16:16:57] INFO discord Write: itemku ke despawn
+[2023-03-14 16:16:57] INFO discord Write: jam 7 pagi
+[2023-03-14 16:16:57] INFO discord Write: jam 7 tadi ada backup?
+[2023-03-14 16:16:57] INFO discord Write: tinggal nge rebuild ini lagi
+[2023-03-14 16:16:57] INFO discord Write: gapple ku ga kemakan asu
+[2023-03-14 16:16:57] INFO discord Write: <@!458449942370058271> dah start lagi
+[2023-03-14 16:16:57] INFO discord Write: masih gta gannnn
+[2023-03-14 16:16:57] INFO discord Write: <@!458449942370058271> sekalian makan
+[2023-03-14 16:16:57] INFO discord Write: nemu di meja ajg
+[2023-03-14 16:16:57] INFO discord Write: tllama wanderer kedespawn
+[2023-03-14 16:16:58] INFO discord Write: <@!458449942370058271> mau afk disitu pake kill aura? :v
+[2023-03-14 16:16:58] INFO discord Write: aku disuruh ambil duid
+[2023-03-14 16:16:58] INFO discord Write: mau mandi tapi ada orang
+[2023-03-14 16:16:58] INFO discord Write: mau tak submit soalnya
+[2023-03-14 16:16:58] INFO discord Write: mau tes ga?
+[2023-03-14 16:16:58] INFO discord Write: makan dlo
+[2023-03-14 16:16:58] INFO discord Write: hayuk lah
+[2023-03-14 16:16:58] INFO discord Write: kamu yg bikin deh
+[2023-03-14 16:16:58] INFO discord Write: nanti jadinya generaaaaaal
+[2023-03-14 16:16:59] INFO discord Write: malem aku keknya mati lampu :<
+[2023-03-14 16:16:59] INFO discord Write: sekriknya pake acara rusak segala
+[2023-03-14 16:16:59] INFO discord Write: <@333542428395044864> jadi g?
+[2023-03-14 16:16:59] INFO discord Write: <@!458449942370058271> dah adzan isya cok solat sana
+[2023-03-14 16:16:59] INFO discord Write: gw dipanggil ke sekolah
+[2023-03-14 16:16:59] INFO discord Write: season baru
+[2023-03-14 16:17:00] INFO discord Write: cok, abis begadang jan cancer
+[2023-03-14 16:17:00] INFO discord Write: Dah sering main TD
+[2023-03-14 16:17:00] INFO discord Write: main arknights cuman buat waifu donk
+[2023-03-14 16:17:00] INFO discord Write: blaze mau keluar
+[2023-03-14 16:17:00] INFO discord Write: besok main yok
+[2023-03-14 16:17:00] INFO discord Write: yang penting bisa maen wokawokwaoak
+[2023-03-14 16:17:00] INFO discord Write: Aku 30 fps bisanya di flatworld
+[2023-03-14 16:17:00] INFO discord Write: belum di setting?
+[2023-03-14 16:17:00] INFO discord Write: belum ada optifine ya 1.16
+[2023-03-14 16:17:00] INFO discord Write: Optifine apaan?
+[2023-03-14 16:17:00] INFO discord Write: itu kamu 30fps render distance nya berapaaaaaaaaaa
+[2023-03-14 16:17:00] INFO discord Write: survival startnya di nether
+[2023-03-14 16:17:00] INFO discord Write: kebanyakan nonton yutub
+[2023-03-14 16:17:00] INFO discord Write: asik keknya
+[2023-03-14 16:17:00] INFO discord Write: Di pake untuk Sims 4
+[2023-03-14 16:17:00] INFO discord Write: kecuali world banyak iya
+[2023-03-14 16:17:01] INFO discord Write: ssd ku cuma 128gb ae muat =_=
+[2023-03-14 16:17:01] INFO discord Write: Kalian pake akun legit atau cracked?
+[2023-03-14 16:17:01] INFO discord Write: pake t launcher gan
+[2023-03-14 16:17:01] INFO discord Write: Yah besok Tak cobak install
+[2023-03-14 16:17:01] INFO discord Write: Lagi di pake bmak ku
+[2023-03-14 16:17:01] INFO discord Write: tadi pagi aku abis begadang lagi tidur diceramahin amjink
+[2023-03-14 16:17:01] INFO discord Write: dengerin sambil mati
+[2023-03-14 16:17:01] INFO discord Write: terus tidur bangun jam 11
+[2023-03-14 16:17:01] INFO discord Write: yg mastah
+[2023-03-14 16:17:01] INFO discord Write: aku tidur jam 5
+[2023-03-14 16:17:01] INFO discord Write: bgn jam 7
+[2023-03-14 16:17:01] INFO discord Write: aku dah biasa sih
+[2023-03-14 16:17:01] INFO discord Write: aku pas ngejar tugas
+[2023-03-14 16:17:01] INFO discord Write: hampir ga tidur 3hari anjnk
+[2023-03-14 16:17:01] INFO discord Write: tidur cuma 1jam an
+[2023-03-14 16:17:01] INFO discord Write: Masih punya tugas kamu?
+[2023-03-14 16:17:01] INFO discord Write: ampun mamank
+[2023-03-14 16:17:01] INFO discord Write: aku disuruh bangun setengah 8 aj dying
+[2023-03-14 16:17:01] INFO discord Write: belom ada pemberitahuan bgzd
+[2023-03-14 16:17:01] INFO discord Write: mingdep ya keknya
+[2023-03-14 16:17:01] INFO discord Write: hari pertama tahun baru bi lek
+[2023-03-14 16:17:01] INFO discord Write: tahun baru
+[2023-03-14 16:17:01] INFO discord Write: tahun ajaran baru
+[2023-03-14 16:17:01] INFO discord Write: Bruh aku cobanya yang uta terus
+[2023-03-14 16:17:01] INFO discord Write: Itu udah
+[2023-03-14 16:17:01] INFO discord Write: itu kan 7* asuk
+[2023-03-14 16:17:01] INFO discord Write: <@!657831088483205120> dah bisa mc nya?
+[2023-03-14 16:17:01] INFO discord Write: Barusan bangun
+[2023-03-14 16:17:01] INFO discord Write: Adek ku lagi tidur di Kamar yg Ada laptop nya
+[2023-03-14 16:17:01] INFO discord Write: vrsyn keluar ya
+[2023-03-14 16:17:02] INFO discord Write: Aku kick biar klo @ everyone dia ga keganggu
+[2023-03-14 16:17:02] INFO discord Write: Kalo dia mau join lagi tak invit ntar
+[2023-03-14 16:17:02] INFO discord Write: adekku buka discord pa anjing
+[2023-03-14 16:17:02] INFO discord Write: yep dia buka discord
+[2023-03-14 16:17:02] INFO discord Write: sebelahku main ff
+[2023-03-14 16:17:02] INFO discord Write: dah tak inviiit
+[2023-03-14 16:17:02] INFO discord Write: ni puntyaku
+[2023-03-14 16:17:02] INFO discord Write: cek map dong
+[2023-03-14 16:17:02] INFO discord Write: dayum u simpin my man
+[2023-03-14 16:17:02] INFO discord Write: Di pakek
+[2023-03-14 16:17:02] INFO discord Write: Kayak gituan
+[2023-03-14 16:17:02] INFO discord Write: <@!458449942370058271> aku keluar lobby asw
+[2023-03-14 16:17:03] INFO discord Write: Besok pengen wisuda
+[2023-03-14 16:17:03] INFO discord Write: kamu baru naik sma
+[2023-03-14 16:17:03] INFO discord Write: dah tak submit
+[2023-03-14 16:17:03] INFO discord Write: pending ranked
+[2023-03-14 16:17:03] INFO discord Write: tak kasi hitsound jadi kacau amnjink
+[2023-03-14 16:17:03] INFO discord Write: kok malah jadi kacau bgzd
+[2023-03-14 16:17:03] INFO discord Write: aku ga pernah dengerin custom hitsound <:picardia:724929165123518566>
+[2023-03-14 16:17:03] INFO discord Write: aku juga ga :/
+[2023-03-14 16:17:03] INFO discord Write: kadang suka ada map yang hitsoundnya ga kedengeran tu loh
+[2023-03-14 16:17:03] INFO discord Write: jadi gatau miss apa ngga
+[2023-03-14 16:17:03] INFO discord Write: lu ga latihan ?
+[2023-03-14 16:17:03] INFO discord Write: istirahat adalah bagian dari latihan
+[2023-03-14 16:17:03] INFO discord Write: ga baik maen seharian
+[2023-03-14 16:17:03] INFO discord Write: <@!458449942370058271> ternyata di stream gan
+[2023-03-14 16:17:03] INFO discord Write: ga baik main seharian malah mc :3
+[2023-03-14 16:17:03] INFO discord Write: ga ajak lagi :3
+[2023-03-14 16:17:03] INFO discord Write: akiu bikin map baru btw
+[2023-03-14 16:17:03] INFO discord Write: masih warmup
+[2023-03-14 16:17:03] INFO discord Write: mending ryzen apu lebih murah <:picardia:724929165123518566>
+[2023-03-14 16:17:03] INFO discord Write: Emangnya ryzen lebih bagus?
+[2023-03-14 16:17:03] INFO discord Write: kalo laptop murah bagus cari ryzen
+[2023-03-14 16:17:03] INFO discord Write: kalo mau yg mahal ya pake intel <:picardia:724929165123518566>
+[2023-03-14 16:17:03] INFO discord Write: Rekomendasi 6-7 jutaan?
+[2023-03-14 16:17:03] INFO discord Write: Beli Lenovo ideapad Slim 3 Ryzen 3 4300U 8GB 512GB SSD Win10+OHS BLACK 
+https://tokopedia.link/Ipct31fTR7 di toko Sinarmulia Sukses Makmur Rp7.199.000 di Tokopedia dengan Bebas Ongkir, Sekarang!
+[2023-03-14 16:17:03] INFO discord Write: Barusan selasai kerja bakti
+[2023-03-14 16:17:03] INFO discord Write: wanjay kerja bakti
+[2023-03-14 16:17:03] INFO discord Write: BUT ALLLLLLLLLLLLL
+[2023-03-14 16:17:03] INFO discord Write: aku dah ingame :v
+[2023-03-14 16:17:04] INFO discord Write: sad banget dengernya
+[2023-03-14 16:17:04] INFO discord Write: Cross screen jump nya terlalu cepet
+[2023-03-14 16:17:04] INFO discord Write: aku fail mulu disitu
+[2023-03-14 16:17:05] INFO discord Write: lmao random bet nama sama diff nya ajg males ngasi :/
+[2023-03-14 16:17:05] INFO discord Write: tek <:picardia:724929165123518566>
+[2023-03-14 16:17:05] INFO discord Write: Map nya itu masih wip?
+[2023-03-14 16:17:05] INFO discord Write: Pengen jadi berapa lama?
+[2023-03-14 16:17:05] INFO discord Write: Sampek habis lagunya habis atau experiment?
+[2023-03-14 16:17:05] INFO discord Write: experiment doang keknya
+[2023-03-14 16:17:05] INFO discord Write: aku ngemap klo ada ide doang og
+[2023-03-14 16:17:05] INFO discord Write: aku dah ada yg pending tak submit
+[2023-03-14 16:17:05] INFO discord Write: yg kotak"
+[2023-03-14 16:17:05] INFO discord Write: ketemu di multi
+[2023-03-14 16:17:05] INFO discord Write: ibuku lg zoom dikamarku
+[2023-03-14 16:17:05] INFO discord Write: salah tag ajg
+[2023-03-14 16:17:05] INFO discord Write: ibuku msh dikamar ajggggg
+[2023-03-14 16:17:06] INFO discord Write: masih ada e
+[2023-03-14 16:17:06] INFO discord Write: <@333542428395044864> aq jadi dapet laptop ayah ku yg lama
+[2023-03-14 16:17:06] INFO discord Write: Lebih Mahal dari 7 juta
+[2023-03-14 16:17:06] INFO discord Write: Tak liat dulu
+[2023-03-14 16:17:06] INFO discord Write: laptop 8 juta 6 thn lalu sekarang cuma 3jt an :(
+[2023-03-14 16:17:06] INFO discord Write: laptop dirawat
+[2023-03-14 16:17:06] INFO discord Write: yee ajg itu laptop jatuh garagara ketabrak ajg
+[2023-03-14 16:17:06] INFO discord Write: hanjir gimana ceritanya ketabrak
+[2023-03-14 16:17:06] INFO discord Write: Ramnya 8 GB
+[2023-03-14 16:17:06] INFO discord Write: proc nya bagus
+[2023-03-14 16:17:06] INFO discord Write: belom dikasih
+[2023-03-14 16:17:06] INFO discord Write: siapa tau 1050
+[2023-03-14 16:17:06] INFO discord Write: laptop kerja biasanya ga pake ex gpu
+[2023-03-14 16:17:06] INFO discord Write: download hwinfo64 aj lgsg dapet semua info
+[2023-03-14 16:17:06] INFO discord Write: tapi yg bpku pake
+[2023-03-14 16:17:06] INFO discord Write: tapi ini aku ada
+[2023-03-14 16:17:06] INFO discord Write: be da
+[2023-03-14 16:17:07] INFO discord Write: merknya apa coba
+[2023-03-14 16:17:07] INFO discord Write: sama serinya
+[2023-03-14 16:17:07] INFO discord Write: masuk sekolah biasa mksdnya hwhw
+[2023-03-14 16:17:07] INFO discord Write: semangat pramukanya baru masuk sma <@!657831088483205120>
+[2023-03-14 16:17:07] INFO discord Write: setidaknya ga seburuk smp
+[2023-03-14 16:17:07] INFO discord Write: Nanti aq ada fortasi senin
+[2023-03-14 16:17:07] INFO discord Write: yahahaha fortasi onlen
+[2023-03-14 16:17:07] INFO discord Write: anjaii fortasi
+[2023-03-14 16:17:07] INFO discord Write: Masih suruh pake seragam tapi
+[2023-03-14 16:17:08] INFO discord Write: ga disuruh
+[2023-03-14 16:17:08] INFO discord Write: selamat pagi kaka
+[2023-03-14 16:17:08] INFO discord Write: tai anjing
+[2023-03-14 16:17:08] INFO discord Write: KALIAN JATUH KAN KITA YANG SALAH
+[2023-03-14 16:17:08] INFO discord Write: klo aku jadi panitia yg tak bilangin goblog yg teriak gitu
+[2023-03-14 16:17:08] INFO discord Write: ajg lahh
+[2023-03-14 16:17:08] INFO discord Write: gpu yahudd
+[2023-03-14 16:17:08] INFO discord Write: gpu gausah bagus bisa minecraft og
+[2023-03-14 16:17:08] INFO discord Write: Ayah ku lagi transfer hal yg penting ke laptop barunya
+[2023-03-14 16:17:08] INFO discord Write: merk laptopmu apa?
+[2023-03-14 16:17:08] INFO discord Write: modelnya slim apa tebel?
+[2023-03-14 16:17:08] INFO discord Write: keyboardnya rgb yak
+[2023-03-14 16:17:08] INFO discord Write: ada dedicated numpadnya ga <@657831088483205120> ?
+[2023-03-14 16:17:08] INFO discord Write: aku juga yakin
+[2023-03-14 16:17:09] INFO discord Write: eh ternyata
+[2023-03-14 16:17:09] INFO discord Write: bapaknya geming kan
+[2023-03-14 16:17:09] INFO discord Write: anjir lah zephyrus
+[2023-03-14 16:17:09] INFO discord Write: anjay bapak geming <:picardia:724929165123518566>
+[2023-03-14 16:17:09] INFO discord Write: besok klo dah gede gan
+[2023-03-14 16:17:09] INFO discord Write: dah bisa cari duid
+[2023-03-14 16:17:09] INFO discord Write: istri aja ga ada hehe
+[2023-03-14 16:17:09] INFO discord Write: jadi bapa geming
+[2023-03-14 16:17:09] INFO discord Write: duid bisa dicari
+[2023-03-14 16:17:09] INFO discord Write: memek susah
+[2023-03-14 16:17:09] INFO discord Write: aku ingin jadi koala
+[2023-03-14 16:17:09] INFO discord Write: bangun tidur
+[2023-03-14 16:17:09] INFO discord Write: "duit bisa dicari, 
+memeq susah"
+~shadeva 2020
+[2023-03-14 16:17:09] INFO discord Write: cari memek
+[2023-03-14 16:17:09] INFO discord Write: kata kata bijak dari seorang pemuda yang pasrah akan pasangan masa depan
+[2023-03-14 16:17:09] INFO discord Write: yang penting jan jadi sim
+[2023-03-14 16:17:09] INFO discord Write: ngebet jangan
+[2023-03-14 16:17:10] INFO discord Write: Gk Ada numpad
+[2023-03-14 16:17:10] INFO discord Write: Seri apa kira" gan
+[2023-03-14 16:17:10] INFO discord Write: agak gede itu
+[2023-03-14 16:17:10] INFO discord Write: Btw aku ga liat tisu salut ajg
+[2023-03-14 16:17:10] INFO discord Write: Tisu salut?
+[2023-03-14 16:17:10] INFO discord Write: jan jangan lu doang yang ada tisu cok
+[2023-03-14 16:17:10] INFO discord Write: Aku kerumah temenku di mejanya ad tisu ajg
+[2023-03-14 16:17:10] INFO discord Write: Udah selesai pindahin file po
+[2023-03-14 16:17:10] INFO discord Write: Mending lgsg liat dari dalem nek gitu
+[2023-03-14 16:17:10] INFO discord Write: Kalo itu keluar di dalem <:picardia:724929165123518566>
+[2023-03-14 16:17:10] INFO discord Write: Belum selsai pindah
+[2023-03-14 16:17:10] INFO discord Write: Sama kek laptopku
+[2023-03-14 16:17:10] INFO discord Write: itu buat minecraft lancarr ajg
+[2023-03-14 16:17:11] INFO discord Write: Bukanya gk bisa install mod kalo gk beli
+[2023-03-14 16:17:11] INFO discord Write: Terakhir kali aku main Minecraft itu pas Aku di swedia
+[2023-03-14 16:17:11] INFO discord Write: Di hp ga pernah maen po
+[2023-03-14 16:17:11] INFO discord Write: kita bertiga kan pernah to main multi
+[2023-03-14 16:17:11] INFO discord Write: Bareng kalian terakhir kali
+[2023-03-14 16:17:11] INFO discord Write: Mobile Sama PC beda Kan?
+[2023-03-14 16:17:11] INFO discord Write: ketika lu pingin bikin server sendiri
+[2023-03-14 16:17:11] INFO discord Write: Aku kemaren coba
+[2023-03-14 16:17:11] INFO discord Write: Pas masuk worldnya ga ke load asu
+[2023-03-14 16:17:11] INFO discord Write: Pengen ganti isp~~~
+[2023-03-14 16:17:11] INFO discord Write: sekarang xl better
+[2023-03-14 16:17:11] INFO discord Write: tunggu 5g gan
+[2023-03-14 16:17:11] INFO discord Write: Dah lulus
+[2023-03-14 16:17:11] INFO discord Write: Kalo pindah awto pasang di kos ea <:picardia:724929165123518566>
+[2023-03-14 16:17:11] INFO discord Write: aku lupa
+[2023-03-14 16:17:11] INFO discord Write: Tangannya wireless
+[2023-03-14 16:17:11] INFO discord Write: Jadi cs gan
+[2023-03-14 16:17:11] INFO discord Write: jadi teknisi lah ajg
+[2023-03-14 16:17:11] INFO discord Write: Samlekom ada masalah apa
+[2023-03-14 16:17:11] INFO discord Write: pengen main touhou games
+[2023-03-14 16:17:11] INFO discord Write: ada versi remasterednya ga
+[2023-03-14 16:17:11] INFO discord Write: Mesti gara" liat nh
+[2023-03-14 16:17:11] INFO discord Write: banyak loli
+[2023-03-14 16:17:12] INFO discord Write: Sugar loli
+[2023-03-14 16:17:12] INFO discord Write: sugar dedi
+[2023-03-14 16:17:12] INFO discord Write: Dedi sapa ya
+[2023-03-14 16:17:12] INFO discord Write: mbayangin dedi jadi ugly bastard
+[2023-03-14 16:17:12] INFO discord Write: Apalagi pas tengah malem
+[2023-03-14 16:17:12] INFO discord Write: brainnya ganas
+[2023-03-14 16:17:12] INFO discord Write: brutality 100
+[2023-03-14 16:17:12] INFO discord Write: Aku lagi mukbang
+[2023-03-14 16:17:12] INFO discord Write: anje mukban
+[2023-03-14 16:17:12] INFO discord Write: last backup
+[2023-03-14 16:17:12] INFO discord Write: Yg punya email nya zoaoza siapa?
+[2023-03-14 16:17:12] INFO discord Write: emailnya dah tak buang
+[2023-03-14 16:17:12] INFO discord Write: bisa tak recover ga gatau aku
+[2023-03-14 16:17:12] INFO discord Write: bikin akun aja baru
+[2023-03-14 16:17:12] INFO discord Write: tak kasih akun aja?
+[2023-03-14 16:17:12] INFO discord Write: udah prime
+[2023-03-14 16:17:12] INFO discord Write: aku ada akun juga
+[2023-03-14 16:17:12] INFO discord Write: kamu ae dah yg ngasih aku gatau pake email mana
+[2023-03-14 16:17:12] INFO discord Write: klo aku itu akunnya pake main emailku
+[2023-03-14 16:17:12] INFO discord Write: oh aku dah tau
+[2023-03-14 16:17:12] INFO discord Write: atau ini
+[2023-03-14 16:17:12] INFO discord Write: buat ganti" aj klo ke banned hwhw
+[2023-03-14 16:17:12] INFO discord Write: ganti 321
+[2023-03-14 16:17:12] INFO discord Write: biar ga kena kutukan
+[2023-03-14 16:17:12] INFO discord Write: <@!657831088483205120>  mw cees bareng ga?
+[2023-03-14 16:17:13] INFO discord Write: Barusan selesai pra fortasi
+[2023-03-14 16:17:13] INFO discord Write: klo mau jam 11 an
+[2023-03-14 16:17:13] INFO discord Write: Jam 11 tidur?
+[2023-03-14 16:17:13] INFO discord Write: semalem tidur lebih dari jam 12 soalnya
+[2023-03-14 16:17:13] INFO discord Write: abis zuhur gan
+[2023-03-14 16:17:13] INFO discord Write: beli nasgor bentar
+[2023-03-14 16:17:13] INFO discord Write: ada yang gon
+[2023-03-14 16:17:13] INFO discord Write: ada yang afk pog
+[2023-03-14 16:17:13] INFO discord Write: barusan dapet manga bagus sihh
+[2023-03-14 16:17:13] INFO discord Write: Kamu di mute ngntod
+[2023-03-14 16:17:13] INFO discord Write: Otak isinya loli semua si asw
+[2023-03-14 16:17:14] INFO discord Write: masih tidur goblog
+[2023-03-14 16:17:14] INFO discord Write: bangun goblog sekolah
+[2023-03-14 16:17:14] INFO discord Write: sekolah gblog
+[2023-03-14 16:17:14] INFO discord Write: kamu dah mulai?
+[2023-03-14 16:17:14] INFO discord Write: semua mdah mulai keknya
+[2023-03-14 16:17:14] INFO discord Write: dari setengah 8
+[2023-03-14 16:17:14] INFO discord Write: kan serentak
+[2023-03-14 16:17:14] INFO discord Write: sekolah ku self promotion trs
+[2023-03-14 16:17:14] INFO discord Write: wong dah masuk sekolah nya
+[2023-03-14 16:17:14] INFO discord Write: pjj apa ya
+[2023-03-14 16:17:14] INFO discord Write: <@!333542428395044864> kamu dah langsung pelajaran?
+[2023-03-14 16:17:14] INFO discord Write: selesai nya kamu kapan?
+[2023-03-14 16:17:14] INFO discord Write: sekarang lagi break
+[2023-03-14 16:17:14] INFO discord Write: kalo selesai paling jam 11 an
+[2023-03-14 16:17:14] INFO discord Write: bruh lama banget
+[2023-03-14 16:17:14] INFO discord Write: kalian dah mulai?
+[2023-03-14 16:17:14] INFO discord Write: sesi 1 7:30 sampe 8:30
+[2023-03-14 16:17:14] INFO discord Write: sesi 2 10:30 ampe 11:30 keknya
+[2023-03-14 16:17:14] INFO discord Write: tugas ada?
+[2023-03-14 16:17:15] INFO discord Write: baru pertemuan pertama
+[2023-03-14 16:17:15] INFO discord Write: aku pertemuan pertama dah dikasih 4 tugas anjir
+[2023-03-14 16:17:15] INFO discord Write: dah lama
+[2023-03-14 16:17:15] INFO discord Write: masih bisa?
+[2023-03-14 16:17:15] INFO discord Write: aku ambil kemaren
+[2023-03-14 16:17:15] INFO discord Write: dan aku dah punya
+[2023-03-14 16:17:15] INFO discord Write: nggak lah
+[2023-03-14 16:17:15] INFO discord Write: punya lah
+[2023-03-14 16:17:15] INFO discord Write: lagi materi
+[2023-03-14 16:17:15] INFO discord Write: anjay materi
+[2023-03-14 16:17:15] INFO discord Write: Bruh main mc?
+[2023-03-14 16:17:15] INFO discord Write: baru in game bentar
+[2023-03-14 16:17:15] INFO discord Write: belum dikick
+[2023-03-14 16:17:15] INFO discord Write: Bruh ngantuk
+[2023-03-14 16:17:15] INFO discord Write: Kamu emangnya bangun jam berapa?
+[2023-03-14 16:17:15] INFO discord Write: bangun tadi pagi?
+[2023-03-14 16:17:15] INFO discord Write: bangun aku jam 5
+[2023-03-14 16:17:15] INFO discord Write: tidurnya jam 12
+[2023-03-14 16:17:15] INFO discord Write: aku lagi gmeet bgzdd
+[2023-03-14 16:17:15] INFO discord Write: sini aja dulu
+[2023-03-14 16:17:15] INFO discord Write: aku niat masak mie kuah
+[2023-03-14 16:17:15] INFO discord Write: tapi yang tak godog mie goreng
+[2023-03-14 16:17:15] INFO discord Write: terus mie gorengnya ada kuahnya
+[2023-03-14 16:17:15] INFO discord Write: indomie goreng kuah
+[2023-03-14 16:17:16] INFO discord Write: asu goblog tenan\
+[2023-03-14 16:17:16] INFO discord Write: mayan enak tapi
+[2023-03-14 16:17:16] INFO discord Write: <@!657831088483205120> bagi link steam profile mu dong aku mw add
+[2023-03-14 16:17:16] INFO discord Write: Gk punya
+[2023-03-14 16:17:16] INFO discord Write: Pake punya mu
+[2023-03-14 16:17:16] INFO discord Write: dicabut aja authenticatornya
+[2023-03-14 16:17:16] INFO discord Write: km main ac unity dr akun mana
+[2023-03-14 16:17:16] INFO discord Write: warframe berapa gb
+[2023-03-14 16:17:16] INFO discord Write: Tak liat
+[2023-03-14 16:17:16] INFO discord Write: keknya aku bisa main
+[2023-03-14 16:17:16] INFO discord Write: perasaan kecil amat deh 8 gb
+[2023-03-14 16:17:16] INFO discord Write: Valorant baru
+[2023-03-14 16:17:16] INFO discord Write: mungkin itu gk include update
+[2023-03-14 16:17:16] INFO discord Write: jadi cuma versi 0
+[2023-03-14 16:17:16] INFO discord Write: don't be sad
+[2023-03-14 16:17:16] INFO discord Write: beli monitor gan
+[2023-03-14 16:17:16] INFO discord Write: lama bener
+[2023-03-14 16:17:16] INFO discord Write: pcmu dah batuk"
+[2023-03-14 16:17:16] INFO discord Write: lagi g mau bebanin pikiran ortu
+[2023-03-14 16:17:17] INFO discord Write: daftar ulang mahal :/
+[2023-03-14 16:17:17] INFO discord Write: bagi mentahan emot ini <:garokkusu:696364929128595456>
+[2023-03-14 16:17:17] INFO discord Write: aku masih gmeet ea asu
+[2023-03-14 16:17:17] INFO discord Write: temenku sekelas ad yg suara ketawanya kek miko
+[2023-03-14 16:17:17] INFO discord Write: aku gatau tapi yg ketawa siapa Q_Q
+[2023-03-14 16:17:17] INFO discord Write: gimana fpsnya
+[2023-03-14 16:17:17] INFO discord Write: bagusnya nambah apa nurun fpsnya :>
+[2023-03-14 16:17:18] INFO discord Write: sama ae klo di spray negev di cs berati
+[2023-03-14 16:17:18] INFO discord Write: kadang" subtitle klip hololive di yutub retard yak
+[2023-03-14 16:17:18] INFO discord Write: kek gabungan paladin ama cees
+[2023-03-14 16:17:18] INFO discord Write: iam lagi makan
+[2023-03-14 16:17:18] INFO discord Write: kalau kamu bisa lahap cintaku >w<
+[2023-03-14 16:17:18] INFO discord Write: di earphone ada micnya fga
+[2023-03-14 16:17:18] INFO discord Write: gk bisa juga mic earphone
+[2023-03-14 16:17:18] INFO discord Write: masih gk bisa
+[2023-03-14 16:17:18] INFO discord Write: dah di add
+[2023-03-14 16:17:18] INFO discord Write: Tag nya tak cek dulu
+[2023-03-14 16:17:18] INFO discord Write: Gk bisa pake micccc
+[2023-03-14 16:17:18] INFO discord Write: Jack in yg untuk mic gk bisa
+[2023-03-14 16:17:18] INFO discord Write: laptopmu ga ada built in micnya?
+[2023-03-14 16:17:18] INFO discord Write: Aku dah nyobak nyobak terus
+[2023-03-14 16:17:18] INFO discord Write: semua map
+[2023-03-14 16:17:19] INFO discord Write: winner loser bracket dapet 3rd place jadi ya mayan
+[2023-03-14 16:17:19] INFO discord Write: tapi aku ketemu ginian
+[2023-03-14 16:17:19] INFO discord Write: kirain dah seless
+[2023-03-14 16:17:19] INFO discord Write: apa tuh
+[2023-03-14 16:17:19] INFO discord Write: oh animu
+[2023-03-14 16:17:20] INFO discord Write: team aklu comeback
+[2023-03-14 16:17:20] INFO discord Write: aku baru bikin list mal
+[2023-03-14 16:17:20] INFO discord Write: jancuk REEEEEEEEEEEE
+[2023-03-14 16:17:20] INFO discord Write: Lagi main fate
+[2023-03-14 16:17:21] INFO discord Write: biggus BIGchunGUS
+[2023-03-14 16:17:21] INFO discord Write: Kamu selesai kelas nya Japan?
+[2023-03-14 16:17:21] INFO discord Write: setiap hari selesai jam setengah 12
+[2023-03-14 16:17:21] INFO discord Write: Masih peljaran
+[2023-03-14 16:17:22] INFO discord Write: Anjay peleran
+[2023-03-14 16:17:22] INFO discord Write: tiba tiba prop hunt
+[2023-03-14 16:17:22] INFO discord Write: 10 menit
+[2023-03-14 16:17:22] INFO discord Write: keluar chat zsemua
+[2023-03-14 16:17:22] INFO discord Write: ambil minum bentarlgsg pada gon
+[2023-03-14 16:17:22] INFO discord Write: gegara update
+[2023-03-14 16:17:22] INFO discord Write: <@!657831088483205120> belum?
+[2023-03-14 16:17:22] INFO discord Write: Lagi harus bantuin
+[2023-03-14 16:17:23] INFO discord Write: btw mic ku dipake bude
+[2023-03-14 16:17:23] INFO discord Write: mic ku ga dari earphone
+[2023-03-14 16:17:23] INFO discord Write: trs kamu pake headset atau earphone?
+[2023-03-14 16:17:23] INFO discord Write: tapi ga ada micnya headset ku
+[2023-03-14 16:17:23] INFO discord Write: jadinya pake mic sendiri
+[2023-03-14 16:17:23] INFO discord Write: ngajar keknya
+[2023-03-14 16:17:23] INFO discord Write: emangnya bude jadi guru???
+[2023-03-14 16:17:23] INFO discord Write: bude kan jago b.arab sama ilmu islam
+[2023-03-14 16:17:23] INFO discord Write: ngajar sd? smp?
+[2023-03-14 16:17:23] INFO discord Write: kalo pas sebelum pandemi kemaren kan muridnya pada dateng langsung
+[2023-03-14 16:17:23] INFO discord Write: rata" anak kuliahan
+[2023-03-14 16:17:23] INFO discord Write: mau main ga??
+[2023-03-14 16:17:23] INFO discord Write: solat dulu bwang
+[2023-03-14 16:17:23] INFO discord Write: tunggu aja
+[2023-03-14 16:17:23] INFO discord Write: Ke indomart bentat
+[2023-03-14 16:17:23] INFO discord Write: peluru nyasar ea
+[2023-03-14 16:17:24] INFO discord Write: e kok ada 2 ajg
+[2023-03-14 16:17:24] INFO discord Write: joinnya dua kali guru mu
+[2023-03-14 16:17:24] INFO discord Write: habis jumatan lgsg nempel kasur
+[2023-03-14 16:17:24] INFO discord Write: magnetnya kuat banget e kasurnya
+[2023-03-14 16:17:24] INFO discord Write: Kesemutan skejxnwousbzw
+[2023-03-14 16:17:24] INFO discord Write: lagi ngecas nyawa
+[2023-03-14 16:17:24] INFO discord Write: kirain dah update
+[2023-03-14 16:17:24] INFO discord Write: adekku yutuban sii
+[2023-03-14 16:17:24] INFO discord Write: Buang sampah dulu
+[2023-03-14 16:17:24] INFO discord Write: Kalian kapan tidurnya??
+[2023-03-14 16:17:25] INFO discord Write: Bangun nya?
+[2023-03-14 16:17:25] INFO discord Write: bangun jam 5
+[2023-03-14 16:17:25] INFO discord Write: bangun jam 11
+[2023-03-14 16:17:25] INFO discord Write: kan tidur lagi cuk
+[2023-03-14 16:17:25] INFO discord Write: aku bangun tidur ada orang lagi mandi bgsd
+[2023-03-14 16:17:25] INFO discord Write: aku masi arknit
+[2023-03-14 16:17:25] INFO discord Write: Kalian forge nya install versi me berapa?
+[2023-03-14 16:17:25] INFO discord Write: tapi kalo mau install ya latest ver aja lah
+[2023-03-14 16:17:25] INFO discord Write: Penuh hp
+[2023-03-14 16:17:25] INFO discord Write: penuh apaan ajg
+[2023-03-14 16:17:25] INFO discord Write: pake emulator <:picardia:724929165123518566>
+[2023-03-14 16:17:25] INFO discord Write: Penuh OSU map
+[2023-03-14 16:17:25] INFO discord Write: aku sampe 5gb lebih keknya
+[2023-03-14 16:17:25] INFO discord Write: Aku  juga ada cytus2 jadi dah penuhh
+[2023-03-14 16:17:25] INFO discord Write: Discord gk mau bukaaaa
+[2023-03-14 16:17:25] INFO discord Write: gamau konek
+[2023-03-14 16:17:25] INFO discord Write: sendiri di rumah?
+[2023-03-14 16:17:25] INFO discord Write: seru tuh anjink
+[2023-03-14 16:17:25] INFO discord Write: eh ada ibuk lagi makan
+[2023-03-14 16:17:26] INFO discord Write: katanya selesai maintenance jam 1 pagi
+[2023-03-14 16:17:26] INFO discord Write: Maintenance apaan
+[2023-03-14 16:17:26] INFO discord Write: keknya lagi ga mau diganggu :/
+[2023-03-14 16:17:26] INFO discord Write: Gajadi ngerjain tugas lah ajg
+[2023-03-14 16:17:26] INFO discord Write: Masih lama ini deadlinenya owkwowkw
+[2023-03-14 16:17:26] INFO discord Write: yessss guru bahasa ingriss ku skip lesson
+[2023-03-14 16:17:26] INFO discord Write: dikasih tugas self intro tok
+[2023-03-14 16:17:26] INFO discord Write: guruku ngoceh ga jelas
+[2023-03-14 16:17:26] INFO discord Write: guruku yang tua cuma guru agama dong :3
+[2023-03-14 16:17:26] INFO discord Write: pada masih muda
+[2023-03-14 16:17:26] INFO discord Write: guruku ngomong [putus putus
+[2023-03-14 16:17:26] INFO discord Write: mending pake discord
+[2023-03-14 16:17:26] INFO discord Write: baru tau aku
+[2023-03-14 16:17:26] INFO discord Write: guruku gone
+[2023-03-14 16:17:26] INFO discord Write: gib me sugar
+[2023-03-14 16:17:26] INFO discord Write: mc 1.16.1 dah ad optifinenya di tlauncher
+[2023-03-14 16:17:26] INFO discord Write: kenapa 1.14.2 ga ada Q_Q
+[2023-03-14 16:17:26] INFO discord Write: itu bukan stable ver kan?
+[2023-03-14 16:17:26] INFO discord Write: yg stable kan 14,4
+[2023-03-14 16:17:26] INFO discord Write: aku main hardcore di ver itu soalnya
+[2023-03-14 16:17:26] INFO discord Write: nekat mulu
+[2023-03-14 16:17:27] INFO discord Write: itu aku hardcore ke 4 atw 5 klo ga salah
+[2023-03-14 16:17:27] INFO discord Write: mati semua lawan doragon
+[2023-03-14 16:17:27] INFO discord Write: eh yg ini perfect fightnya ajg
+[2023-03-14 16:17:27] INFO discord Write: aku ga kena hit sama sekali
+[2023-03-14 16:17:27] INFO discord Write: ya kan aku ngajak kan ga langsung direspon
+[2023-03-14 16:17:27] INFO discord Write: klo aku ngajaknya ntar paling ga direspon :/
+[2023-03-14 16:17:27] INFO discord Write: 1/2nya itu 10 menit Q_Q
+[2023-03-14 16:17:27] INFO discord Write: belom isya D:
+[2023-03-14 16:17:27] INFO discord Write: Ahh udah isak
+[2023-03-14 16:17:27] INFO discord Write: aku kurang money
+[2023-03-14 16:17:27] INFO discord Write: kurang 3 ribu
+[2023-03-14 16:17:27] INFO discord Write: untuk beli r666666666
+[2023-03-14 16:17:27] INFO discord Write: apaan anjir
+[2023-03-14 16:17:27] INFO discord Write: steam dah gk diskon r6 kayaknya
+[2023-03-14 16:17:27] INFO discord Write: tunggu laaa
+[2023-03-14 16:17:27] INFO discord Write: wintersale mayan deket
+[2023-03-14 16:17:27] INFO discord Write: emangnya itu game apaan?
+[2023-03-14 16:17:28] INFO discord Write: sianjink main cs
+[2023-03-14 16:17:28] INFO discord Write: aku habis brainstorming ngerjain kimia ngentod
+[2023-03-14 16:17:28] INFO discord Write: Ada ginian tapi gtrans sesat
+[2023-03-14 16:17:28] INFO discord Write: kirain jago jepang beneran
+[2023-03-14 16:17:28] INFO discord Write: keyboard jepang kan ada
+[2023-03-14 16:17:28] INFO discord Write: aku aja bisa baca huruf jepang dikit dikit aja dah seneng
+[2023-03-14 16:17:28] INFO discord Write: tadi aku ke gtrans ad yang ga bisa ke translate
+[2023-03-14 16:17:28] INFO discord Write: kek "yomereba wakaru"
+[2023-03-14 16:17:28] INFO discord Write: Ga ke translate
+[2023-03-14 16:17:28] INFO discord Write: btw masih main cs?
+[2023-03-14 16:17:28] INFO discord Write: Dah download japanese keyboard
+[2023-03-14 16:17:28] INFO discord Write: aku built in =_=
+[2023-03-14 16:17:28] INFO discord Write: aku built in?
+[2023-03-14 16:17:28] INFO discord Write: Tapi sesat
+[2023-03-14 16:17:28] INFO discord Write: > btw masih main cs?
+<@333542428395044864> masih
+[2023-03-14 16:17:28] INFO discord Write: aku lagi istirahat :3
+[2023-03-14 16:17:29] INFO discord Write: itu ha
+[2023-03-14 16:17:29] INFO discord Write: itu a
+[2023-03-14 16:17:29] INFO discord Write: ketuker sama ha :(
+[2023-03-14 16:17:29] INFO discord Write: aku cuma tau a, i, ha, n, sama e
+[2023-03-14 16:17:29] INFO discord Write: ru mana
+[2023-03-14 16:17:29] INFO discord Write: Di translate jadi bakakau :)
+[2023-03-14 16:17:29] INFO discord Write: oh u gampang tuh
+[2023-03-14 16:17:29] INFO discord Write: okeh nambah
+[2023-03-14 16:17:29] INFO discord Write: aksara jawa gone wrong
+[2023-03-14 16:17:29] INFO discord Write: mksdnya kirim lagi requestnya
+[2023-03-14 16:17:29] INFO discord Write: dah tu
+[2023-03-14 16:17:29] INFO discord Write: Dah tak confirm
+[2023-03-14 16:17:30] INFO discord Write: bruh ada foto meme
+[2023-03-14 16:17:30] INFO discord Write: dah bagus lainnya cuma polos aja :v
+[2023-03-14 16:17:30] INFO discord Write: ga dihias?
+[2023-03-14 16:17:30] INFO discord Write: kan ada hiasan meme
+[2023-03-14 16:17:30] INFO discord Write: udah best lah itu ajg
+[2023-03-14 16:17:30] INFO discord Write: playing g csgo semua
+[2023-03-14 16:17:30] INFO discord Write: meh aku ngerjain b.indo ya tod
+[2023-03-14 16:17:30] INFO discord Write: Barusan bangun aku
+[2023-03-14 16:17:31] INFO discord Write: cees masi nyala
+[2023-03-14 16:17:31] INFO discord Write: tunggu syg
+[2023-03-14 16:17:31] INFO discord Write: bruh solat
+[2023-03-14 16:17:31] INFO discord Write: Niggas be like <:cantcpicardia:737841606589284426>
+[2023-03-14 16:17:31] INFO discord Write: hmmm bentar bentar
+[2023-03-14 16:17:31] INFO discord Write: besok aku libur anjinx qwatikblno3qA8UGVBINO93ewquiobpngw3qupiog3aq
+[2023-03-14 16:17:32] INFO discord Write: <@!657831088483205120> dah jadi beli r6?
+[2023-03-14 16:17:32] INFO discord Write: padahal dah checkout
+[2023-03-14 16:17:32] INFO discord Write: IM DED
+[2023-03-14 16:17:32] INFO discord Write: aku tadi beli kambing
+[2023-03-14 16:17:32] INFO discord Write: yang dibeli, lagi dibayar, ngewe ajg
+[2023-03-14 16:17:32] INFO discord Write: bentar lagi mati
+[2023-03-14 16:17:33] INFO discord Write: I hungry
+[2023-03-14 16:17:33] INFO discord Write: Man habis buka
+[2023-03-14 16:17:33] INFO discord Write: man rabbuka?
+[2023-03-14 16:17:33] INFO discord Write: Main habis buka
+[2023-03-14 16:17:33] INFO discord Write: habis buka itu sholat
+[2023-03-14 16:17:33] INFO discord Write: memohon ampun
+[2023-03-14 16:17:33] INFO discord Write: lah ini, malah main
+[2023-03-14 16:17:33] INFO discord Write: aku minta petunjuk agar di bimbing ke end city yang benar
+[2023-03-14 16:17:33] INFO discord Write: Tapi ada bug?
+[2023-03-14 16:17:33] INFO discord Write: Aku gk bisa install communication segmentnya
+[2023-03-14 16:17:34] INFO discord Write: Username mu apa?
+[2023-03-14 16:17:34] INFO discord Write: ah yes
+[2023-03-14 16:17:34] INFO discord Write: palingan besok baru bisa login
+[2023-03-14 16:17:34] INFO discord Write: perasaan aku ga inget nge restrict :/
+[2023-03-14 16:17:34] INFO discord Write: Terakhir kali kamu main kapan?
+[2023-03-14 16:17:34] INFO discord Write: awal tahun keknya
+[2023-03-14 16:17:34] INFO discord Write: udah selesai?
+[2023-03-14 16:17:34] INFO discord Write: lagi berjuang melawan masalah lama
+[2023-03-14 16:17:34] INFO discord Write: akutu quit warframe gara" ini
+[2023-03-14 16:17:35] INFO discord Write: Kamu gk di kick dari clan nya?
+[2023-03-14 16:17:35] INFO discord Write: gak lah
+[2023-03-14 16:17:35] INFO discord Write: aku dah deket sama leadernya
+[2023-03-14 16:17:35] INFO discord Write: gak bakal nge kick aku dia
+[2023-03-14 16:17:35] INFO discord Write: aku ga login setahun aj dia masih inget aku ngechat di discord
+[2023-03-14 16:17:35] INFO discord Write: Ntar lagi masuk
+[2023-03-14 16:17:35] INFO discord Write: dah aku send
+[2023-03-14 16:17:35] INFO discord Write: Ini gk bisa transfer progress dari PS4?
+[2023-03-14 16:17:35] INFO discord Write: gak keknya
+[2023-03-14 16:17:35] INFO discord Write: aku ga pernah main pe es
+[2023-03-14 16:17:35] INFO discord Write: Lagi bantuin renovasi
+[2023-03-14 16:17:35] INFO discord Write: Bruh pada bangun jam brp tadi
+[2023-03-14 16:17:35] INFO discord Write: Aku tadi sore ketiduran hampir kelewat maghrib owkwowkwok
+[2023-03-14 16:17:35] INFO discord Write: suruh ambil daging ajg
+[2023-03-14 16:17:35] INFO discord Write: jadi putri tidur keknya enak
+[2023-03-14 16:17:35] INFO discord Write: Tenggelam dalam mimpi
+[2023-03-14 16:17:35] INFO discord Write: Aku di luar
+[2023-03-14 16:17:35] INFO discord Write: itu apaan ajg
+[2023-03-14 16:17:36] INFO discord Write: itu outdoor ya
+[2023-03-14 16:17:36] INFO discord Write: Nunggu antrian asu
+[2023-03-14 16:17:36] INFO discord Write: Mejanya penuh
+[2023-03-14 16:17:36] INFO discord Write: Makan di liar bruh
+https://media.tenor.com/images/d2bbe783bb141bf0a8ea589569512956/tenor.gif
+[2023-03-14 16:17:36] INFO discord Write: in game aku
+[2023-03-14 16:17:37] INFO discord Write: <@!657831088483205120> kamu dulu punya tablet apa
+[2023-03-14 16:17:37] INFO discord Write: Dah ilang bruh
+[2023-03-14 16:17:37] INFO discord Write: ga inget mereknya ?
+[2023-03-14 16:17:37] INFO discord Write: Pengen beli?
+[2023-03-14 16:17:37] INFO discord Write: duid dah in hand
+[2023-03-14 16:17:37] INFO discord Write: Budget nya berapa?
+[2023-03-14 16:17:37] INFO discord Write: kurang dari 700
+[2023-03-14 16:17:37] INFO discord Write: Bruh palingan kalo kamu cari kamu bakal dapet yg lebih bagus dari of punyaku
+[2023-03-14 16:17:37] INFO discord Write: Gampang rusak
+[2023-03-14 16:17:37] INFO discord Write: 1 bulan main dah ada dent nya
+[2023-03-14 16:17:37] INFO discord Write: masa ga inget tabletnya
+[2023-03-14 16:17:37] INFO discord Write: Gk aku sering pake
+[2023-03-14 16:17:37] INFO discord Write: Tak cari dulu
+[2023-03-14 16:17:37] INFO discord Write: astaga ada dent nta
+[2023-03-14 16:17:37] INFO discord Write: Cuma karena main OSU bruh
+[2023-03-14 16:17:37] INFO discord Write: merknya ga pernah liat aku <:thonk:732446144436633688>
+[2023-03-14 16:17:37] INFO discord Write: Mungkin merek local?
+[2023-03-14 16:17:37] INFO discord Write: itu beli di sana po
+[2023-03-14 16:17:37] INFO discord Write: Harganya 400kr an
+[2023-03-14 16:17:37] INFO discord Write: itu brp rupiah
+[2023-03-14 16:17:37] INFO discord Write: maksudnya 1.600
+[2023-03-14 16:17:38] INFO discord Write: Ayahku aslinya beli untuk kakak ku gambar
+[2023-03-14 16:17:38] INFO discord Write: trus ga dipake?
+[2023-03-14 16:17:38] INFO discord Write: Jadi aku pake
+[2023-03-14 16:17:38] INFO discord Write: ga 3dpepe
+[2023-03-14 16:17:38] INFO discord Write: aku ngga dulu mau menyesuaikan diri <:picardia:724929165123518566>
+[2023-03-14 16:17:38] INFO discord Write: ayo cees pake tablet
+[2023-03-14 16:17:38] INFO discord Write: Hololive dapet banyak copyright strike
+[2023-03-14 16:17:39] INFO discord Write: jadi ada banyak video yg di private
+[2023-03-14 16:17:39] INFO discord Write: aku dah notice newsnya beberapa hari yg lalu
+[2023-03-14 16:17:39] INFO discord Write: Barusan selesai makan
+[2023-03-14 16:17:39] INFO discord Write: Game dari epic games store gk show up
+[2023-03-14 16:17:39] INFO discord Write: guruku ngelag
+[2023-03-14 16:17:39] INFO discord Write: bruh 11gb
+[2023-03-14 16:17:40] INFO discord Write: gamenya ngapaain
+[2023-03-14 16:17:40] INFO discord Write: gk jadi deh
+[2023-03-14 16:17:40] INFO discord Write: bruh wat
+[2023-03-14 16:17:40] INFO discord Write: Ubisoft store dah gk support debit card
+[2023-03-14 16:17:40] INFO discord Write: Jadi aku harus beli dari epic games store
+[2023-03-14 16:17:40] INFO discord Write: lbh murah dari steam po
+[2023-03-14 16:17:40] INFO discord Write: Steam doang yg gk diskon
+[2023-03-14 16:17:40] INFO discord Write: tunggu wintersale?
+[2023-03-14 16:17:40] INFO discord Write: tapi lama
+[2023-03-14 16:17:40] INFO discord Write: Ini dah 67%
+[2023-03-14 16:17:40] INFO discord Write: loh dah donllod
+[2023-03-14 16:17:40] INFO discord Write: minggu ini ae gmn
+[2023-03-14 16:17:40] INFO discord Write: dah gabisa main dari pagi e
+[2023-03-14 16:17:40] INFO discord Write: > Ini dah 67%
+<@657831088483205120>  diskon nya
+[2023-03-14 16:17:40] INFO discord Write: kirain dah di donlod asw
+[2023-03-14 16:17:40] INFO discord Write: Internet ku gk secepet itu
+[2023-03-14 16:17:41] INFO discord Write: Ntaran jam 4
+[2023-03-14 16:17:41] INFO discord Write: Bruh 85gb
+[2023-03-14 16:17:41] INFO discord Write: barusan selesai bantuin ortu
+[2023-03-14 16:17:41] INFO discord Write: bruh santuy lah kita juga tau ga setiap saat kamu bisa di depan laptop/hp
+[2023-03-14 16:17:41] INFO discord Write: Perlu download beatmap lagiii
+[2023-03-14 16:17:41] INFO discord Write: cari aja di google atw yutub keknya banyak yg buat beatmap pack
+[2023-03-14 16:17:41] INFO discord Write: dah selesai
+[2023-03-14 16:17:41] INFO discord Write: dah main?
+[2023-03-14 16:17:42] INFO discord Write: dah yok
+[2023-03-14 16:17:42] INFO discord Write: Ntar jam 8 aku lagi makan
+[2023-03-14 16:17:42] INFO discord Write: abis mati lampu
+[2023-03-14 16:17:42] INFO discord Write: startup seabad
+[2023-03-14 16:17:42] INFO discord Write: ujung ujungnya disbanded mungkin D:
+[2023-03-14 16:17:42] INFO discord Write: gajadi disbanded :D
+[2023-03-14 16:17:42] INFO discord Write: endingnya peaceful
+[2023-03-14 16:17:42] INFO discord Write: <@!333542428395044864> klo mau tidur matiin komputer blog
+[2023-03-14 16:17:42] INFO discord Write: tidur masih main r6
+[2023-03-14 16:17:42] INFO discord Write: ga terlalu asik sih
+[2023-03-14 16:17:43] INFO discord Write: Gajetot asu gamenya
+[2023-03-14 16:17:43] INFO discord Write: ya elu ga main sih :/
+[2023-03-14 16:17:43] INFO discord Write: Bruh palingan klo aku maen sehari delet
+[2023-03-14 16:17:43] INFO discord Write: Klo ga tak tersentuh
+[2023-03-14 16:17:43] INFO discord Write: btw besok jadi kan?
+[2023-03-14 16:17:43] INFO discord Write: ntar aku main dzaky ga bisa main :/
+[2023-03-14 16:17:43] INFO discord Write: Berangat nya kayak nya nanti pagi aku
+[2023-03-14 16:17:43] INFO discord Write: Nyampek nya aku jam 1 an
+[2023-03-14 16:17:43] INFO discord Write: berangkat kapan
+[2023-03-14 16:17:44] INFO discord Write: Jam 7
+[2023-03-14 16:17:44] INFO discord Write: lama amat jam 1 bjir
+[2023-03-14 16:17:44] INFO discord Write: Gk tau katanya 5 jam an
+[2023-03-14 16:17:44] INFO discord Write: Waktu untuk kesana nya
+[2023-03-14 16:17:44] INFO discord Write: brp km surabaya-jogja
+[2023-03-14 16:17:44] INFO discord Write: dulu aku parepare-makassar 150km 3 jam
+[2023-03-14 16:17:44] INFO discord Write: tapi ga ad tol
+[2023-03-14 16:17:44] INFO discord Write: Datengnta jam 11 an
+[2023-03-14 16:17:44] INFO discord Write: aku dikick dari server osu ya?
+[2023-03-14 16:17:44] INFO discord Write: ntar jam 8an
+[2023-03-14 16:17:45] INFO discord Write: I am dying
+[2023-03-14 16:17:45] INFO discord Write: bukan routernya oawkoakwowak
+[2023-03-14 16:17:45] INFO discord Write: I am in pain
+[2023-03-14 16:17:45] INFO discord Write: kita denger :3
+[2023-03-14 16:17:45] INFO discord Write: mungkin ini adalah tanda tanda untuk istirahat
+[2023-03-14 16:17:45] INFO discord Write: coba pake internet hp dulu
+[2023-03-14 16:17:45] INFO discord Write: gk ada
+[2023-03-14 16:17:45] INFO discord Write: routernya punya oma
+[2023-03-14 16:17:45] INFO discord Write: mw tunggu aja po
+[2023-03-14 16:17:45] INFO discord Write: kita denger
+[2023-03-14 16:17:45] INFO discord Write: cuma kamu yg ngga
+[2023-03-14 16:17:45] INFO discord Write: yok lah cees
+[2023-03-14 16:17:45] INFO discord Write: Barusan pulang
+[2023-03-14 16:17:45] INFO discord Write: darimana say
+[2023-03-14 16:17:45] INFO discord Write: Beli kacamata
+[2023-03-14 16:17:45] INFO discord Write: Bruh bunda ku <:pog:727415574069641276> banget
+[2023-03-14 16:17:45] INFO discord Write: Nurunin harga
+[2023-03-14 16:17:45] INFO discord Write: 940 jadi 900
+[2023-03-14 16:17:46] INFO discord Write: emakku dong]
+[2023-03-14 16:17:46] INFO discord Write: 1200 jadi 920
+[2023-03-14 16:17:46] INFO discord Write: langganan sih :p
+[2023-03-14 16:17:46] INFO discord Write: kompak beud leave nya
+[2023-03-14 16:17:46] INFO discord Write: 3 dari 5 tugas adalah praktek!
+[2023-03-14 16:17:46] INFO discord Write: aku dying!
+[2023-03-14 16:17:46] INFO discord Write: ai wan to dai
+[2023-03-14 16:17:46] INFO discord Write: Aku cuma olahraga yg praktek
+[2023-03-14 16:17:46] INFO discord Write: Bruh cropnya susah
+[2023-03-14 16:17:47] INFO discord Write: Pake apa kamu emangnya?
+[2023-03-14 16:17:47] INFO discord Write: Tau bruh
+[2023-03-14 16:17:47] INFO discord Write: pake ps 2 aku
+[2023-03-14 16:17:47] INFO discord Write: anjay epic
+[2023-03-14 16:17:47] INFO discord Write: maafkan hamba yang merendahkanmu
+[2023-03-14 16:17:47] INFO discord Write: bajakan lah
+[2023-03-14 16:17:47] INFO discord Write: dah pada mainj osu aja jink
+[2023-03-14 16:17:48] INFO discord Write: tugas banyak\
+[2023-03-14 16:17:48] INFO discord Write: Bruh ngantuk aku
+[2023-03-14 16:17:48] INFO discord Write: barusan selese anjink
+[2023-03-14 16:17:48] INFO discord Write: lehernya tengeng ajg
+[2023-03-14 16:17:48] INFO discord Write: Nanti kamu tidur siang atau gk?
+[2023-03-14 16:17:48] INFO discord Write: tidur tak direncanakan
+[2023-03-14 16:17:48] INFO discord Write: Bruh aku dah q sama gold
+[2023-03-14 16:17:48] INFO discord Write: Bruh tiap hari aku klo main sendiri
+[2023-03-14 16:17:48] INFO discord Write: Belum liat diamond tapi
+[2023-03-14 16:17:48] INFO discord Write: Bruh kalo pengen liat diamond ngerank
+[2023-03-14 16:17:48] INFO discord Write: Biasanya kalo diamond main rank doang
+[2023-03-14 16:17:48] INFO discord Write: Event game mode dah balik ya
+[2023-03-14 16:17:48] INFO discord Write: So hard lawan diamond
+[2023-03-14 16:17:48] INFO discord Write: Aku ga pernah <:picardia:724929165123518566>
+[2023-03-14 16:17:49] INFO discord Write: trus recommended ram nya 16 GB bruh
+[2023-03-14 16:17:49] INFO discord Write: Kamu beli 8 GB ramnya kan?
+[2023-03-14 16:17:49] INFO discord Write: Bruh I am hyped
+[2023-03-14 16:17:49] INFO discord Write: Fate bakal ada movie tentang Camelot
+[2023-03-14 16:17:49] INFO discord Write: dah selesai?
+[2023-03-14 16:17:49] INFO discord Write: ntar jam 2 aku osu dulu <:cantcpicardia:737841606589284426>
+[2023-03-14 16:17:49] INFO discord Write: bruh nekopara lumayan murah
+[2023-03-14 16:17:49] INFO discord Write: palingan kamu bisa beli kalo jual semua case nya
+[2023-03-14 16:17:49] INFO discord Write: set up meja
+[2023-03-14 16:17:50] INFO discord Write: mati lampu
+[2023-03-14 16:17:50] INFO discord Write: skrg dah nyala?
+[2023-03-14 16:17:50] INFO discord Write: Jam 8 gannnn
+[2023-03-14 16:17:50] INFO discord Write: Tanganku gemeteran
+[2023-03-14 16:17:50] INFO discord Write: lagi ujan si
+[2023-03-14 16:17:50] INFO discord Write: dah nyala
+[2023-03-14 16:17:50] INFO discord Write: Bruh di troll
+[2023-03-14 16:17:50] INFO discord Write: masi lama pelajarannya
+[2023-03-14 16:17:50] INFO discord Write: bangun tidur ku main cs hiyahiya
+[2023-03-14 16:17:50] INFO discord Write: bangun tidur ku yutuba
+[2023-03-14 16:17:50] INFO discord Write: Bangun tidur
+[2023-03-14 16:17:50] INFO discord Write: Tidur lagi ea ajg
+[2023-03-14 16:17:50] INFO discord Write: ntar aku mau nugas bio
+[2023-03-14 16:17:50] INFO discord Write: klo dah selesai kita maen
+[2023-03-14 16:17:50] INFO discord Write: Semangad ea yg lagi cari fracture case
+[2023-03-14 16:17:51] INFO discord Write: timnya retard T_T
+[2023-03-14 16:17:51] INFO discord Write: lagi grinding
+[2023-03-14 16:17:51] INFO discord Write: aku disini ngeliatin kentang
+[2023-03-14 16:17:51] INFO discord Write: kentang so delicous
+[2023-03-14 16:17:51] INFO discord Write: habis itu dimakan
+[2023-03-14 16:17:51] INFO discord Write: wanjing dimakan
+[2023-03-14 16:17:51] INFO discord Write: tfw ketika gurumu make 2 ukuran font yang beda di doc tugas
+[2023-03-14 16:17:51] INFO discord Write: masih liatin kentang
+[2023-03-14 16:17:51] INFO discord Write: udah :v
+[2023-03-14 16:17:51] INFO discord Write: not choked malahan
+[2023-03-14 16:17:52] INFO discord Write: target lamaku Q_Q
+[2023-03-14 16:17:52] INFO discord Write: dah 2 taunnn
+[2023-03-14 16:17:52] INFO discord Write: discord ngajak ribud
+[2023-03-14 16:17:52] INFO discord Write: waifu nya fate lebih banyak lore nya
+[2023-03-14 16:17:52] INFO discord Write: bruh funny number
+[2023-03-14 16:17:52] INFO discord Write: sekelas mrku sekarang creds nya belasan juta bjir
+[2023-03-14 16:17:52] INFO discord Write: pen main mc
+[2023-03-14 16:17:52] INFO discord Write: Wait lg makan
+[2023-03-14 16:17:52] INFO discord Write: > pen main mc
+ini gimana :v
+[2023-03-14 16:17:52] INFO discord Write: grinding lebih utama
+[2023-03-14 16:17:52] INFO discord Write: <@!458449942370058271> masih grinding?
+[2023-03-14 16:17:52] INFO discord Write: definisi anakronisme
+[2023-03-14 16:17:52] INFO discord Write: keditak sesuaian kronologis
+[2023-03-14 16:17:52] INFO discord Write: <@!657831088483205120> nick epic mu apa aku add
+[2023-03-14 16:17:52] INFO discord Write: jam setengah 4
+[2023-03-14 16:17:53] INFO discord Write: jadi ga?
+[2023-03-14 16:17:54] INFO discord Write: <@!458449942370058271> osu mass ban cuk
+[2023-03-14 16:17:54] INFO discord Write: banyak yg ke banned haker haker
+[2023-03-14 16:17:54] INFO discord Write: player yg kutau di ban jir disitu
+[2023-03-14 16:17:54] INFO discord Write: badgraph, kutafix, polack sama riven
+[2023-03-14 16:17:54] INFO discord Write: btw riven itu yg buat guest diff di make a move https://osu.ppy.sh/beatmapsets/765778#osu/1611276
+[2023-03-14 16:17:54] INFO discord Write: Smh <@&513597451949834240>
+[2023-03-14 16:17:54] INFO discord Write: pen mc
+[2023-03-14 16:17:54] INFO discord Write: ntar jam 11 <:picardia:724929165123518566>
+[2023-03-14 16:17:54] INFO discord Write: klo masih pada on awokwaokawok
+[2023-03-14 16:17:54] INFO discord Write: aku on ok <:picardia:724929165123518566>
+[2023-03-14 16:17:54] INFO discord Write: ngga pada main ya aku tak mc sendiri
+[2023-03-14 16:17:54] INFO discord Write: Besok aku ada test
+[2023-03-14 16:17:54] INFO discord Write: Jam 7 anjir
+[2023-03-14 16:17:54] INFO discord Write: besok sabtu
+[2023-03-14 16:17:54] INFO discord Write: sampek jam berapa tadi malem?
+[2023-03-14 16:17:54] INFO discord Write: Bruh PC persona
+[2023-03-14 16:17:54] INFO discord Write: aku sampe jam 2
+[2023-03-14 16:17:54] INFO discord Write: deva keknya jam 11 dah tidur
+[2023-03-14 16:17:54] INFO discord Write: Sudah sayang
+[2023-03-14 16:17:54] INFO discord Write: Masuk <@458449942370058271>
+[2023-03-14 16:17:54] INFO discord Write: Internet mu mati <@333542428395044864>
+[2023-03-14 16:17:55] INFO discord Write: Bruh temenku marathon persona 5 untuk 9 jam
+[2023-03-14 16:17:55] INFO discord Write: aku mau makan dulu <:cantcpicardia:737841606589284426>
+[2023-03-14 16:17:55] INFO discord Write: cuk ajg
+[2023-03-14 16:17:55] INFO discord Write: dari dulu aku pikir guacamole itu dari cabe hijau pedes
+[2023-03-14 16:17:55] INFO discord Write: Anjinggg mati lampu goblog
+[2023-03-14 16:17:55] INFO discord Write: aku lom makan <:picardia:724929165123518566>
+[2023-03-14 16:17:55] INFO discord Write: tidur ini mah
+[2023-03-14 16:17:55] INFO discord Write: bangunnya ntar tengah malem
+[2023-03-14 16:17:55] INFO discord Write: lpn ingin bergelud
+[2023-03-14 16:17:55] INFO discord Write: Bruh dia main nya 19 jam
+[2023-03-14 16:17:56] INFO discord Write: Dia dah offline
+[2023-03-14 16:17:56] INFO discord Write: biar dapet epik numba
+[2023-03-14 16:17:56] INFO discord Write: Yg main untuk 19 jam
+[2023-03-14 16:17:56] INFO discord Write: aku slep haha
+[2023-03-14 16:17:56] INFO discord Write: Gantian dia yg sleep
+[2023-03-14 16:17:56] INFO discord Write: hari minggu kan
+[2023-03-14 16:17:56] INFO discord Write: dapet bagus
+[2023-03-14 16:17:56] INFO discord Write: Bruh beli game baru
+[2023-03-14 16:17:56] INFO discord Write: Mending jual di itemku biar jd duid beneran
+[2023-03-14 16:17:56] INFO discord Write: tak pake ae lah
+[2023-03-14 16:17:56] INFO discord Write: Gatau jir liat lah di sitenya
+[2023-03-14 16:17:56] INFO discord Write: tapi emang ada yang mau beli?
+[2023-03-14 16:17:56] INFO discord Write: Pasangnya lebih murah dari market
+[2023-03-14 16:17:56] INFO discord Write: klo dijual terus beli skin yang lebih banyak orang suka
+[2023-03-14 16:17:56] INFO discord Write: terus dijual di itemku
+[2023-03-14 16:17:56] INFO discord Write: Dicoba aja itu dulu di list
+[2023-03-14 16:17:56] INFO discord Write: Trus tunggu seminggu
+[2023-03-14 16:17:56] INFO discord Write: Kalo ga dibeli baru
+[2023-03-14 16:17:56] INFO discord Write: seminggu hanjir
+[2023-03-14 16:17:56] INFO discord Write: Iyalah kau kira sehari laku bangsad
+[2023-03-14 16:17:56] INFO discord Write: kau kira seminggu laku bangsad
+[2023-03-14 16:17:56] INFO discord Write: Keburu buru kamu sabar ae
+[2023-03-14 16:17:57] INFO discord Write: Pricenya dah stabil itu
+[2023-03-14 16:17:57] INFO discord Write: ya aku paling tunggu sebulan
+[2023-03-14 16:17:57] INFO discord Write: Tau mau open kan tak tunggu tadi
+[2023-03-14 16:17:57] INFO discord Write: aku sih ga ngarep
+[2023-03-14 16:17:57] INFO discord Write: aku pengennya dapet skin deagle lagi
+[2023-03-14 16:17:57] INFO discord Write: terus tak kasih
+[2023-03-14 16:17:57] INFO discord Write: paling ke dzaky
+[2023-03-14 16:17:57] INFO discord Write: harus pake bank ajg
+[2023-03-14 16:17:57] INFO discord Write: jual steam ae lah
+[2023-03-14 16:17:57] INFO discord Write: aku mau grinding lagi ah
+[2023-03-14 16:17:57] INFO discord Write: bruh harus bank
+[2023-03-14 16:17:57] INFO discord Write: dah pada solat?
+[2023-03-14 16:17:57] INFO discord Write: Osu atau mc?
+[2023-03-14 16:17:57] INFO discord Write: lagi skinning ini <:picardia:724929165123518566>
+[2023-03-14 16:17:57] INFO discord Write: aku beli game ah
+[2023-03-14 16:17:57] INFO discord Write: Lagi makan
+[2023-03-14 16:17:57] INFO discord Write: Bruh aku disuruh sunbathing
+[2023-03-14 16:17:57] INFO discord Write: Ngambil kacamata dulu
+[2023-03-14 16:17:57] INFO discord Write: skinnya dah completed gan
+[2023-03-14 16:17:57] INFO discord Write: aku ada versi yg mungkin lu suka
+[2023-03-14 16:17:57] INFO discord Write: oh cuk
+[2023-03-14 16:17:57] INFO discord Write: ga bakalan tak pake
+[2023-03-14 16:17:57] INFO discord Write: unplayable buatku
+[2023-03-14 16:17:57] INFO discord Write: dah ntar lagi
+[2023-03-14 16:17:58] INFO discord Write: otw ke kaliurang :v
+[2023-03-14 16:17:58] INFO discord Write: aq mandi dulu
+[2023-03-14 16:17:58] INFO discord Write: habis pergi pergi
+[2023-03-14 16:17:58] INFO discord Write: jam belajar selesai 30 menit lebih awal
+[2023-03-14 16:17:58] INFO discord Write: biasanya 30 menit lebih lama <:picardia:724929165123518566>
+[2023-03-14 16:17:58] INFO discord Write: jadi sesuai jadwal
+[2023-03-14 16:17:58] INFO discord Write: kuingin seperti dia
+[2023-03-14 16:17:58] INFO discord Write: punya ball
+[2023-03-14 16:17:58] INFO discord Write: eh cuk
+[2023-03-14 16:17:58] INFO discord Write: ender farm tu lebih cepet dibuat ya
+[2023-03-14 16:17:58] INFO discord Write: ga pake ribet
+[2023-03-14 16:17:58] INFO discord Write: sama ngasih aer di jalan
+[2023-03-14 16:17:58] INFO discord Write: aer di jalan completed btw
+[2023-03-14 16:17:58] INFO discord Write: lagi pelajaran?
+[2023-03-14 16:17:58] INFO discord Write: <@!333542428395044864> ini enchanting room di end nya ga kependekan kan?
+[2023-03-14 16:17:59] INFO discord Write: panjang beud itu
+[2023-03-14 16:17:59] INFO discord Write: tak fill pake glass y
+[2023-03-14 16:17:59] INFO discord Write: nah ini baru normal
+[2023-03-14 16:17:59] INFO discord Write: ntar ae
+[2023-03-14 16:17:59] INFO discord Write: aku daydreaming
+[2023-03-14 16:17:59] INFO discord Write: kasian cees sendiri
+[2023-03-14 16:17:59] INFO discord Write: sini aku temenin
+[2023-03-14 16:17:59] INFO discord Write: Bruh gakjadi dah, nemu org yang earape
+[2023-03-14 16:17:59] INFO discord Write: dah balik gajadi
+[2023-03-14 16:17:59] INFO discord Write: youtube ngerubah interface seenak udelnya anjing
+[2023-03-14 16:17:59] INFO discord Write: ganti akun aku
+[2023-03-14 16:17:59] INFO discord Write: lagi ingame anjink
+[2023-03-14 16:17:59] INFO discord Write: hm wait bahan emoji
+[2023-03-14 16:18:00] INFO discord Write: mati lampu?
+[2023-03-14 16:18:00] INFO discord Write: puindah channel bjir
+[2023-03-14 16:18:00] INFO discord Write: aku dying
+[2023-03-14 16:18:00] INFO discord Write: BESOK KELAS YA KAN MATERI BANYAK
+[2023-03-14 16:18:00] INFO discord Write: fuk u
+[2023-03-14 16:18:00] INFO discord Write: di run n gun pake usp di mid
+[2023-03-14 16:18:00] INFO discord Write: mwehehe ada tugas basa arab
+[2023-03-14 16:18:00] INFO discord Write: untung temenku ad yg jago
+[2023-03-14 16:18:00] INFO discord Write: alhamdulillah kamis jumat libur
+[2023-03-14 16:18:01] INFO discord Write: diundang ga ke rumah pakde aik
+[2023-03-14 16:18:01] INFO discord Write: Nanti kamu kesana kapan?
+[2023-03-14 16:18:01] INFO discord Write: Bentar lagi palingan
+[2023-03-14 16:18:01] INFO discord Write: Nunggu ibuku
+[2023-03-14 16:18:01] INFO discord Write: hanjir ada yg laptopnya ditinggal
+[2023-03-14 16:18:01] INFO discord Write: frostpunk mahal :<
+[2023-03-14 16:18:01] INFO discord Write: aku suka game city building kek frostpunk yaaa
+[2023-03-14 16:18:01] INFO discord Write: bagus grafiknya
+[2023-03-14 16:18:01] INFO discord Write: baru 2 tahun
+[2023-03-14 16:18:01] INFO discord Write: bentar lagi pcku jadi >:(
+[2023-03-14 16:18:01] INFO discord Write: windows yg di flashdisk itu msh ada ga sih
+[2023-03-14 16:18:01] INFO discord Write: $29.99 harga di us kali
+[2023-03-14 16:18:02] INFO discord Write: aku masi ada
+[2023-03-14 16:18:02] INFO discord Write: kalo game city builder itu intensive nya di cpu biasanya
+[2023-03-14 16:18:02] INFO discord Write: rata kiri bang
+[2023-03-14 16:18:02] INFO discord Write: yang penting bisa maen ea
+[2023-03-14 16:18:02] INFO discord Write: Tapi di game cuma di pake 2 gb
+[2023-03-14 16:18:03] INFO discord Write: ah anjig
+[2023-03-14 16:18:03] INFO discord Write: tadi aku tidur mimpi buruk + tindian ajg
+[2023-03-14 16:18:03] INFO discord Write: aku ga pernah ketindian yes
+[2023-03-14 16:18:03] INFO discord Write: gantian yg tidud
+[2023-03-14 16:18:03] INFO discord Write: aku nemu vide orang main osu 2 bulan ya
+[2023-03-14 16:18:03] INFO discord Write: dari how to play dios game jadi pp farmer
+[2023-03-14 16:18:03] INFO discord Write: mapnya farm semua
+[2023-03-14 16:18:03] INFO discord Write: Bruh aku dah pernah liat
+[2023-03-14 16:18:03] INFO discord Write: Rekomendasi nya sama
+[2023-03-14 16:18:03] INFO discord Write: keluar arabian soundtrack
+[2023-03-14 16:18:03] INFO discord Write: mayan lama harusnya
+[2023-03-14 16:18:04] INFO discord Write: > mayan lama harusnya
+[2023-03-14 16:18:04] INFO discord Write: setengah jam paling
+[2023-03-14 16:18:04] INFO discord Write: orang sabar pantadnya lebar
+[2023-03-14 16:18:04] INFO discord Write: Man internet bad
+[2023-03-14 16:18:04] INFO discord Write: lagi benerin keyboard bentarnmj
+[2023-03-14 16:18:04] INFO discord Write: Laptop ku Tak setting dulu
+[2023-03-14 16:18:04] INFO discord Write: Main dulu aja
+[2023-03-14 16:18:04] INFO discord Write: diban 7 day
+[2023-03-14 16:18:04] INFO discord Write: Bruh mati lampu
+[2023-03-14 16:18:05] INFO discord Write: 7 day ban rip in pepperoni
+[2023-03-14 16:18:05] INFO discord Write: susah susah transport villager
+[2023-03-14 16:18:05] INFO discord Write: salah design
+[2023-03-14 16:18:05] INFO discord Write: aku bangun pagi hari ini
+[2023-03-14 16:18:05] INFO discord Write: yang fpsnya ngelock
+[2023-03-14 16:18:05] INFO discord Write: gatau work apa ga :/
+[2023-03-14 16:18:05] INFO discord Write: bru itu apa make 24%
+[2023-03-14 16:18:05] INFO discord Write: Mau main ga?
+[2023-03-14 16:18:05] INFO discord Write: sek aku kebelet
+[2023-03-14 16:18:05] INFO discord Write: duluan aja dulu
+[2023-03-14 16:18:05] INFO discord Write: aku ada panggilan alam
+[2023-03-14 16:18:05] INFO discord Write: Epic Aku dah selesai elementary sama junior high school sebelum yandere simulator 1st rival keluar
+[2023-03-14 16:18:05] INFO discord Write: dzuhuran dulu
+[2023-03-14 16:18:05] INFO discord Write: rekomen makanan dong
+[2023-03-14 16:18:05] INFO discord Write: terus jumatan
+[2023-03-14 16:18:06] INFO discord Write: terus SLEP
+[2023-03-14 16:18:06] INFO discord Write: Man aku mainnya besok aja
+[2023-03-14 16:18:06] INFO discord Write: ada apa
+[2023-03-14 16:18:06] INFO discord Write: Lagi ngak enak main
+[2023-03-14 16:18:06] INFO discord Write: aku ngerjain tugas
+[2023-03-14 16:18:06] INFO discord Write: ALRIGHT FUCV K
+[2023-03-14 16:18:07] INFO discord Write: nunggu <@&513597451949834240>
+[2023-03-14 16:18:07] INFO discord Write: dah pernah main lom
+[2023-03-14 16:18:07] INFO discord Write: lagi startup
+[2023-03-14 16:18:07] INFO discord Write: ntar jam 9
+[2023-03-14 16:18:07] INFO discord Write: bruh aku juga ulangan fisika awokwaokwaokwako
+[2023-03-14 16:18:07] INFO discord Write: fluida dinamis men
+[2023-03-14 16:18:07] INFO discord Write: sampe sekarang belum tau kepanjangannya
+[2023-03-14 16:18:07] INFO discord Write: aku anak kreatif
+[2023-03-14 16:18:07] INFO discord Write: produk kreatif dan kewirausahaan
+[2023-03-14 16:18:08] INFO discord Write: bangun bangun ga salam
+[2023-03-14 16:18:08] INFO discord Write: tiba tiba get xi jinpinged
+[2023-03-14 16:18:08] INFO discord Write: ntar malem main mau g?
+[2023-03-14 16:18:08] INFO discord Write: ngerjain tugas dlo ea
+[2023-03-14 16:18:08] INFO discord Write: dah selese aku
+[2023-03-14 16:18:08] INFO discord Write: ada belatung loncat
+[2023-03-14 16:18:08] INFO discord Write: tugas dah pada selese belum
+[2023-03-14 16:18:09] INFO discord Write: dapet pencerahan anjir
+[2023-03-14 16:18:09] INFO discord Write: padahal guru ngejelasin masuk telinga kiri keluar telinga kanan
+[2023-03-14 16:18:09] INFO discord Write: eh ada yg nyantol
+[2023-03-14 16:18:09] INFO discord Write: bruh <@!458449942370058271>
+[2023-03-14 16:18:09] INFO discord Write: ntar mau main ga?
+[2023-03-14 16:18:09] INFO discord Write: Ngerjain tugas dlo <:picardia:724929165123518566>
+[2023-03-14 16:18:09] INFO discord Write: Bruh ini Aku main R6 dapet server brazil
+[2023-03-14 16:18:09] INFO discord Write: Dah selesai? <@333542428395044864>
+[2023-03-14 16:18:09] INFO discord Write: ada yang mau tes map?
+[2023-03-14 16:18:09] INFO discord Write: i am angery
+[2023-03-14 16:18:09] INFO discord Write: ada jawaban yang keganti sendiri
+[2023-03-14 16:18:09] INFO discord Write: internet langsung bad
+[2023-03-14 16:18:09] INFO discord Write: pen nyoba
+[2023-03-14 16:18:09] INFO discord Write: > main pubg lite yok
+<:picardia:724929165123518566>
+[2023-03-14 16:18:09] INFO discord Write: aku pernah bisa run pubg pc rata kiri ya
+[2023-03-14 16:18:09] INFO discord Write: terus rendernya painful
+[2023-03-14 16:18:09] INFO discord Write: iya masalahnya di load
+[2023-03-14 16:18:09] INFO discord Write: masuknya pas pesawat dah di ujung map
+[2023-03-14 16:18:09] INFO discord Write: ngeloadnya kita lama bet ajg\
+[2023-03-14 16:18:09] INFO discord Write: ini gamenya lebih kecil daripada valorant
+[2023-03-14 16:18:10] INFO discord Write: loading time
+[2023-03-14 16:18:10] INFO discord Write: <@&513593973814591488>  dah selesai?
+[2023-03-14 16:18:10] INFO discord Write: Sekolah kontol
+[2023-03-14 16:18:10] INFO discord Write: kenapa mati itu painful
+[2023-03-14 16:18:10] INFO discord Write: acog di pubg pc ga enak ya
+[2023-03-14 16:18:10] INFO discord Write: ajg aku asal nyeplos
+[2023-03-14 16:18:10] INFO discord Write: tiba" ad yg ngasihj
+[2023-03-14 16:18:10] INFO discord Write: iya keknya
+[2023-03-14 16:18:10] INFO discord Write: di erangel 30+ fps
+[2023-03-14 16:18:10] INFO discord Write: belum tes
+[2023-03-14 16:18:10] INFO discord Write: pen makan dlo
+[2023-03-14 16:18:10] INFO discord Write: ntar mau main?
+[2023-03-14 16:18:10] INFO discord Write: ntar abis ashar palingan
+[2023-03-14 16:18:11] INFO discord Write: ak recoilnya ga ngotak
+[2023-03-14 16:18:11] INFO discord Write: sekring rumah meledug
+[2023-03-14 16:18:11] INFO discord Write: em tknisian
+[2023-03-14 16:18:11] INFO discord Write: aku nyesel banting mouse
+[2023-03-14 16:18:11] INFO discord Write: mending mukul meja
+[2023-03-14 16:18:12] INFO discord Write: dapet lappland
+[2023-03-14 16:18:12] INFO discord Write: gk boleh
+[2023-03-14 16:18:12] INFO discord Write: bukan discord man
+[2023-03-14 16:18:12] INFO discord Write: bruh tetep gabisa ya
+[2023-03-14 16:18:12] INFO discord Write: aku kedengeran ga
+[2023-03-14 16:18:13] INFO discord Write: man, internet ku juga lagi bad
+[2023-03-14 16:18:13] INFO discord Write: ketemu orang rusia
+[2023-03-14 16:18:13] INFO discord Write: pen mc ah
+[2023-03-14 16:18:13] INFO discord Write: <@!657831088483205120> kemaren dah selesai donlod mc?
+[2023-03-14 16:18:13] INFO discord Write: pen gamble lagi
+[2023-03-14 16:18:13] INFO discord Write: Blm mulai download
+[2023-03-14 16:18:13] INFO discord Write: Perlu upload vid untuk UH
+[2023-03-14 16:18:13] INFO discord Write: cukup download editor murahan
+[2023-03-14 16:18:14] INFO discord Write: epic amat hari senin jam segini masih slep
+[2023-03-14 16:18:14] INFO discord Write: im ded ga masuk kelas 2 kali
+[2023-03-14 16:18:14] INFO discord Write: osu terus ampe tengah malem
+[2023-03-14 16:18:14] INFO discord Write: SS all diff asa ga kite for Fubuki
+[2023-03-14 16:18:14] INFO discord Write: aku kemaren pass 10000 times dong
+[2023-03-14 16:18:14] INFO discord Write: streamnya yang aku kwalahan kan
+[2023-03-14 16:18:14] INFO discord Write: mulus banget anjir
+[2023-03-14 16:18:14] INFO discord Write: stream trainingku seminggu paid off
+[2023-03-14 16:18:14] INFO discord Write: woah tugas ga ada yg tenggat hari ini
+[2023-03-14 16:18:14] INFO discord Write: range ar mu berapa
+[2023-03-14 16:18:14] INFO discord Write: biasa kaget
+[2023-03-14 16:18:14] INFO discord Write: dah lama aku nonton
+[2023-03-14 16:18:14] INFO discord Write: men ini anime apaan jir
+[2023-03-14 16:18:14] INFO discord Write: aku beli aja deh tablet
+[2023-03-14 16:18:14] INFO discord Write: nemu yang 300k kurang
+[2023-03-14 16:18:14] INFO discord Write: ada duidnya
+[2023-03-14 16:18:14] INFO discord Write: aku bingung men
+[2023-03-14 16:18:14] INFO discord Write: beli ga?
+[2023-03-14 16:18:14] INFO discord Write: beli apa ga?
+[2023-03-14 16:18:14] INFO discord Write: toss ya
+[2023-03-14 16:18:14] INFO discord Write: Kamu beli yg mana
+[2023-03-14 16:18:14] INFO discord Write: dzaky masih stay di mouse :D
+[2023-03-14 16:18:14] INFO discord Write: ampe peak
+[2023-03-14 16:18:14] INFO discord Write: Bruh dia stay ampe ad duid paling
+[2023-03-14 16:18:14] INFO discord Write: aku aimnya dah peak
+[2023-03-14 16:18:14] INFO discord Write: kurang speed
+[2023-03-14 16:18:14] INFO discord Write: Man aku ganti pake brown lah
+[2023-03-14 16:18:14] INFO discord Write: Nyoba pencet kok malah lebih enak
+[2023-03-14 16:18:14] INFO discord Write: emang lu pake apa
+[2023-03-14 16:18:14] INFO discord Write: Linear kek red cuma actuation forcenya ringan beud
+[2023-03-14 16:18:15] INFO discord Write: 35 dia
+[2023-03-14 16:18:15] INFO discord Write: aku silver dah cocok
+[2023-03-14 16:18:15] INFO discord Write: pendek actuationnya
+[2023-03-14 16:18:15] INFO discord Write: jadi ga dalem mencetnya
+[2023-03-14 16:18:15] INFO discord Write: me yang main dari awal pake kibord + mouse murahan
+[2023-03-14 16:18:15] INFO discord Write: keyboardmu masi rexus?
+[2023-03-14 16:18:15] INFO discord Write: klo pen ganti, ganti apa lu?
+[2023-03-14 16:18:15] INFO discord Write: yang 60?
+[2023-03-14 16:18:15] INFO discord Write: Aku ga suka ad birunya :3
+[2023-03-14 16:18:15] INFO discord Write: aku sih apa aja suka
+[2023-03-14 16:18:15] INFO discord Write: toh nanti klo ada duit tambahan buat beli keycaps
+[2023-03-14 16:18:15] INFO discord Write: Jadi enggak?
+[2023-03-14 16:18:15] INFO discord Write: Aku beli roti dulu
+[2023-03-14 16:18:15] INFO discord Write: guruku ada yang jarang ngasi tugas
+[2023-03-14 16:18:15] INFO discord Write: tapi sekali tugas
+[2023-03-14 16:18:15] INFO discord Write: ping nya juga stabil
+[2023-03-14 16:18:15] INFO discord Write: ntar lagi ngerjakin physics
+[2023-03-14 16:18:16] INFO discord Write: kan ada mbah gugel
+[2023-03-14 16:18:16] INFO discord Write: baru mulai belajar ini man
+[2023-03-14 16:18:16] INFO discord Write: > kan ada mbah gugel
+<@!458449942370058271>  mbah mu anjir
+[2023-03-14 16:18:16] INFO discord Write: men yakin aku ntar ini salah
+[2023-03-14 16:18:16] INFO discord Write: alhamdulillah aku gaada fisika kimia
+[2023-03-14 16:18:16] INFO discord Write: jan osu ampe tengah malem
+[2023-03-14 16:18:16] INFO discord Write: Ayana sauce material
+[2023-03-14 16:18:17] INFO discord Write: Perhaps <:pog:727415574069641276>
+[2023-03-14 16:18:17] INFO discord Write: keliatan tytydnya
+[2023-03-14 16:18:17] INFO discord Write: ketemu booster
+[2023-03-14 16:18:17] INFO discord Write: tapi retard
+[2023-03-14 16:18:17] INFO discord Write: main ini dong
+[2023-03-14 16:18:17] INFO discord Write: gacha pas pelajaran b arab = berkah?
+[2023-03-14 16:18:18] INFO discord Write: b.arab = berkah
+[2023-03-14 16:18:18] INFO discord Write: kena adzab nanti
+[2023-03-14 16:18:18] INFO discord Write: berkah nih
+[2023-03-14 16:18:18] INFO discord Write: lagi dibacain b arab ama gurunya
+[2023-03-14 16:18:18] INFO discord Write: kurang vanguard gan
+[2023-03-14 16:18:18] INFO discord Write: mau keluar spet ini
+[2023-03-14 16:18:18] INFO discord Write: pertengahan september keknya
+[2023-03-14 16:18:18] INFO discord Write: you be like
+[2023-03-14 16:18:18] INFO discord Write: support skill sarianya s1gan
+[2023-03-14 16:18:18] INFO discord Write: menurutku better
+[2023-03-14 16:18:18] INFO discord Write: range nya lebih ged
+[2023-03-14 16:18:19] INFO discord Write: s3manua trigger soalnya D:
+[2023-03-14 16:18:19] INFO discord Write: s3 bagusnya di sp recovery
+[2023-03-14 16:18:19] INFO discord Write: Karna manuak trigger makanya bagus
+[2023-03-14 16:18:19] INFO discord Write: division atau remnant dulu? <@!333542428395044864>
+[2023-03-14 16:18:19] INFO discord Write: mana enaknya
+[2023-03-14 16:18:19] INFO discord Write: paling kecil yg mana
+[2023-03-14 16:18:20] INFO discord Write: u think 1 tb murah??
+.
+[2023-03-14 16:18:20] INFO discord Write: bukan refurbish matane
+[2023-03-14 16:18:20] INFO discord Write: punyaku dibawah 100
+[2023-03-14 16:18:20] INFO discord Write: liter anjay
+[2023-03-14 16:18:20] INFO discord Write: kemaren aku isi aer
+[2023-03-14 16:18:20] INFO discord Write: emangnya ssd mu apa?
+[2023-03-14 16:18:20] INFO discord Write: tapi yg 128
+[2023-03-14 16:18:20] INFO discord Write: november aku ultah
+[2023-03-14 16:18:20] INFO discord Write: buat alas kaki la asu
+[2023-03-14 16:18:20] INFO discord Write: ga enak injek lantai
+[2023-03-14 16:18:20] INFO discord Write: aku kakinya diatas kursi sih
+[2023-03-14 16:18:20] INFO discord Write: ya diatas
+[2023-03-14 16:18:20] INFO discord Write: ditekuk diatas
+[2023-03-14 16:18:20] INFO discord Write: kek duduk di angkringan
+[2023-03-14 16:18:21] INFO discord Write: kamu duduk di kursi apa?
+[2023-03-14 16:18:21] INFO discord Write: kursi plastik berkaki tiga?
+[2023-03-14 16:18:21] INFO discord Write: ini besi
+[2023-03-14 16:18:21] INFO discord Write: aimku di training map = good
+[2023-03-14 16:18:21] INFO discord Write: kek menolak ngehit circlenya
+[2023-03-14 16:18:21] INFO discord Write: mesti missnya kurang beberapa circle doang
+[2023-03-14 16:18:21] INFO discord Write: ini aku pause sebelum hard partnya
+[2023-03-14 16:18:21] INFO discord Write: aku takut ngeplay
+[2023-03-14 16:18:21] INFO discord Write: ke kamar mandi
+[2023-03-14 16:18:21] INFO discord Write: abis tu nonton yutub bentar
+[2023-03-14 16:18:21] INFO discord Write: baru balik
+[2023-03-14 16:18:21] INFO discord Write: kok tau nanjing
+[2023-03-14 16:18:22] INFO discord Write: siapa yg mau cees?
+[2023-03-14 16:18:22] INFO discord Write: market price gpu bakal turun ya?
+[2023-03-14 16:18:22] INFO discord Write: kalo claimnya bener 3070 lebih cepet dari 2080 ti mesti langsung crash harganya
+[2023-03-14 16:18:22] INFO discord Write: masa gpu 16jt dikalahin sama yg 7jt
+[2023-03-14 16:18:22] INFO discord Write: yang kena impact tu semua gpu ato yang high class doang
+[2023-03-14 16:18:22] INFO discord Write: mid tier juga kena ya
+[2023-03-14 16:18:22] INFO discord Write: kena juga mungkin
+[2023-03-14 16:18:22] INFO discord Write: tapi 3060 ae lom ad
+[2023-03-14 16:18:22] INFO discord Write: tapi kalo harganya 3060 299 itu mantep beud ajg
+[2023-03-14 16:18:22] INFO discord Write: tinggal tunggu amd strike
+[2023-03-14 16:18:23] INFO discord Write: counternya harus bagus
+[2023-03-14 16:18:23] INFO discord Write: ga kek kemaren
+[2023-03-14 16:18:23] INFO discord Write: ryzen gen 4 dah keluar beelu?
+[2023-03-14 16:18:23] INFO discord Write: > ryzen gen 4 dah keluar beelu?
+lom?
+[2023-03-14 16:18:23] INFO discord Write: tinggal wait ryzen 4950
+[2023-03-14 16:18:23] INFO discord Write: klo launch nya bareng epik gan
+[2023-03-14 16:18:23] INFO discord Write: man setiap kali aku nginjek karpetnya kek injek kucing =_=
+[2023-03-14 16:18:23] INFO discord Write: pas banget done nya
+[2023-03-14 16:18:23] INFO discord Write: tadi tiduran bentar
+[2023-03-14 16:18:23] INFO discord Write: dah download remnant?
+[2023-03-14 16:18:24] INFO discord Write: kamu belum po :v
+[2023-03-14 16:18:24] INFO discord Write: film apaan tuh
+[2023-03-14 16:18:24] INFO discord Write: awalnya maling dia
+[2023-03-14 16:18:24] INFO discord Write: aku biasanya ga nonton film
+[2023-03-14 16:18:24] INFO discord Write: klo misal temenku ngajak nonton jadi asik
+[2023-03-14 16:18:24] INFO discord Write: <@333542428395044864> kamu milih archetype apa?
+[2023-03-14 16:18:25] INFO discord Write: Ohh yg ada old man itu
+[2023-03-14 16:18:25] INFO discord Write: Pelajaran apa
+[2023-03-14 16:18:25] INFO discord Write: ah shit aku ada pengajian jam 1
+[2023-03-14 16:18:25] INFO discord Write: ceramah atau tartil
+[2023-03-14 16:18:25] INFO discord Write: ceramah men
+[2023-03-14 16:18:26] INFO discord Write: btruh gon
+[2023-03-14 16:18:26] INFO discord Write: <@!657831088483205120> kapan selesai pelajaran men
+[2023-03-14 16:18:26] INFO discord Write: lebih lama dari hari biasa <:thonk:732446144436633688>
+[2023-03-14 16:18:26] INFO discord Write: Gantian <@333542428395044864> yg tidu
+[2023-03-14 16:18:26] INFO discord Write: dah mau maghrib men
+[2023-03-14 16:18:26] INFO discord Write: enak gan tidur abis jumatan ampe magrib
+[2023-03-14 16:18:26] INFO discord Write: Padahal ada yg berisik
+[2023-03-14 16:18:26] INFO discord Write: aku pengen nyobak ikut kompetisi
+[2023-03-14 16:18:27] INFO discord Write: baru nulis 300 dah males
+[2023-03-14 16:18:27] INFO discord Write: kurang motivasi tu
+[2023-03-14 16:18:27] INFO discord Write: tapi aku pengen
+[2023-03-14 16:18:27] INFO discord Write: kompetisi nya dari jepang man
+[2023-03-14 16:18:27] INFO discord Write: jadi pengen
+[2023-03-14 16:18:27] INFO discord Write: woah tiba2 muncul
+[2023-03-14 16:18:27] INFO discord Write: ntar abis zuhur
+[2023-03-14 16:18:27] INFO discord Write: emotenya mana
+[2023-03-14 16:18:27] INFO discord Write: <@!657831088483205120> makan dulu <:cantcpicardia:737841606589284426>
+[2023-03-14 16:18:27] INFO discord Write: dah 40 min man wth
+[2023-03-14 16:18:27] INFO discord Write: emangnya besok apaan?
+[2023-03-14 16:18:27] INFO discord Write: ultah sekolahan <:picardia:724929165123518566>
+[2023-03-14 16:18:28] INFO discord Write: Muhammadiyah atau sekolah mu tok?
+[2023-03-14 16:18:28] INFO discord Write: > Muhammadiyah atau sekolah mu tok?
+sekolahku
+[2023-03-14 16:18:28] INFO discord Write: tf dah bangun aja njincc
+[2023-03-14 16:18:28] INFO discord Write: ntar lah bruh
+[2023-03-14 16:18:28] INFO discord Write: aku ngerjain tugad
+[2023-03-14 16:18:28] INFO discord Write: ntaran lah jam 1 atw 2
+[2023-03-14 16:18:28] INFO discord Write: bhs ingriss aq sekarang
+[2023-03-14 16:18:28] INFO discord Write: Aku mandi dolo
+[2023-03-14 16:18:29] INFO discord Write: ntar jam 9 klo aku msh bangun <:picardia:724929165123518566>
+[2023-03-14 16:18:29] INFO discord Write: ngapain tidur jam 8
+[2023-03-14 16:18:29] INFO discord Write: tadi siang aku mau tidur
+[2023-03-14 16:18:29] INFO discord Write: ada yang gedor" pintu kamar amjnk
+[2023-03-14 16:18:29] INFO discord Write: damn neko
+[2023-03-14 16:18:30] INFO discord Write: salah :v
+[2023-03-14 16:18:30] INFO discord Write: dah ni
+[2023-03-14 16:18:30] INFO discord Write: <@!333542428395044864> mau beta test map ga?
+[2023-03-14 16:18:30] INFO discord Write: bentar lagi tanggal 11
+[2023-03-14 16:18:30] INFO discord Write: title nya japanese jadi rythm gk nemu
+[2023-03-14 16:18:30] INFO discord Write: padahal dah upload
+[2023-03-14 16:18:30] INFO discord Write: Duluan aja dulu aku disuruh ke atm
+[2023-03-14 16:18:30] INFO discord Write: tinggal 2 tapi harus tulis tangan <:woke:745209430081142854>
+[2023-03-14 16:18:30] INFO discord Write: suka banget gurunya spam tugas
+[2023-03-14 16:18:31] INFO discord Write: i am ngerjain tugas <:woke:745209430081142854>
+[2023-03-14 16:18:31] INFO discord Write: kill dari task manager trus start lagi
+[2023-03-14 16:18:31] INFO discord Write: sekarang internet ku yg bad
+[2023-03-14 16:18:31] INFO discord Write: <@!333542428395044864> dah selesai?
+[2023-03-14 16:18:31] INFO discord Write: kmau ga denger itu
+[2023-03-14 16:18:31] INFO discord Write: hari ini **belum** ada tugas
+[2023-03-14 16:18:31] INFO discord Write: nanti ada tugas
+[2023-03-14 16:18:32] INFO discord Write: epic gmeet pertama kurang dari 15 menit
+[2023-03-14 16:18:32] INFO discord Write: kasih tugas?
+[2023-03-14 16:18:32] INFO discord Write: minggu depan kan ulangan <:picardia:724929165123518566>
+[2023-03-14 16:18:32] INFO discord Write: man i just sawa some shit
+[2023-03-14 16:18:32] INFO discord Write: tapi adult manga
+[2023-03-14 16:18:32] INFO discord Write: 25 mental age
+[2023-03-14 16:18:32] INFO discord Write: age progression keknya ini
+[2023-03-14 16:18:32] INFO discord Write: baru sampe chap 40 men
+[2023-03-14 16:18:33] INFO discord Write: you bet i fucking did
+[2023-03-14 16:18:33] INFO discord Write: gk terlalu parah tu?
+[2023-03-14 16:18:33] INFO discord Write: aenh aku baca
+[2023-03-14 16:18:33] INFO discord Write: itu elemntary man
+[2023-03-14 16:18:33] INFO discord Write: ya buat aku WEIRD
+[2023-03-14 16:18:33] INFO discord Write: lu balik jadi shota
+[2023-03-14 16:18:33] INFO discord Write: lu ketemu pujaan hati di masa depan
+[2023-03-14 16:18:33] INFO discord Write: tapi bentuknay masih loli
+[2023-03-14 16:18:33] INFO discord Write: klo aku beda
+[2023-03-14 16:18:33] INFO discord Write: aku lebih suka ngespoil
+[2023-03-14 16:18:34] INFO discord Write: dude nanti aja
+[2023-03-14 16:18:34] INFO discord Write: Lagi uh mati lampu
+[2023-03-14 16:18:34] INFO discord Write: mang biasanya brp
+[2023-03-14 16:18:34] INFO discord Write: bruh aku mau tiduran
+[2023-03-14 16:18:34] INFO discord Write: aku dah nonton men
+[2023-03-14 16:18:34] INFO discord Write: Kamu dah nonton?
+[2023-03-14 16:18:34] INFO discord Write: Jadi kayaknya sequel nya juga
+[2023-03-14 16:18:34] INFO discord Write: Boleh klo mau besok
+[2023-03-14 16:18:34] INFO discord Write: Keknya ada di hdd ayahku
+[2023-03-14 16:18:35] INFO discord Write: Jam 3
+[2023-03-14 16:18:35] INFO discord Write: Wait actually aku baru inget dah pernah nonton it 2 bruh <:pepebruh:748893532126707762>
+[2023-03-14 16:18:35] INFO discord Write: Film laen apa
+[2023-03-14 16:18:35] INFO discord Write: Paan tu bjir
+[2023-03-14 16:18:35] INFO discord Write: Cewek yg keluar dari tv
+[2023-03-14 16:18:35] INFO discord Write: Bajigur malah sange aku ntar
+[2023-03-14 16:18:35] INFO discord Write: Interstellar dah pernah nonton?
+[2023-03-14 16:18:35] INFO discord Write: Bukanya interstellar sci fi?
+[2023-03-14 16:18:36] INFO discord Write: Interesting aku liat klipnya men
+[2023-03-14 16:18:36] INFO discord Write: Iya sih tapi film kayak gituan mending nonton sendiri
+[2023-03-14 16:18:36] INFO discord Write: aku pen nonton interstellar juga
+[2023-03-14 16:18:36] INFO discord Write: mujaiki no rakuen agak aneh
+[2023-03-14 16:18:36] INFO discord Write: anak kelas 5 gk sadar perbedaan gender
+[2023-03-14 16:18:37] INFO discord Write: tapi  hentai gk selama itu
+[2023-03-14 16:18:37] INFO discord Write: kelas 5 aku baru tau hal kayak gini
+[2023-03-14 16:18:37] INFO discord Write: aku dah ternodai dari kelas 3 men
+[2023-03-14 16:18:37] INFO discord Write: cuma baru tau coli kelas 5
+[2023-03-14 16:18:37] INFO discord Write: dinodai temen smh
+[2023-03-14 16:18:37] INFO discord Write: men kenapa rata" guru inggris indonesia english accentnya retard :/
+[2023-03-14 16:18:37] INFO discord Write: belum selese?
+[2023-03-14 16:18:37] INFO discord Write: nanti jam 3 baru selesai aku
+[2023-03-14 16:18:38] INFO discord Write: jadi nonton ga?
+[2023-03-14 16:18:38] INFO discord Write: jadi lahh
+[2023-03-14 16:18:38] INFO discord Write: bruh wta
+[2023-03-14 16:18:38] INFO discord Write: Klo gitu biasanya cuma pas overheat
+[2023-03-14 16:18:38] INFO discord Write: Ntar aku liat tempnya
+[2023-03-14 16:18:38] INFO discord Write: Tapi sekarang nge force windows update tapi aku gatau
+[2023-03-14 16:18:38] INFO discord Write: tadi listrik nya turun sebentar untuk aku sama dana
+[2023-03-14 16:18:38] INFO discord Write: cabut stekernya
+[2023-03-14 16:18:38] INFO discord Write: Windows updatenya keknya big dah ini asu
+[2023-03-14 16:18:39] INFO discord Write: Maksudnya apa asu
+[2023-03-14 16:18:39] INFO discord Write: aku juga makan
+[2023-03-14 16:18:39] INFO discord Write: klo dah ping
+[2023-03-14 16:18:39] INFO discord Write: ada pr
+[2023-03-14 16:18:40] INFO discord Write: sekarang ping ku malah bagus
+[2023-03-14 16:18:40] INFO discord Write: tadi main cs aku dip ping nya
+[2023-03-14 16:18:40] INFO discord Write: u in pain
+[2023-03-14 16:18:40] INFO discord Write: what the fuck kenapa jadi hongkong
+[2023-03-14 16:18:40] INFO discord Write: di ban
+[2023-03-14 16:18:40] INFO discord Write: dipindahin kemanma
+[2023-03-14 16:18:40] INFO discord Write: aku restart wifi dlu siapa tau bisa
+[2023-03-14 16:18:41] INFO discord Write: masih main
+[2023-03-14 16:18:41] INFO discord Write: wtf dzaky belum bangun!!
+[2023-03-14 16:18:41] INFO discord Write: eh pagi
+[2023-03-14 16:18:41] INFO discord Write: ini dimana ajg
+[2023-03-14 16:18:41] INFO discord Write: aku pen minecraft
+[2023-03-14 16:18:41] INFO discord Write: Ntar main nya aku
+[2023-03-14 16:18:41] INFO discord Write: Tadi tdur jam 3
+[2023-03-14 16:18:42] INFO discord Write: mau mabar bareng temenku?
+[2023-03-14 16:18:42] INFO discord Write: aku ngerjain tugas men
+[2023-03-14 16:18:42] INFO discord Write: aku mabar bareng temen
+[2023-03-14 16:18:42] INFO discord Write: vc dimana
+[2023-03-14 16:18:42] INFO discord Write: sever sekolah
+[2023-03-14 16:18:42] INFO discord Write: eh ngga kamu aja yang bikin
+[2023-03-14 16:18:42] INFO discord Write: bikin grup chat
+[2023-03-14 16:18:42] INFO discord Write: sama temenmu sama aku
+[2023-03-14 16:18:42] INFO discord Write: man jadi pengen misi juga
+[2023-03-14 16:18:43] INFO discord Write: tugasnya dah selese lom tod
+[2023-03-14 16:18:43] INFO discord Write: tugas belom say
+[2023-03-14 16:18:43] INFO discord Write: masih 7
+[2023-03-14 16:18:43] INFO discord Write: biar ga dead pas main
+[2023-03-14 16:18:43] INFO discord Write: aku mau ngeluarin cancer bentar
+[2023-03-14 16:18:43] INFO discord Write: ok dah
+[2023-03-14 16:18:43] INFO discord Write: ketika nanya guru tapi belom dijawab
+[2023-03-14 16:18:43] INFO discord Write: mumggu berapa tahun jing baru bisa beli
+[2023-03-14 16:18:44] INFO discord Write: aku bisa custom pc ku biar theme fubuki
+[2023-03-14 16:18:44] INFO discord Write: kan putih
+[2023-03-14 16:18:44] INFO discord Write: custom sih klo backgrounya putih jadi apa aja bisa
+[2023-03-14 16:18:44] INFO discord Write: aku ga ngefans fubuki sih
+[2023-03-14 16:18:44] INFO discord Write: ya aku suka
+[2023-03-14 16:18:44] INFO discord Write: sebatas suka aja
+[2023-03-14 16:18:44] INFO discord Write: ada yang mau vc ga?
+[2023-03-14 16:18:44] INFO discord Write: malah nonton gawr gura ngestream aku cok
+[2023-03-14 16:18:45] INFO discord Write: lupa ujian blok
+[2023-03-14 16:18:45] INFO discord Write: contek berjamaah?
+[2023-03-14 16:18:45] INFO discord Write: so contek berjamaah
+[2023-03-14 16:18:45] INFO discord Write: pas ujiannya lah
+[2023-03-14 16:18:45] INFO discord Write: msg ku baru kekirim
+[2023-03-14 16:18:45] INFO discord Write: kamu belum ngerjakin tugas?
+[2023-03-14 16:18:45] INFO discord Write: soalnya basa jawa
+[2023-03-14 16:18:45] INFO discord Write: aku cuma tidur 4 jam tadi pagi <:thonk:732446144436633688>
+[2023-03-14 16:18:45] INFO discord Write: aku tidur 4 jam tadi siang
+[2023-03-14 16:18:45] INFO discord Write: bro kamu tidur jam berapa
+[2023-03-14 16:18:45] INFO discord Write: tidur jam 1 malem bangun jam 5
+[2023-03-14 16:18:45] INFO discord Write: belum tidur ampe sekarang
+[2023-03-14 16:18:45] INFO discord Write: dihantui tugas
+[2023-03-14 16:18:46] INFO discord Write: ntar di mimpi kan
+[2023-03-14 16:18:46] INFO discord Write: lu lagi daitas gedung
+[2023-03-14 16:18:46] INFO discord Write: terus nanti ada docs yang dorong kamu jatuh
+[2023-03-14 16:18:46] INFO discord Write: aku inget
+[2023-03-14 16:18:46] INFO discord Write: nanti jatuhnya ga ada akhir
+[2023-03-14 16:18:47] INFO discord Write: trus ntar ganti dimensi
+[2023-03-14 16:18:47] INFO discord Write: aku hampir ga pernah bangun kaget gara" mimpi dah lama banget
+[2023-03-14 16:18:47] INFO discord Write: ternyata cuman tidur 5 menit
+[2023-03-14 16:18:47] INFO discord Write: aku pen gelud sama wither dulu
+[2023-03-14 16:18:47] INFO discord Write: tadi ulangan pjok
+[2023-03-14 16:18:47] INFO discord Write: pertanyaannya ga jelas
+[2023-03-14 16:18:47] INFO discord Write: dapet 6.5 aku
+[2023-03-14 16:18:47] INFO discord Write: setannya dateng gan
+[2023-03-14 16:18:47] INFO discord Write: ini kok gak ada ar-15 ajing
+[2023-03-14 16:18:47] INFO discord Write: itu jawabannya boomerang
+[2023-03-14 16:18:47] INFO discord Write: karena orang jawa suka boom boom
+[2023-03-14 16:18:47] INFO discord Write: salah jir
+[2023-03-14 16:18:47] INFO discord Write: pusakanya jenglot
+[2023-03-14 16:18:48] INFO discord Write: mau nyantet
+[2023-03-14 16:18:48] INFO discord Write: damn gamer
+[2023-03-14 16:18:48] INFO discord Write: aku juga mau dong ulangan ditumpuk langsung bisa dikerjain semua sekaligus
+[2023-03-14 16:18:48] INFO discord Write: ga harus nunggu"
+[2023-03-14 16:18:48] INFO discord Write: aku sebenernya bisa
+[2023-03-14 16:18:48] INFO discord Write: last due nya hari terakhir ujian soalnya
+[2023-03-14 16:18:48] INFO discord Write: enak banget ea asu
+[2023-03-14 16:18:48] INFO discord Write: aku kalo gitu sehari ngerjain 5-7 tergantung pelajaran
+[2023-03-14 16:18:48] INFO discord Write: biar 3 hari atw 4 selesai
+[2023-03-14 16:18:48] INFO discord Write: tapi nanti dicek guruku
+[2023-03-14 16:18:48] INFO discord Write: yang dah ngesubmit siapa aja
+[2023-03-14 16:18:48] INFO discord Write: nanti aku kemention
+[2023-03-14 16:18:48] INFO discord Write: men males banget harus nunggu asu
+[2023-03-14 16:18:48] INFO discord Write: nanti nyampe 400$
+[2023-03-14 16:18:48] INFO discord Write: you know what i feel saat ngerjain ulangan basa jawa?
+[2023-03-14 16:18:48] INFO discord Write: man aku mau makan odading mang oleh
+[2023-03-14 16:18:48] INFO discord Write: mau jadi iron men
+[2023-03-14 16:18:49] INFO discord Write: pen tak map
+[2023-03-14 16:18:49] INFO discord Write: b.ing ku 8.75
+[2023-03-14 16:18:49] INFO discord Write: aku disuruh nge scan dokumen
+[2023-03-14 16:18:49] INFO discord Write: aku pen main fgo
+[2023-03-14 16:18:50] INFO discord Write: sama aja
+[2023-03-14 16:18:50] INFO discord Write: Kok ketemu
+[2023-03-14 16:18:50] INFO discord Write: jadi gini
+[2023-03-14 16:18:50] INFO discord Write: aku mau nyari screenshot fgo siapa tau ada
+[2023-03-14 16:18:50] INFO discord Write: nggali lah ke gallery
+[2023-03-14 16:18:50] INFO discord Write: ntar AMJHINK MAU SHOLAT DLOLO
+[2023-03-14 16:18:50] INFO discord Write: <@!458449942370058271> cok gv dah buka lom
+[2023-03-14 16:18:50] INFO discord Write: bukan nya bng itu yg dibully
+[2023-03-14 16:18:51] INFO discord Write: but ie
+[2023-03-14 16:18:51] INFO discord Write: tapi lebih bagus
+[2023-03-14 16:18:51] INFO discord Write: bisa pake extensinya chrome sama firefox
+[2023-03-14 16:18:51] INFO discord Write: ntar lah
+[2023-03-14 16:18:51] INFO discord Write: Tadi jadi gk main abis ashar
+[2023-03-14 16:18:51] INFO discord Write: aku rebahan
+[2023-03-14 16:18:51] INFO discord Write: Oregairu men
+[2023-03-14 16:18:51] INFO discord Write: yang s3 kampank
+[2023-03-14 16:18:51] INFO discord Write: aku cuma liat sopiler sih lom nonton
+[2023-03-14 16:18:51] INFO discord Write: nunggu batch
+[2023-03-14 16:18:51] INFO discord Write: Pelan banget suaranya
+[2023-03-14 16:18:51] INFO discord Write: upload youtube vid langsung jelek internet nya
+[2023-03-14 16:18:51] INFO discord Write: dah nonton
+[2023-03-14 16:18:51] INFO discord Write: keren anjg
+[2023-03-14 16:18:52] INFO discord Write: aneh aku liat :/
+[2023-03-14 16:18:52] INFO discord Write: transisinya aneh beuddd
+[2023-03-14 16:18:52] INFO discord Write: ketika pln ngajak gelud
+[2023-03-14 16:18:52] INFO discord Write: masih ta
+[2023-03-14 16:18:52] INFO discord Write: yes, pln ngajak gue lud
+[2023-03-14 16:18:52] INFO discord Write: mati lampu lagi? <@!458449942370058271>
+[2023-03-14 16:18:53] INFO discord Write: mbayarnya gimana anjg
+[2023-03-14 16:18:53] INFO discord Write: mapku jadi gan
+[2023-03-14 16:18:53] INFO discord Write: tabku nyetrum
+[2023-03-14 16:18:53] INFO discord Write: kan ketumpahan aer kan
+[2023-03-14 16:18:53] INFO discord Write: tak sentuh
+[2023-03-14 16:18:53] INFO discord Write: astagfirullah ketumpahan air
+[2023-03-14 16:18:53] INFO discord Write: buat ngilangin nervous
+[2023-03-14 16:18:53] INFO discord Write: dapet yg bagus
+[2023-03-14 16:18:53] INFO discord Write: stat ini nya tanpa apa apa dah 900
+[2023-03-14 16:18:53] INFO discord Write: shut your dick man
+[2023-03-14 16:18:53] INFO discord Write: selama artnya ga shit
+[2023-03-14 16:18:53] INFO discord Write: art nya pastel
+[2023-03-14 16:18:54] INFO discord Write: aku mulai masuj rabu
+[2023-03-14 16:18:54] INFO discord Write: buffnya mantep anjink
+[2023-03-14 16:18:54] INFO discord Write: masi ujian?
+[2023-03-14 16:18:54] INFO discord Write: ngerjain ulangan soalnya ada di gclass
+[2023-03-14 16:18:54] INFO discord Write: suruh masukin token 6 digit angka semua
+[2023-03-14 16:18:54] INFO discord Write: tapi ga ada limit masukinnya
+[2023-03-14 16:18:54] INFO discord Write: bisa di hard breach -_-
+[2023-03-14 16:18:54] INFO discord Write: dah 2 kali asu di breach
+[2023-03-14 16:18:54] INFO discord Write: gblg beud dah panitianya
+[2023-03-14 16:18:54] INFO discord Write: ketika lu dikick dari vc karena kucing bangsad
+[2023-03-14 16:18:54] INFO discord Write: tidak dominating
+[2023-03-14 16:18:54] INFO discord Write: aku ga toxic orangnya
+[2023-03-14 16:18:54] INFO discord Write: ntar ulangan berikutnya aku pake rng nih
+[2023-03-14 16:18:55] INFO discord Write: dah selese ujian ?
+[2023-03-14 16:18:55] INFO discord Write: lama beud
+[2023-03-14 16:18:55] INFO discord Write: <@!333542428395044864> uhh aku bikin prototype sorting systemnya
+[2023-03-14 16:18:55] INFO discord Write: btw aku ngambil 1 blue ice di nether :3
+[2023-03-14 16:18:55] INFO discord Write: sorting systemnya bagus beuudddd
+[2023-03-14 16:18:55] INFO discord Write: bangga aku cokk
+[2023-03-14 16:18:55] INFO discord Write: dia belum 200 pp gang
+[2023-03-14 16:18:55] INFO discord Write: wkwkwk ga suka bgt ama dia
+[2023-03-14 16:18:55] INFO discord Write: ga juga
+[2023-03-14 16:18:55] INFO discord Write: dia motivasiku malah
+[2023-03-14 16:18:55] INFO discord Write: feeling ga mau dikalahin
+[2023-03-14 16:18:55] INFO discord Write: I AM STRAIGHT
+[2023-03-14 16:18:56] INFO discord Write: ntar abis makan
+[2023-03-14 16:18:56] INFO discord Write: ditunggu selesai updatenya
+[2023-03-14 16:18:56] INFO discord Write: aku pernah di force update warframe belasan giga padahal ga ada update di steam juga
+[2023-03-14 16:18:56] INFO discord Write: lama internetku qwq
+[2023-03-14 16:18:56] INFO discord Write: internetku kesebar rata discord-streaming-donlod
+[2023-03-14 16:18:56] INFO discord Write: jadi aga lambat donlodnya
+[2023-03-14 16:18:56] INFO discord Write: masih download ternyata
+[2023-03-14 16:18:56] INFO discord Write: tak kira diberkahi
+[2023-03-14 16:18:56] INFO discord Write: ternyata tidak
+[2023-03-14 16:18:56] INFO discord Write: masih donlod
+[2023-03-14 16:18:57] INFO discord Write: when i thought gurunya klo jelasin lgsg bisa mudeng
+[2023-03-14 16:18:57] INFO discord Write: suruh cari sendiri
+[2023-03-14 16:18:57] INFO discord Write: mau main itu beneran?
+[2023-03-14 16:18:57] INFO discord Write: klo mau sih hayu
+[2023-03-14 16:18:57] INFO discord Write: bagus ga sih?
+[2023-03-14 16:18:57] INFO discord Write: di sekolah ku lumayan banyak yag main
+[2023-03-14 16:18:57] INFO discord Write: imgur dibanned anjink
+[2023-03-14 16:18:57] INFO discord Write: dah bisa pve 2
+[2023-03-14 16:18:57] INFO discord Write: @everyone masi pada ujian?
+[2023-03-14 16:18:58] INFO discord Write: pelajaran penjas
+[2023-03-14 16:18:58] INFO discord Write: mw main juga ga <@!333542428395044864>
+[2023-03-14 16:18:58] INFO discord Write: masih uh
+[2023-03-14 16:18:58] INFO discord Write: beda pelajaran sekarang
+[2023-03-14 16:18:58] INFO discord Write: aku ngerjain ulangan the illegal way
+[2023-03-14 16:18:58] INFO discord Write: ayo bertobat
+[2023-03-14 16:18:58] INFO discord Write: aku dapet hidayah
+[2023-03-14 16:18:58] INFO discord Write: dapet penceraha
+[2023-03-14 16:18:58] INFO discord Write: dari apaan
+[2023-03-14 16:18:58] INFO discord Write: dari Twitter
+[2023-03-14 16:18:58] INFO discord Write: jangan buka twitter banyak bokepnya
+[2023-03-14 16:18:58] INFO discord Write: liat trending mesti ada #bokepindo
+[2023-03-14 16:18:59] INFO discord Write: aku ga buka trending indo ya
+[2023-03-14 16:18:59] INFO discord Write: aku twitter cuma buat liat osu news dll
+[2023-03-14 16:18:59] INFO discord Write: aku follow semua vtuber sama artist
+[2023-03-14 16:18:59] INFO discord Write: hidayahnya darimana
+[2023-03-14 16:18:59] INFO discord Write: dari random
+[2023-03-14 16:18:59] INFO discord Write: bentar bentar
+[2023-03-14 16:18:59] INFO discord Write: itu artist r18 ya asu
+[2023-03-14 16:18:59] INFO discord Write: kontol yang mau tobat
+[2023-03-14 16:18:59] INFO discord Write: balik home
+[2023-03-14 16:18:59] INFO discord Write: liat gituan
+[2023-03-14 16:18:59] INFO discord Write: tanda" kan ada sebelum itu
+[2023-03-14 16:19:00] INFO discord Write: yang worry tu mati
+[2023-03-14 16:19:00] INFO discord Write: yang worry tuh tobat ditunda tunda
+[2023-03-14 16:19:00] INFO discord Write: besoknya g a bangun
+[2023-03-14 16:19:00] INFO discord Write: kalo aku bangun tidur dah di alam kubur
+[2023-03-14 16:19:00] INFO discord Write: malah bersyukur
+[2023-03-14 16:19:00] INFO discord Write: tidak merasakan sakitnya maut
+[2023-03-14 16:19:00] INFO discord Write: aku masi banyak dosa
+[2023-03-14 16:19:00] INFO discord Write: belum siap aq
+[2023-03-14 16:19:00] INFO discord Write: kamuu lagi punya existential crisis po?
+[2023-03-14 16:19:00] INFO discord Write: kalo mautnya ga sakit berarti khusnul khatimah
+[2023-03-14 16:19:00] INFO discord Write: kasi tau jig
+[2023-03-14 16:19:00] INFO discord Write: orang gatau diketawain >:(
+[2023-03-14 16:19:00] INFO discord Write: ntar mw main ga
+[2023-03-14 16:19:00] INFO discord Write: btw klean dah punya penghasilan lom <:pekosmug:737232836775510067>
+[2023-03-14 16:19:01] INFO discord Write: promosi apaan ajg
+[2023-03-14 16:19:01] INFO discord Write: ciri khasnya linus
+[2023-03-14 16:19:01] INFO discord Write: kesurupan apaa aku ajg
+[2023-03-14 16:19:01] INFO discord Write: kok jadi nonton sendiri
+[2023-03-14 16:19:01] INFO discord Write: sini join baru awalan
+[2023-03-14 16:19:01] INFO discord Write: masih mirip kek animenya
+[2023-03-14 16:19:01] INFO discord Write: di ajak
+[2023-03-14 16:19:02] INFO discord Write: aku bisa denger kamuuu
+[2023-03-14 16:19:02] INFO discord Write: aku sekolah tadi soalnyaa
+[2023-03-14 16:19:02] INFO discord Write: dah tau
+[2023-03-14 16:19:02] INFO discord Write: sain quartz kan?
+[2023-03-14 16:19:02] INFO discord Write: nunggu vote sama dungeonaq
+[2023-03-14 16:19:02] INFO discord Write: punya 14 aq
+[2023-03-14 16:19:02] INFO discord Write: aku belum bisa
+[2023-03-14 16:19:02] INFO discord Write: ada MABIS TAEK
+[2023-03-14 16:19:02] INFO discord Write: berani ga lu
+[2023-03-14 16:19:03] INFO discord Write: kek yg di ig
+[2023-03-14 16:19:03] INFO discord Write: lupa di mute itu
+[2023-03-14 16:19:03] INFO discord Write: sampe jam brp?
+[2023-03-14 16:19:03] INFO discord Write: ngelag ajg pas pencet donlod
+[2023-03-14 16:19:03] INFO discord Write: aku lagi upload
+[2023-03-14 16:19:03] INFO discord Write: bisa denger aku
+[2023-03-14 16:19:03] INFO discord Write: merami ntar klo punya istri istrinya keenakan ajg
+[2023-03-14 16:19:03] INFO discord Write: dipijet dengan 300 bpm finger tap
+[2023-03-14 16:19:04] INFO discord Write: oh btw aku dapet 200 pp lagi loh
+[2023-03-14 16:19:04] INFO discord Write: I am dah liat
+[2023-03-14 16:19:04] INFO discord Write: dah mau maghrib
+[2023-03-14 16:19:04] INFO discord Write: aku mengatakan ayo tidak berarti harus skrg
+[2023-03-14 16:19:04] INFO discord Write: ngejelasin ga penting
+[2023-03-14 16:19:04] INFO discord Write: kasih tugas ga nyambung sama yang dijelasin
+[2023-03-14 16:19:04] INFO discord Write: dapet proyek pkl jauh hari sebelum pkl
+[2023-03-14 16:19:04] INFO discord Write: pkl maret dah disiapin sekarang lmao
+[2023-03-14 16:19:04] INFO discord Write: ntar jualan bakso
+[2023-03-14 16:19:04] INFO discord Write: Pedagang Kaki Lima (PKL)
+[2023-03-14 16:19:05] INFO discord Write: dapet rasio
+[2023-03-14 16:19:05] INFO discord Write: butuh berapa kali atasannya bentakin baru selese <:thonk:732446144436633688>
+[2023-03-14 16:19:05] INFO discord Write: masih ngewibu
+[2023-03-14 16:19:05] INFO discord Write: ransum ajg
+[2023-03-14 16:19:05] INFO discord Write: ora muda ora nani
+[2023-03-14 16:19:06] INFO discord Write: jadi 5 digit gang
+[2023-03-14 16:19:06] INFO discord Write: kukira 200 pp itu hard
+[2023-03-14 16:19:06] INFO discord Write: bulls eye bulan tempat farm ya
+[2023-03-14 16:19:06] INFO discord Write: aku lagi main
+[2023-03-14 16:19:06] INFO discord Write: itu 99.6 dapet 290
+[2023-03-14 16:19:06] INFO discord Write: susah tapi
+[2023-03-14 16:19:06] INFO discord Write: aku pas nyadar Ku hampir fc
+[2023-03-14 16:19:06] INFO discord Write: kuanggap bagus
+[2023-03-14 16:19:06] INFO discord Write: overall acc mu masih 96 D:
+[2023-03-14 16:19:06] INFO discord Write: aku dari mulai game sampe sekarang paling rendah 96.90 klo g salah
+[2023-03-14 16:19:06] INFO discord Write: dikit dikit
+[2023-03-14 16:19:06] INFO discord Write: aku hancur gara gara
+[2023-03-14 16:19:07] INFO discord Write: aku ga pernah pp farm shitmap trus dapet low acc =_=
+[2023-03-14 16:19:07] INFO discord Write: biasanya orang yang low acc tapi rank nya tinggi itu
+[2023-03-14 16:19:07] INFO discord Write: tapi aku accnya tinggi
+[2023-03-14 16:19:07] INFO discord Write: jadi bakatnya finger control
+[2023-03-14 16:19:07] INFO discord Write: aku ngelatih dua duanya
+[2023-03-14 16:19:07] INFO discord Write: readingku dah meningkat
+[2023-03-14 16:19:07] INFO discord Write: latihan di map yang dimana ada burst kenceng langsung pindah ke burst bpm rendah
+[2023-03-14 16:19:07] INFO discord Write: kalo dapet 300 semua berarti reading bagus
+[2023-03-14 16:19:07] INFO discord Write: aku ga pernah downloaf map
+[2023-03-14 16:19:07] INFO discord Write: biasanya nyesel nanti
+[2023-03-14 16:19:08] INFO discord Write: alhamdulillah aku f2 belum pernah ke direct ke shitmap
+[2023-03-14 16:19:08] INFO discord Write: pernahnya pas start osu
+[2023-03-14 16:19:08] INFO discord Write: ampun mas
+[2023-03-14 16:19:08] INFO discord Write: cek ig aku nemu yg bagus
+[2023-03-14 16:19:08] INFO discord Write: aku ada 600k didompet
+[2023-03-14 16:19:08] INFO discord Write: sehari 5k sudah sama pajak
+[2023-03-14 16:19:08] INFO discord Write: perlu ngemis aku
+[2023-03-14 16:19:08] INFO discord Write: sehari 5k?
+[2023-03-14 16:19:08] INFO discord Write: dikasih berapa sehari
+[2023-03-14 16:19:09] INFO discord Write: perasaan dulu 10k
+[2023-03-14 16:19:09] INFO discord Write: tapi kan ada ovo <:pog:727415574069641276>
+[2023-03-14 16:19:09] INFO discord Write: ntar ngemis aku
+[2023-03-14 16:19:09] INFO discord Write: katanya bagus
+[2023-03-14 16:19:09] INFO discord Write: aku liat gameplaynya juga bagus
+[2023-03-14 16:19:09] INFO discord Write: nanti malem tak download
+[2023-03-14 16:19:09] INFO discord Write: rekomen manga gan
+[2023-03-14 16:19:09] INFO discord Write: did you just saw some shit
+[2023-03-14 16:19:09] INFO discord Write: aku habis main
+[2023-03-14 16:19:09] INFO discord Write: lebih suka community kecil
+[2023-03-14 16:19:09] INFO discord Write: ketika lu nolep dan suka tempat gelap
+[2023-03-14 16:19:09] INFO discord Write: pertama kali aku keluar jam 12 siang
+[2023-03-14 16:19:10] INFO discord Write: kok kecil banget
+[2023-03-14 16:19:10] INFO discord Write: ini gamenya cross patform kan
+[2023-03-14 16:19:10] INFO discord Write: ya kecil
+[2023-03-14 16:19:10] INFO discord Write: kan gamenya plg ngga 100 gb baru besar
+[2023-03-14 16:19:10] INFO discord Write: Aku taunya ke ps4
+[2023-03-14 16:19:10] INFO discord Write: iy keknya
+[2023-03-14 16:19:10] INFO discord Write: <@!657831088483205120> dah bikin akun?
+[2023-03-14 16:19:10] INFO discord Write: btw servernya ganti asia jgn lupa
+[2023-03-14 16:19:10] INFO discord Write: itu lagi donlod apa gmn
+[2023-03-14 16:19:10] INFO discord Write: cutnya aneh bgt
+[2023-03-14 16:19:10] INFO discord Write: gk tau
+[2023-03-14 16:19:10] INFO discord Write: kalo misalnya dah ke donlod resource nya nanti lanjut sendiri
+[2023-03-14 16:19:11] INFO discord Write: aku main gamenya ya
+[2023-03-14 16:19:11] INFO discord Write: padahal ya lancar lancar aja
+[2023-03-14 16:19:11] INFO discord Write: ku ga pernah crash
+[2023-03-14 16:19:11] INFO discord Write: mau grinding buat unlock arc 2
+[2023-03-14 16:19:11] INFO discord Write: ada jalan lebar sama tangga gitu kan
+[2023-03-14 16:19:12] INFO discord Write: mendinf manjat ya ga
+[2023-03-14 16:19:12] INFO discord Write: anemolus nyari dimana ajg
+[2023-03-14 16:19:12] INFO discord Write: ntar kalo deket ada lambang di map
+[2023-03-14 16:19:12] INFO discord Write: baru dapet 4
+[2023-03-14 16:19:12] INFO discord Write: aku dah dapet belasan anmjnik
+[2023-03-14 16:19:12] INFO discord Write: nyari pake mata goblog
+[2023-03-14 16:19:12] INFO discord Write: lu main dari kapan ajng
+[2023-03-14 16:19:12] INFO discord Write: gw barusan
+[2023-03-14 16:19:12] INFO discord Write: si anjink aku lvl 7 dah dapet 7
+[2023-03-14 16:19:12] INFO discord Write: buka genshin impact loadnya seabad
+[2023-03-14 16:19:12] INFO discord Write: biasanya klo ada va nya aku skip kan
+[2023-03-14 16:19:12] INFO discord Write: wtf ketemu ternyata
+[2023-03-14 16:19:12] INFO discord Write: <@!333542428395044864>  bisa multi di world yg sama ga?
+[2023-03-14 16:19:12] INFO discord Write: atau lawan boss barenmg?
+[2023-03-14 16:19:12] INFO discord Write: bisa tapi harus level tertentu
+[2023-03-14 16:19:13] INFO discord Write: keknya 16
+[2023-03-14 16:19:13] INFO discord Write: disuruh main dri ps 4
+[2023-03-14 16:19:13] INFO discord Write: dapet apa?
+[2023-03-14 16:19:13] INFO discord Write: belum tau use nya
+[2023-03-14 16:19:13] INFO discord Write: mending amber ya ga
+[2023-03-14 16:19:13] INFO discord Write: tapi aku suka dong
+[2023-03-14 16:19:13] INFO discord Write: aku pengen venti
+[2023-03-14 16:19:14] INFO discord Write: dah tak acc
+[2023-03-14 16:19:14] INFO discord Write: aku main ms word
+[2023-03-14 16:19:14] INFO discord Write: aku main genshin impact
+[2023-03-14 16:19:14] INFO discord Write: sama nemenin yg lagi main ms word
+[2023-03-14 16:19:14] INFO discord Write: aku bermain ms word!!!!!!
+[2023-03-14 16:19:14] INFO discord Write: liat batik
+[2023-03-14 16:19:14] INFO discord Write: itu jaringan epitel <:pepesad:747298859557978124>
+[2023-03-14 16:19:14] INFO discord Write: ui nya hampir sama ke mobile
+[2023-03-14 16:19:15] INFO discord Write: maksudnya admin?
+[2023-03-14 16:19:15] INFO discord Write: tanya <@!333542428395044864>
+[2023-03-14 16:19:15] INFO discord Write: tapi di server ini kan kalian semua admin
+[2023-03-14 16:19:15] INFO discord Write: gatau klo di server sana
+[2023-03-14 16:19:15] INFO discord Write: bruh masa ga bisa di inv oawkowaowak
+[2023-03-14 16:19:15] INFO discord Write: men pernah ga
+[2023-03-14 16:19:15] INFO discord Write: ga ada teleport waypointnya
+[2023-03-14 16:19:15] INFO discord Write: lah muncul lagi
+[2023-03-14 16:19:15] INFO discord Write: jadi lupa pengen nanya apa
+[2023-03-14 16:19:16] INFO discord Write: kamu tak invite
+[2023-03-14 16:19:16] INFO discord Write: keknya nga
+[2023-03-14 16:19:16] INFO discord Write: aku sering teleport e
+[2023-03-14 16:19:16] INFO discord Write: aku belum ngebuka semua waypoint jadinya masih keliling"
+[2023-03-14 16:19:16] INFO discord Write: btw anemo sigilku dah 200 lebih <:picardia:724929165123518566>
+[2023-03-14 16:19:16] INFO discord Write: rajin beud buka xchest
+[2023-03-14 16:19:16] INFO discord Write: aku ngexplore tempat baru harus nunggu ngerender
+[2023-03-14 16:19:16] INFO discord Write: aku aku spam pencet\
+[2023-03-14 16:19:16] INFO discord Write: tapi dapet chara mayan bagus
+[2023-03-14 16:19:17] INFO discord Write: aku tadi kan disconnected\
+[2023-03-14 16:19:17] INFO discord Write: terus ngebug
+[2023-03-14 16:19:17] INFO discord Write: barangkali bisa dapet bagus
+[2023-03-14 16:19:17] INFO discord Write: aku diajak ga
+[2023-03-14 16:19:17] INFO discord Write: mau solat dulu abis ini
+[2023-03-14 16:19:17] INFO discord Write: dah bersyukur aku
+[2023-03-14 16:19:17] INFO discord Write: processor ku tak berkutik
+[2023-03-14 16:19:17] INFO discord Write: ameno anaknya cari pas malem
+[2023-03-14 16:19:18] INFO discord Write: udah solatz?
+[2023-03-14 16:19:18] INFO discord Write: <@!333542428395044864> suka lonte yak
+[2023-03-14 16:19:18] INFO discord Write: chest tu keresoawn ga sih
+[2023-03-14 16:19:18] INFO discord Write: <@!657831088483205120>  aku update
+[2023-03-14 16:19:18] INFO discord Write: aku makan dulu
+[2023-03-14 16:19:18] INFO discord Write: klean masi mau valorant kan?
+aku slep nih
+[2023-03-14 16:19:18] INFO discord Write: jadinya ya slep
+[2023-03-14 16:19:18] INFO discord Write: deva orientasi maba be like:
+[2023-03-14 16:19:18] INFO discord Write: membangun mental kontol kau pecah
+[2023-03-14 16:19:19] INFO discord Write: aku nemu banyak beud amenoculus
+[2023-03-14 16:19:19] INFO discord Write: mw tau dimana?
+[2023-03-14 16:19:19] INFO discord Write: dimana dong
+[2023-03-14 16:19:19] INFO discord Write: ss di hp susa
+[2023-03-14 16:19:19] INFO discord Write: deket pantai
+[2023-03-14 16:19:19] INFO discord Write: bukan pantai sih
+[2023-03-14 16:19:19] INFO discord Write: lu adventure rank brp?
+[2023-03-14 16:19:19] INFO discord Write: lu act 1 dah selese smua?
+[2023-03-14 16:19:19] INFO discord Write: Tak kick dari server kelas ku
+[2023-03-14 16:19:19] INFO discord Write: aku dah sering ngekick
+[2023-03-14 16:19:19] INFO discord Write: tapi apakah pernah ngerasain di kick
+[2023-03-14 16:19:20] INFO discord Write: playcount ku sama whitecat hampir sama T_T
+[2023-03-14 16:19:20] INFO discord Write: dia sebenernya dah punya sekitar 120k
+[2023-03-14 16:19:20] INFO discord Write: sama ini klo belum buka
+[2023-03-14 16:19:20] INFO discord Write: btw aku ganti akun
+[2023-03-14 16:19:20] INFO discord Write: <@!458449942370058271> nyoba reroll gacha 3x10 dah dapet 5* dong
+[2023-03-14 16:19:20] INFO discord Write: kalo gacha nya kek gini ya ganti akun aku
+[2023-03-14 16:19:20] INFO discord Write: aku di akun yg pertama dah gacha 9x10 ga dapet 5 star dong
+[2023-03-14 16:19:21] INFO discord Write: mending yang ini
+[2023-03-14 16:19:21] INFO discord Write: yang bilang ga mau reroll malah reroll tuh ajg
+[2023-03-14 16:19:21] INFO discord Write: yang notable cuma barbara
+[2023-03-14 16:19:21] INFO discord Write: aku pen nyoba juga ah
+[2023-03-14 16:19:21] INFO discord Write: dah lvl 9 aku main dari jam 5
+[2023-03-14 16:19:21] INFO discord Write: uid nya diatas
+[2023-03-14 16:19:21] INFO discord Write: Jadi aku yang nge add nih
+[2023-03-14 16:19:21] INFO discord Write: aku belum nentuin pake akun amana
+[2023-03-14 16:19:21] INFO discord Write: kalo belum nentuin bikinnya paje username ae la
+[2023-03-14 16:19:21] INFO discord Write: tapi diinget
+[2023-03-14 16:19:21] INFO discord Write: pake email
+[2023-03-14 16:19:21] INFO discord Write: sama kek arknight
+[2023-03-14 16:19:21] INFO discord Write: ada banyak akun aku
+[2023-03-14 16:19:21] INFO discord Write: kok aku cuma dapet 10 koin gacha ya\
+[2023-03-14 16:19:22] INFO discord Write: ide yang bagus
+[2023-03-14 16:19:22] INFO discord Write: aku prnha liat
+[2023-03-14 16:19:22] INFO discord Write: but wait
+[2023-03-14 16:19:22] INFO discord Write: kok ga lanjut ini chain reactionnysa
+[2023-03-14 16:19:22] INFO discord Write: jadi bisa dapet unlimited token sama exp?
+[2023-03-14 16:19:22] INFO discord Write: walaupun cuma 1
+[2023-03-14 16:19:22] INFO discord Write: sampe 3k damage
+[2023-03-14 16:19:22] INFO discord Write: basic attack nya strong juga
+[2023-03-14 16:19:22] INFO discord Write: dibandingin amber trash
+[2023-03-14 16:19:22] INFO discord Write: lu gacha tokennya dapet brp sih?
+[2023-03-14 16:19:22] INFO discord Write: bruh Lisa sama kaeye dapet gratis?
+[2023-03-14 16:19:22] INFO discord Write: > lu gacha tokennya dapet brp sih?
+maksudnya apa
+[2023-03-14 16:19:22] INFO discord Write: kan tergantung level berapa ntar dikasih reward
+[2023-03-14 16:19:22] INFO discord Write: aku dah gacha 3x10 pokoknya
+[2023-03-14 16:19:22] INFO discord Write: masih ada sisa primogem 1200
+[2023-03-14 16:19:22] INFO discord Write: burh dapet fischl sama sucrose
+[2023-03-14 16:19:22] INFO discord Write: di satu 10x
+[2023-03-14 16:19:22] INFO discord Write: yang pertama banget?
+[2023-03-14 16:19:22] INFO discord Write: apa yang kedua
+[2023-03-14 16:19:22] INFO discord Write: keknya kemaren kamu ngga dapet pas yg pertama wish
+[2023-03-14 16:19:22] INFO discord Write: pertama wish dapet bennet sama noel
+[2023-03-14 16:19:22] INFO discord Write: ini wish kedua
+[2023-03-14 16:19:23] INFO discord Write: bennet sama sucrosse aku gatau
+[2023-03-14 16:19:23] INFO discord Write: bagus gk pullnya?
+[2023-03-14 16:19:23] INFO discord Write: semangat cari bintang limanya ea
+[2023-03-14 16:19:23] INFO discord Write: puny fischl dah bagus
+[2023-03-14 16:19:23] INFO discord Write: menurutku yg anemo trash cuma fischl sama razor bagus
+[2023-03-14 16:19:23] INFO discord Write: razor ga terlalu ya
+[2023-03-14 16:19:23] INFO discord Write: klo aku pullnya gitu aku reroll
+[2023-03-14 16:19:23] INFO discord Write: tapi  kalo dapet venti aku ganti fischl <:picardia:724929165123518566>
+[2023-03-14 16:19:23] INFO discord Write: ngarep dulu dapet venti ye ga
+[2023-03-14 16:19:23] INFO discord Write: walaupun dapet venti aku tetep pake fischl keknya
+[2023-03-14 16:19:23] INFO discord Write: buat 2nd squad
+[2023-03-14 16:19:23] INFO discord Write: klo dapet diluc dah perfek ajg
+[2023-03-14 16:19:23] INFO discord Write: ajg pada main gi
+[2023-03-14 16:19:23] INFO discord Write: dan batreku abis
+[2023-03-14 16:19:23] INFO discord Write: tak cas biar siang ga kehabisan batre
+[2023-03-14 16:19:23] INFO discord Write: masuknya abis jumatan apa gmn
+[2023-03-14 16:19:23] INFO discord Write: udah percobaan ke 3
+[2023-03-14 16:19:24] INFO discord Write: enak banget make dia
+[2023-03-14 16:19:24] INFO discord Write: aku pengen keqibg
+[2023-03-14 16:19:24] INFO discord Write: bentar lagi aku  pulangh
+[2023-03-14 16:19:24] INFO discord Write: ajg pada main genshin impact semua
+[2023-03-14 16:19:24] INFO discord Write: laiya ajg dzaky daritadi ga selesai
+[2023-03-14 16:19:24] INFO discord Write: IM BACKKKKKKKKK
+[2023-03-14 16:19:24] INFO discord Write: aku kesepiann
+[2023-03-14 16:19:24] INFO discord Write: di rumah sendiriaaannn
+[2023-03-14 16:19:24] INFO discord Write: tidak ada temaannn
+[2023-03-14 16:19:24] INFO discord Write: <@!657831088483205120> main genshin setting nya apa
+[2023-03-14 16:19:24] INFO discord Write: > <@!657831088483205120> main genshin setting nya apa
+<@!333542428395044864> default
+[2023-03-14 16:19:24] INFO discord Write: lagi dungeon
+[2023-03-14 16:19:24] INFO discord Write: vsync nya di close aja ntar lebih smooth mouse movement nya
+[2023-03-14 16:19:24] INFO discord Write: btw fpsnya ga pernah nge drop kan
+[2023-03-14 16:19:24] INFO discord Write: abis teloport kadan kadang
+[2023-03-14 16:19:24] INFO discord Write: yang high quality plz
+[2023-03-14 16:19:58] ERROR discord.client Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\arta\Desktop\Farizzki\src\cogs\chat\chat.py", line 78, in message_listener
+    await RandomChat.insert(message.content)
+  File "c:\Users\arta\Desktop\Farizzki\src\cogs\chat\chat.py", line 40, in insert
+    fp.write(f"{message}\n")
+  File "C:\Users\arta\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f642' in position 11: character maps to <undefined>
+[2023-03-14 16:22:59] WARNING discord.client PyNaCl is not installed, voice will NOT be supported
+[2023-03-14 16:22:59] INFO discord.client logging in using static token
+[2023-03-14 16:23:00] INFO discord.gateway Shard ID None has connected to Gateway (Session ID: 60faf0bec7bb4d8ef18a759597b13943).
+[2023-03-14 16:23:02] INFO discord Loading cogs...
+[2023-03-14 16:23:02] INFO discord [chat] cog loaded.
+[2023-03-14 16:23:02] INFO discord [superuser] cog loaded.
+[2023-03-14 16:23:02] INFO discord Connected to Discord (latency: 255 ms).
+[2023-03-14 16:23:02] INFO discord Farizzki ready.
+[2023-03-14 16:23:11] INFO discord Write: BUT GAROKKUSU ID BACK
+[2023-03-14 16:23:11] INFO discord Write: <@!458449942370058271> 2 menit
+[2023-03-14 16:23:12] INFO discord Write: ga paham aku
+[2023-03-14 16:23:12] INFO discord Write: fuk
+/
+[2023-03-14 16:23:12] INFO discord Write: oh fuk
+[2023-03-14 16:23:14] INFO discord Write: coba pake +62
+[2023-03-14 16:23:15] INFO discord Write: tga tidur
+[2023-03-14 16:23:15] INFO discord Write: uhh gimana ya....
+[2023-03-14 16:23:15] INFO discord Write: asal jgn coli
+[2023-03-14 16:23:16] INFO discord Write: aku liat kamu jago main aj heboh ajg
+[2023-03-14 16:23:16] INFO discord Write: malah choke Q_Q
+[2023-03-14 16:23:16] INFO discord Write: <@!458449942370058271> ASTAGA KEPENCET STOP SERVER
+[2023-03-14 16:23:17] INFO discord Write: aku ngehit pas dia freeze state
+[2023-03-14 16:23:17] INFO discord Write: backup aja?
+[2023-03-14 16:23:22] INFO discord Write: aku restart wifi
+[2023-03-14 16:23:24] INFO discord Write: bisa buat ningkatin fps
+[2023-03-14 16:23:24] INFO discord Write: kan kita bikin server
+[2023-03-14 16:23:24] INFO discord Write: malem ga tidur
+[2023-03-14 16:23:24] INFO discord Write: yeuh gabisa tidur oakwokawokawokaw
+[2023-03-14 16:23:24] INFO discord Write: ketok" bilang gini
+[2023-03-14 16:23:26] INFO discord Write: Beli Lenovo ideapad Slim 3 Ryzen 3 4300U 8GB 512GB SSD Win10+OHS BLACK 
+https://tokopedia.link/Ipct31fTR7 di toko Sinarmulia Sukses Makmur Rp7.199.000 di Tokopedia dengan Bebas Ongkir, Sekarang!
+[2023-03-14 16:23:26] INFO discord Write: aku ga nyadar ajg
+[2023-03-14 16:23:26] INFO discord Write: Me at 11pm :
+[2023-03-14 16:23:26] INFO discord Write: klo ngga manual pake ps
+[2023-03-14 16:23:28] INFO discord Write: "duit bisa dicari, 
+memeq susah"
+~shadeva 2020
+[2023-03-14 16:23:28] INFO discord Write: coba fotoin stiker putih di laptopmu itu
+[2023-03-14 16:23:29] INFO discord Write: mau ga <@657831088483205120> ?
+[2023-03-14 16:23:29] INFO discord Write: ati" diculik
+[2023-03-14 16:23:30] INFO discord Write: Smh pedo
+[2023-03-14 16:23:30] INFO discord Write: y u spam me m8
+[2023-03-14 16:23:35] INFO discord Write: 2 sesi
+[2023-03-14 16:23:35] INFO discord Write: <@!657831088483205120> kemaren ambil gta v di epic ga
+[2023-03-14 16:23:35] INFO discord Write: <@!333542428395044864> <@!458449942370058271> kalian punya assassin's creed unity kan?
+[2023-03-14 16:23:36] INFO discord Write: Akun eater
+[2023-03-14 16:23:36] INFO discord Write: playable pokonnya
+[2023-03-14 16:23:37] INFO discord Write: dh malem ya
+[2023-03-14 16:23:37] INFO discord Write: baru round 3
+[2023-03-14 16:23:37] INFO discord Write: ~~klo aku donlod palingan vn 18+ bwt comli hwehe~~
+[2023-03-14 16:23:37] INFO discord Write: > ~~klo aku donlod palingan vn 18+ bwt comli hwehe~~
+<@!333542428395044864>
+[2023-03-14 16:23:38] INFO discord Write: emangnya kamu sampe kapan
+[2023-03-14 16:23:38] INFO discord Write: aku mau liat
+[2023-03-14 16:23:38] INFO discord Write: klo ga peleran
+[2023-03-14 16:23:38] INFO discord Write: ad dedicated micnya sendiri
+[2023-03-14 16:23:38] INFO discord Write: bude emangnya ngapain?
+[2023-03-14 16:23:39] INFO discord Write: pekora numba wan
+[2023-03-14 16:23:41] INFO discord Write: ya ga juga sih
+[2023-03-14 16:23:45] INFO discord Write: > btw masih main cs?
+<@333542428395044864> masih
+[2023-03-14 16:23:46] INFO discord Write: habis ini ranked valorant?
+[2023-03-14 16:23:46] INFO discord Write: Ish bruh
+[2023-03-14 16:23:47] INFO discord Write: tapi koneksiku jelek beud
+[2023-03-14 16:23:47] INFO discord Write: Aku gk pake laptop ku
+[2023-03-14 16:23:47] INFO discord Write: nemu 2 ga ada kapal qwatolbfgiuwaquiogbvaqUIOJBG33QWEABGIJOU3WEAUBIO
+[2023-03-14 16:23:48] INFO discord Write: aku reinstall softwarenya lah qawiopnqawiopbq3aoibgq
+[2023-03-14 16:23:48] INFO discord Write: ntar main kuy
+[2023-03-14 16:23:48] INFO discord Write: Makan di liar bruh
+https://media.tenor.com/images/d2bbe783bb141bf0a8ea589569512956/tenor.gif
+[2023-03-14 16:23:48] INFO discord Write: ganti chat server
+[2023-03-14 16:23:49] INFO discord Write: mayan mahal bruh
+[2023-03-14 16:23:49] INFO discord Write: kenapa wat
+[2023-03-14 16:23:49] INFO discord Write: bruh cover nya tokino sora di privateee
+[2023-03-14 16:23:50] INFO discord Write: kapan kapan mau po main r6 bareng
+[2023-03-14 16:23:50] INFO discord Write: > Ini dah 67%
+<@657831088483205120>  diskon nya
+[2023-03-14 16:23:50] INFO discord Write: <@!657831088483205120> brp persen donlodnya nich
+[2023-03-14 16:23:51] INFO discord Write: besok bisa ga
+[2023-03-14 16:23:51] INFO discord Write: hanjir 300km
+[2023-03-14 16:23:52] INFO discord Write: Set up is back baby
+[2023-03-14 16:23:57] INFO discord Write: ps potosop ya bukan playstation
+[2023-03-14 16:23:58] INFO discord Write: harga nya 200 an kan?
+[2023-03-14 16:23:58] INFO discord Write: aku delet apex ntar kalo install itu
+[2023-03-14 16:23:58] INFO discord Write: Background nya Artoria
+[2023-03-14 16:23:58] INFO discord Write: terus grinding arknight
+[2023-03-14 16:23:59] INFO discord Write: > pen main mc
+ini gimana :v
+[2023-03-14 16:24:01] INFO discord Write: ngga choke sih
+[2023-03-14 16:24:02] INFO discord Write: epic skip class untuk main persona
+[2023-03-14 16:24:03] INFO discord Write: huh what
+[2023-03-14 16:24:11] INFO discord Write: > main pubg lite yok
+<:picardia:724929165123518566>
+[2023-03-14 16:24:11] INFO discord Write: cuman load nya seabad
+[2023-03-14 16:24:12] INFO discord Write: mejaku kaca anjing
+[2023-03-14 16:24:13] INFO discord Write: <@!333542428395044864> kamu gk ikut?
+[2023-03-14 16:24:14] INFO discord Write: dat girl is a dikc
+[2023-03-14 16:24:15] INFO discord Write: aq kalo pake mouse aim nya incosistent
+[2023-03-14 16:24:16] INFO discord Write: > kan ada mbah gugel
+<@!458449942370058271>  mbah mu anjir
+[2023-03-14 16:24:17] INFO discord Write: bayangin dia ganti pose
+[2023-03-14 16:24:17] INFO discord Write: gacha nya pas economi biar stonks
+[2023-03-14 16:24:18] INFO discord Write: u think 1 tb murah??
+.
+[2023-03-14 16:24:18] INFO discord Write: haarga yang 500 gb klo new itu 600k
+[2023-03-14 16:24:19] INFO discord Write: > ryzen gen 4 dah keluar beelu?
+lom?
+[2023-03-14 16:24:21] INFO discord Write: > Muhammadiyah atau sekolah mu tok?
+sekolahku
+[2023-03-14 16:24:23] INFO discord Write: internet tak restart dulu
+[2023-03-14 16:24:27] INFO discord Write: gw yg suka loli aja disgusted ajg
+[2023-03-14 16:24:28] INFO discord Write: It doang
+[2023-03-14 16:24:29] INFO discord Write: again, what am i doing here
+[2023-03-14 16:24:29] INFO discord Write: animu gan
+[2023-03-14 16:24:29] INFO discord Write: kontol aku gabisa masuk ke hongkong
+[2023-03-14 16:24:32] INFO discord Write: dah mau ashar og
+[2023-03-14 16:24:32] INFO discord Write: Belom ta
+[2023-03-14 16:24:33] INFO discord Write: lampu ded
+[2023-03-14 16:24:33] INFO discord Write: pengen beli osu support :9
+[2023-03-14 16:24:33] INFO discord Write: suak comedy seinen?
+[2023-03-14 16:24:38] INFO discord Write: vc bentar
+[2023-03-14 16:24:38] INFO discord Write: vc masih 5000 ms
+[2023-03-14 16:24:39] INFO discord Write: ya mau aja klo kalian main
+[2023-03-14 16:24:41] INFO discord Write: teriak ngentod
+[2023-03-14 16:24:41] INFO discord Write: buat nge design
+[2023-03-14 16:24:41] INFO discord Write: smh guru kontol
+[2023-03-14 16:24:43] INFO discord Write: gamenya unstable beud
+[2023-03-14 16:24:43] INFO discord Write: udah alpha ya
+[2023-03-14 16:24:43] INFO discord Write: ngecrash 10x ada
+[2023-03-14 16:24:43] INFO discord Write: ngecrash terus
+[2023-03-14 16:24:43] INFO discord Write: baru levbel 10 tod
+[2023-03-14 16:24:43] INFO discord Write: dzaky diajak
+[2023-03-14 16:24:43] INFO discord Write: pew pew
+[2023-03-14 16:24:44] INFO discord Write: minus movement sama attac button
+[2023-03-14 16:24:45] INFO discord Write: gajadi reroll gan
+[2023-03-14 16:24:46] INFO discord Write: klean masi mau valorant kan?
+aku slep nih
+[2023-03-14 16:24:47] INFO discord Write: > lu gacha tokennya dapet brp sih?
+maksudnya apa
+[2023-03-14 16:24:48] INFO discord Write: juga ada razor
+[2023-03-14 16:24:48] INFO discord Write: noelle bisa kamu ganti apa aja
+[2023-03-14 16:24:48] INFO discord Write: yang ganti paling si mc
+[2023-03-14 16:24:49] INFO discord Write: I want barbara now
+[2023-03-14 16:24:49] INFO discord Write: > <@!657831088483205120> main genshin setting nya apa
+<@!333542428395044864> default
+[2023-03-14 16:24:50] INFO discord Write: btw klo mau collab aku dibs mona >:)
+[2023-03-14 16:24:50] INFO discord Write: aku dibs keqing
+[2023-03-14 16:24:50] INFO discord Write: keqing itu bukan nekomimi?
+[2023-03-14 16:24:50] INFO discord Write: tetep kawaii tapi
+[2023-03-14 16:24:50] INFO discord Write: wtf main genshin seharian pcku jadi room heater!!
+[2023-03-14 16:24:50] INFO discord Write: tgg bentar
+[2023-03-14 16:24:50] INFO discord Write: nyalain gi lama dik hp
+[2023-03-14 16:24:50] INFO discord Write: oh btw akunku baru
+[2023-03-14 16:24:50] INFO discord Write: keknya :/
+[2023-03-14 16:24:50] INFO discord Write: klo dapet aku pake akun ini
+[2023-03-14 16:24:50] INFO discord Write: klo ga aku buang
+[2023-03-14 16:24:50] INFO discord Write: mungkin kuat
+[2023-03-14 16:24:50] INFO discord Write: hpmu kan 1080p kan
+[2023-03-14 16:24:50] INFO discord Write: dilihat dari seberapa seringnya ngecrash mungkin ga sejauh itu bedanya berat main di hp sama pc
+[2023-03-14 16:24:50] INFO discord Write: hpku lebih bagus daripada laptop
+[2023-03-14 16:24:50] INFO discord Write: apakah hpmu bisa main cs
+[2023-03-14 16:24:50] INFO discord Write: kita jawab pertanyaan itu di masa depan
+[2023-03-14 16:24:51] INFO discord Write: itu mah setara 1.6
+[2023-03-14 16:24:51] INFO discord Write: terlalu polos
+[2023-03-14 16:24:51] INFO discord Write: men aku gabisa ngedit gambar kek yang collabmu
+[2023-03-14 16:24:51] INFO discord Write: terlalu epik
+[2023-03-14 16:24:51] INFO discord Write: aku bnub
+[2023-03-14 16:24:51] INFO discord Write: bayangin aku pake chrome
+[2023-03-14 16:24:51] INFO discord Write: berapa mb launchernya?
+[2023-03-14 16:24:51] INFO discord Write: up di mega bisa?
+[2023-03-14 16:24:51] INFO discord Write: klo ga ya gajadi deh
+[2023-03-14 16:24:51] INFO discord Write: stay di hp
+[2023-03-14 16:24:51] INFO discord Write: tuh link buttonnya
+[2023-03-14 16:24:51] INFO discord Write: keknya aku akirameru
+[2023-03-14 16:24:51] INFO discord Write: i mean..
+[2023-03-14 16:24:51] INFO discord Write: liat ram usage 6g
+[2023-03-14 16:24:51] INFO discord Write: ah fuk
+[2023-03-14 16:24:51] INFO discord Write: ga dapet 5 star
+[2023-03-14 16:24:51] INFO discord Write: kembali ke main acc :3
+[2023-03-14 16:24:51] INFO discord Write: aku tenggelam lol'
+[2023-03-14 16:24:51] INFO discord Write: aku manut dzaky
+[2023-03-14 16:24:51] INFO discord Write: nanti abis selesai
+[2023-03-14 16:25:53] WARNING discord.client PyNaCl is not installed, voice will NOT be supported
+[2023-03-14 16:25:53] INFO discord.client logging in using static token
+[2023-03-14 16:25:55] INFO discord.gateway Shard ID None has connected to Gateway (Session ID: 9056755cd1d44ff8be8c1ddc72978365).
+[2023-03-14 16:25:57] INFO discord Loading cogs...
+[2023-03-14 16:25:57] INFO discord [chat] cog loaded.
+[2023-03-14 16:25:57] INFO discord [superuser] cog loaded.
+[2023-03-14 16:25:57] INFO discord Connected to Discord (latency: 265 ms).
+[2023-03-14 16:25:57] INFO discord Farizzki ready.
+[2023-03-14 16:26:00] INFO discord Write: <@!458449942370058271> hmmmm saia curryga
+[2023-03-14 16:26:00] INFO discord Write: bahasa jawa
+[2023-03-14 16:26:02] INFO discord Write: fuk
+/
+[2023-03-14 16:26:04] INFO discord Write: yang nyanyi klo ishuzoku rev itu laki
+[2023-03-14 16:26:12] INFO discord Write: <@!333542428395044864> lu ujian kapan
+[2023-03-14 16:26:12] INFO discord Write: ada easter egg
+[2023-03-14 16:26:13] INFO discord Write: mc ga nyampe 100mb ya
+[2023-03-14 16:26:15] INFO discord Write: Tau nya processor nya Intel i3
+[2023-03-14 16:26:15] INFO discord Write: Beli Lenovo ideapad Slim 3 Ryzen 3 4300U 8GB 512GB SSD Win10+OHS BLACK 
+https://tokopedia.link/Ipct31fTR7 di toko Sinarmulia Sukses Makmur Rp7.199.000 di Tokopedia dengan Bebas Ongkir, Sekarang!
+[2023-03-14 16:26:15] INFO discord Write: <@!333542428395044864> aku ngemap beatmap ngechill gan
+[2023-03-14 16:26:16] INFO discord Write: dia ngomong indo ap inggris
+[2023-03-14 16:26:17] INFO discord Write: Nvidia GeForce taunya
+[2023-03-14 16:26:17] INFO discord Write: "duit bisa dicari, 
+memeq susah"
+~shadeva 2020
+[2023-03-14 16:26:18] INFO discord Write: apalagi main ff
+[2023-03-14 16:26:23] INFO discord Write: si tuba man
+[2023-03-14 16:26:23] INFO discord Write: liatin bawa walkie talkie ga dia
+[2023-03-14 16:26:24] INFO discord Write: yang guang cai hong xiao bai ma
+[2023-03-14 16:26:25] INFO discord Write: mulai nya kamu kapan?
+[2023-03-14 16:26:26] INFO discord Write: tapi klo pas lagi chaotic ya drop fpsnya
+[2023-03-14 16:26:26] INFO discord Write: kamu pake mic laptop apa earphone
+[2023-03-14 16:26:27] INFO discord Write: <@!657831088483205120> dah bisa mic nya?
+[2023-03-14 16:26:27] INFO discord Write: > ~~klo aku donlod palingan vn 18+ bwt comli hwehe~~
+<@!333542428395044864>
+[2023-03-14 16:26:29] INFO discord Write: aku ga bisa ngegrip pake mouse assuu
+[2023-03-14 16:26:29] INFO discord Write: <@!657831088483205120> main arknight dong
+[2023-03-14 16:26:35] INFO discord Write: > btw masih main cs?
+<@333542428395044864> masih
+[2023-03-14 16:26:38] INFO discord Write: Makan di liar bruh
+https://media.tenor.com/images/d2bbe783bb141bf0a8ea589569512956/tenor.gif
+[2023-03-14 16:26:38] INFO discord Write: bruh wtf
+[2023-03-14 16:26:39] INFO discord Write: > Ini dah 67%
+<@657831088483205120>  diskon nya
+[2023-03-14 16:26:47] INFO discord Write: bruh <@!458449942370058271> main cs pagi pagi
+[2023-03-14 16:26:48] INFO discord Write: cuman ulangan mtk
+[2023-03-14 16:26:49] INFO discord Write: > pen main mc
+ini gimana :v
+[2023-03-14 16:26:49] INFO discord Write: sholat dulu sayang
+[2023-03-14 16:26:49] INFO discord Write: valorant ama discordku dying
+[2023-03-14 16:26:59] INFO discord Write: seru bjir
+[2023-03-14 16:26:59] INFO discord Write: aku juga ujian
+[2023-03-14 16:27:00] INFO discord Write: langsung salah rip nilai
+[2023-03-14 16:27:00] INFO discord Write: > main pubg lite yok
+<:picardia:724929165123518566>
+[2023-03-14 16:27:01] INFO discord Write: pengen supporter
+[2023-03-14 16:27:04] INFO discord Write: bakal langsung bisa 5* kalo switch ke tablet
+[2023-03-14 16:27:05] INFO discord Write: > kan ada mbah gugel
+<@!458449942370058271>  mbah mu anjir
+[2023-03-14 16:27:05] INFO discord Write: man r6 size nya gede banget
+[2023-03-14 16:27:05] INFO discord Write: hitman aja 36 gb
+[2023-03-14 16:27:06] INFO discord Write: damn femboy
+[2023-03-14 16:27:07] INFO discord Write: eh s2 aj
+[2023-03-14 16:27:08] INFO discord Write: u think 1 tb murah??
+.
+[2023-03-14 16:27:08] INFO discord Write: ad yg review crystal disk mark speednya deket ke 200
+[2023-03-14 16:27:08] INFO discord Write: gatau pass apa ngga
+[2023-03-14 16:27:08] INFO discord Write: > ryzen gen 4 dah keluar beelu?
+lom?
+[2023-03-14 16:27:13] INFO discord Write: belom maen remnant
+[2023-03-14 16:27:14] INFO discord Write: > Muhammadiyah atau sekolah mu tok?
+sekolahku
+[2023-03-14 16:27:16] INFO discord Write: bji4r di uploiad owakwoakwoaka
+[2023-03-14 16:27:16] INFO discord Write: illegal loli hentai but not actually a hentai manga
+[2023-03-14 16:27:16] INFO discord Write: <@!657831088483205120> big update
+[2023-03-14 16:27:17] INFO discord Write: Dana mau ikut nonton ga?
+[2023-03-14 16:27:18] INFO discord Write: abis asar aku slep
+[2023-03-14 16:27:25] INFO discord Write: me when my kaki kesemutan
+[2023-03-14 16:27:25] INFO discord Write: nah ketemu poto ini
+[2023-03-14 16:27:28] INFO discord Write: soalnya sosiologi
+[2023-03-14 16:27:29] INFO discord Write: lebih jelas klo nge gugel
+[2023-03-14 16:27:36] INFO discord Write: ah yes i feel that
+[2023-03-14 16:27:38] INFO discord Write: <@!458449942370058271> nih tempat ice flowernya
+[2023-03-14 16:27:38] INFO discord Write: member servermu brp
+[2023-03-14 16:27:39] INFO discord Write: ntar belom slesai compe ini
+[2023-03-14 16:27:39] INFO discord Write: genshin impact lebih ke processor ya
+[2023-03-14 16:27:39] INFO discord Write: klean masi mau valorant kan?
+aku slep nih
+[2023-03-14 16:27:40] INFO discord Write: whitecat kan unbanned player
+[2023-03-14 16:27:40] INFO discord Write: > lu gacha tokennya dapet brp sih?
+maksudnya apa
+[2023-03-14 16:27:44] INFO discord Write: > <@!657831088483205120> main genshin setting nya apa
+<@!333542428395044864> default
+[2023-03-14 16:27:44] INFO discord Write: aku gacha dulu
+[2023-03-14 16:27:44] INFO discord Write: cs kw di ps?
+[2023-03-14 16:27:44] INFO discord Write: ngarep bisa main gi di laptop?
+[2023-03-14 16:28:26] WARNING discord.client PyNaCl is not installed, voice will NOT be supported
+[2023-03-14 16:28:26] INFO discord.client logging in using static token
+[2023-03-14 16:28:29] INFO discord.gateway Shard ID None has connected to Gateway (Session ID: b01867c7456d67ef07bd4272f4887b83).
+[2023-03-14 16:28:31] INFO discord Loading cogs...
+[2023-03-14 16:28:31] INFO discord [chat] cog loaded.
+[2023-03-14 16:28:31] INFO discord [superuser] cog loaded.
+[2023-03-14 16:28:31] INFO discord Connected to Discord (latency: 364 ms).
+[2023-03-14 16:28:31] INFO discord Farizzki ready.
+[2023-03-14 16:28:33] ERROR discord.ext.commands.bot Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "apkabs" is not found
+[2023-03-14 16:28:58] ERROR discord.ext.commands.bot Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "jual" is not found
+[2023-03-14 16:29:45] INFO discord Write: <@333542428395044864> tanyain duda dia ngefilter messagenya gimana
+[2023-03-14 16:30:20] INFO discord Write: filter message yang masuk ke dbnya dia
+[2023-03-14 16:37:56] INFO discord Write: siap bang
+[2023-03-14 16:39:57] ERROR discord.client Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\arta\Desktop\Farizzki\src\cogs\chat\chat.py", line 77, in message_listener
+    return
+           
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\langdetect\detector_factory.py", line 137, in detect_langs
+    return detector.get_probabilities()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\langdetect\detector.py", line 143, in get_probabilities
+    self._detect_block()
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\langdetect\detector.py", line 150, in _detect_block
+    raise LangDetectException(ErrorCode.CantDetectError, 'No features in text.')
+langdetect.lang_detect_exception.LangDetectException: No features in text.
+[2023-03-14 16:40:24] INFO discord Write: ya filternya apa aja, aku tau ada filternya tapi kan ya...
+[2023-03-14 16:40:46] INFO discord Write: gatau filternya apa
+[2023-03-14 16:41:40] INFO discord Write: sama @ juga di filter
+[2023-03-14 16:41:49] INFO discord Write: dah dijawab tuh
+[2023-03-14 16:41:56] INFO discord Write: aku filter bot sama tag udah
+[2023-03-14 16:41:59] INFO discord Write: yaudahe deh
+[2023-03-14 16:42:08] INFO discord Write: mending tanya langsung
+[2023-03-14 16:42:11] INFO discord Write: saya kan bukan anak it
+[2023-03-14 16:42:14] INFO discord Write: aku membatu
+[2023-03-14 16:42:42] INFO discord Write: duh sulit ini
+[2023-03-14 16:43:16] INFO discord Write: aku baru sadar
+[2023-03-14 16:43:25] INFO discord Write: kita ngetik itu tolol banget anjir
+[2023-03-14 16:44:05] INFO discord Write: aku improve lah filternya
+[2023-03-14 16:44:48] INFO discord Write: ini log yang baru wkwkwkw
+[2023-03-14 16:45:31] INFO discord Write: kita ga pernah @ everyone keknya disini
+[2023-03-14 16:45:35] INFO discord Write: kalo pernmah jarang banget
+[2023-03-14 16:45:44] INFO discord Write: jadi kalio dia mention itu berarti sedang hoki
+[2023-03-14 16:45:54] INFO discord Write: aku mau remove semua mention chat
+[2023-03-14 16:46:23] INFO discord Write: biar ngeping random
+[2023-03-14 16:46:37] ERROR discord.client Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\arta\Desktop\Farizzki\src\cogs\chat\chat.py", line 85, in message_response
+  File "c:\Users\arta\Desktop\Farizzki\src\cogs\chat\chat.py", line 50, in get
+    async def get() -> None:
+              ^^^^^^^^^^^^^^^
+  File "C:\Users\arta\AppData\Local\Programs\Python\Python311\Lib\random.py", line 370, in choice
+    raise IndexError('Cannot choose from an empty sequence')
+IndexError: Cannot choose from an empty sequence
+[2023-03-14 16:48:11] ERROR discord.client Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\arta\Desktop\Farizzki\src\cogs\chat\chat.py", line 85, in message_response
+  File "c:\Users\arta\Desktop\Farizzki\src\cogs\chat\chat.py", line 50, in get
+    async def get() -> None:
+              ^^^^^^^^^^^^^^^
+  File "C:\Users\arta\AppData\Local\Programs\Python\Python311\Lib\random.py", line 370, in choice
+    raise IndexError('Cannot choose from an empty sequence')
+IndexError: Cannot choose from an empty sequence
+[2023-03-14 16:48:34] ERROR discord.client Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\arta\Desktop\Farizzki\src\cogs\chat\chat.py", line 85, in message_response
+  File "c:\Users\arta\Desktop\Farizzki\src\cogs\chat\chat.py", line 50, in get
+    async def get() -> None:
+              ^^^^^^^^^^^^^^^
+  File "C:\Users\arta\AppData\Local\Programs\Python\Python311\Lib\random.py", line 370, in choice
+    raise IndexError('Cannot choose from an empty sequence')
+IndexError: Cannot choose from an empty sequence
+[2023-03-14 16:48:45] INFO discord Write: lah ga dibales
+[2023-03-14 16:49:17] INFO discord Write: lah gajelas
+[2023-03-14 16:50:11] ERROR discord.client Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\arta\Desktop\Farizzki\src\cogs\chat\chat.py", line 85, in message_response
+  File "c:\Users\arta\Desktop\Farizzki\src\cogs\chat\chat.py", line 50, in get
+    async def get() -> None:
+              ^^^^^^^^^^^^^^^
+  File "C:\Users\arta\AppData\Local\Programs\Python\Python311\Lib\random.py", line 370, in choice
+    raise IndexError('Cannot choose from an empty sequence')
+IndexError: Cannot choose from an empty sequence
+[2023-03-14 16:51:12] INFO discord Write: sumpah random banget
+[2023-03-14 16:51:18] INFO discord Write: seru anjing WKKWKWKWKWK
+[2023-03-14 16:51:26] INFO discord Write: kalo gabut mending ngomong dengan beliau
+[2023-03-14 16:51:28] ERROR discord.client Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\arta\Desktop\Farizzki\src\cogs\chat\chat.py", line 85, in message_response
+  File "c:\Users\arta\Desktop\Farizzki\src\cogs\chat\chat.py", line 50, in get
+    async def get() -> None:
+              ^^^^^^^^^^^^^^^
+  File "C:\Users\arta\AppData\Local\Programs\Python\Python311\Lib\random.py", line 370, in choice
+    raise IndexError('Cannot choose from an empty sequence')
+IndexError: Cannot choose from an empty sequence
+[2023-03-14 16:51:38] INFO discord Write: yah dikacangin aku
+[2023-03-14 16:51:41] INFO discord Write: cape kali
+[2023-03-14 16:52:05] INFO discord Write: keknya memory leak deh
+[2023-03-14 16:52:22] ERROR discord.client Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\arta\Desktop\Farizzki\src\cogs\chat\chat.py", line 85, in message_response
+  File "c:\Users\arta\Desktop\Farizzki\src\cogs\chat\chat.py", line 50, in get
+    async def get() -> None:
+              ^^^^^^^^^^^^^^^
+  File "C:\Users\arta\AppData\Local\Programs\Python\Python311\Lib\random.py", line 370, in choice
+    raise IndexError('Cannot choose from an empty sequence')
+IndexError: Cannot choose from an empty sequence
+[2023-03-14 16:54:13] INFO discord Write: mungkin kukasih datetime aja kali ya
+[2023-03-14 16:54:20] INFO discord Write: jadi chat yang recent gabisa jadi reply
+[2023-03-14 16:54:38] INFO discord Write: tapi ntar harus di update terus?
+[2023-03-14 16:55:04] INFO discord Write: otomatis kok data entrynya
+[2023-03-14 16:55:53] ERROR discord.client Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\arta\Desktop\Farizzki\src\cogs\chat\chat.py", line 85, in message_response
+  File "c:\Users\arta\Desktop\Farizzki\src\cogs\chat\chat.py", line 50, in get
+    async def get() -> None:
+              ^^^^^^^^^^^^^^^
+  File "C:\Users\arta\AppData\Local\Programs\Python\Python311\Lib\random.py", line 370, in choice
+    raise IndexError('Cannot choose from an empty sequence')
+IndexError: Cannot choose from an empty sequence
+[2023-03-14 16:57:15] INFO discord.gateway Shard ID None has successfully RESUMED session b01867c7456d67ef07bd4272f4887b83.
+[2023-03-14 17:00:55] ERROR discord.client Attempting a reconnect in 1.46s
+Traceback (most recent call last):
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\discord\client.py", line 659, in connect
+    await self.ws.poll_event()
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\discord\gateway.py", line 646, in poll_event
+    raise ConnectionClosed(self.socket, shard_id=self.shard_id, code=code) from None
+discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 1000
+[2023-03-14 17:01:25] INFO discord.gateway Shard ID None has successfully RESUMED session b01867c7456d67ef07bd4272f4887b83.
+[2023-03-14 17:01:47] INFO discord Write: <@333542428395044864> ip ban dep
+[2023-03-14 18:32:27] ERROR discord.client Attempting a reconnect in 0.85s
+Traceback (most recent call last):
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 867, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\AppData\Local\Programs\Python\Python311\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\AppData\Local\Programs\Python\Python311\Lib\asyncio\tasks.py", line 479, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\discord\http.py", line 536, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+[2023-03-14 18:32:28] ERROR discord.client Attempting a reconnect in 0.58s
+Traceback (most recent call last):
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 867, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\AppData\Local\Programs\Python\Python311\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\AppData\Local\Programs\Python\Python311\Lib\asyncio\tasks.py", line 479, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\discord\http.py", line 536, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+[2023-03-14 18:32:29] ERROR discord.client Attempting a reconnect in 6.07s
+Traceback (most recent call last):
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 867, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\AppData\Local\Programs\Python\Python311\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\AppData\Local\Programs\Python\Python311\Lib\asyncio\tasks.py", line 479, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\discord\http.py", line 536, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+[2023-03-14 18:32:35] ERROR discord.client Attempting a reconnect in 13.55s
+Traceback (most recent call last):
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 867, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\AppData\Local\Programs\Python\Python311\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\AppData\Local\Programs\Python\Python311\Lib\asyncio\tasks.py", line 479, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\discord\http.py", line 536, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+[2023-03-14 18:32:49] INFO discord.gateway Shard ID None session has been invalidated.
+[2023-03-14 18:32:55] INFO discord.gateway Shard ID None has connected to Gateway (Session ID: f9fd9bb1002536eb6992089019bd2883).
+[2023-03-14 18:32:57] INFO discord Loading cogs...
+[2023-03-14 18:32:57] WARNING discord Extension 'cogs.chat.chat' is already loaded.
+[2023-03-14 18:32:57] WARNING discord Extension 'cogs.superuser.superuser' is already loaded.
+[2023-03-14 18:32:57] INFO discord Connected to Discord (latency: 4,995 ms).
+[2023-03-14 18:32:57] INFO discord Farizzki ready.
+[2023-03-14 18:33:10] ERROR discord.client Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\arta\Desktop\Farizzki\.venv\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\arta\Desktop\Farizzki\src\cogs\chat\chat.py", line 85, in message_response
+    if message.author.bot:
+                           
+  File "c:\Users\arta\Desktop\Farizzki\src\cogs\chat\chat.py", line 50, in get
+  File "C:\Users\arta\AppData\Local\Programs\Python\Python311\Lib\random.py", line 370, in choice
+    raise IndexError('Cannot choose from an empty sequence')
+IndexError: Cannot choose from an empty sequence
